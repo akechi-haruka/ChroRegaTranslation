@@ -1,7 +1,7 @@
 Chrono Regalia English Translation
 (c) 2023-2024 Haruka, Yonokid
-Licensed under CC BY-NC-SA
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 -------------
 
