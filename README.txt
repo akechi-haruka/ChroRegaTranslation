@@ -1,5 +1,5 @@
 Chrono Regalia English Translation
-2023-2024 Haruka, Yonokid
+(c) 2023-2024 Haruka, Yonokid
 
 -------------
 
