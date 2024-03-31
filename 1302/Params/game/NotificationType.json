@@ -1,0 +1,106 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "自由文",
+			"displayPriority" : 1,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 2,
+			"name" : "パーティ付与",
+			"displayPriority" : 2,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 3,
+			"name" : "キャラクター付与",
+			"displayPriority" : 3,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 4,
+			"name" : "コードネーム付与",
+			"displayPriority" : 4,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "ユニーク",
+			"iconType" : 1,
+			"iconName" : "CMN_PersonalTitleIcon_0000"
+		},
+		{
+			"id" : 5,
+			"name" : "カード付与",
+			"displayPriority" : 5,
+			"!countType" : "×",
+			"countType" : 1,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 6,
+			"name" : "素材付与",
+			"displayPriority" : 6,
+			"!countType" : "×",
+			"countType" : 1,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 7,
+			"name" : "チケット付与",
+			"displayPriority" : 7,
+			"!countType" : "×",
+			"countType" : 1,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 8,
+			"name" : "クロレガコイン付与",
+			"itemName" : "クロレガコイン",
+			"displayPriority" : 8,
+			"!countType" : "枚",
+			"countType" : 3,
+			"!iconType" : "ユニーク",
+			"iconType" : 1,
+			"iconName" : "CMN_Resource_Material_0201"
+		},
+		{
+			"id" : 9,
+			"name" : "ドロー種別解放",
+			"displayPriority" : 9,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 10,
+			"name" : "警告文",
+			"displayPriority" : 10,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		},
+		{
+			"id" : 11,
+			"name" : "イベントハイスコア報酬付与",
+			"displayPriority" : 11,
+			"!countType" : "非表示",
+			"countType" : 0,
+			"!iconType" : "各カテゴリ別",
+			"iconType" : 2
+		}
+	]
+}

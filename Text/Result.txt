@@ -1,0 +1,16 @@
+タッチして次へ=Touch to continue
+リザルト=Result
+獲得スコア=Acquired Score
+累計スコア=Cumulative Score
+スコア評価=Score Evaluation
+獲得ランクポイント=Rank Points Gained
+プレイヤーランク=Player Rank
+アイテム　×9999=Items x 9999
+確認=Confirm
+※所持上限を超えた分は破棄されます。=* Any items exceeding the maximum owned will be discarded.
+獲得一覧=Obtained Items
+残りスタンプ台紙=Stamp Banners Remaining
+開催期間 2023/10/31 20:00:00 ～ 2023/11/29 19:00:00=Hall period 2023/10/31 20:00:00 to 2023/11/29 19:00:00
+スタンプを獲得しました！=Stamp Collected!
+所持：999999999袋=Possession: 9999999999 bags
+獲得：=Collected:

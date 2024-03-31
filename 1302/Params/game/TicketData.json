@@ -1,0 +1,76 @@
+{
+	"datalist" : [
+		{
+			"id" : 101,
+			"name" : "Summon Assist Ticket",
+			"iconName" : "CMN_Resource_Material_0101",
+			"forcedUse" : 0,
+			"display" : 1,
+			"sortId" : 5,
+			"info" : "5 Assists Tickets for 1 Card Summon."
+		},
+		{
+			"id" : 102,
+			"name" : "SR or higher Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0102",
+			"forcedUse" : 1,
+			"display" : 1,
+			"sortId" : 4,
+			"info" : "Use 1 to summon a card, and you will<br>always get a UR or higher rarity card.<br>Let's strengthen your deck."
+		},
+		{
+			"id" : 103,
+			"name" : "UR or higher Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0103",
+			"forcedUse" : 1,
+			"display" : 1,
+			"sortId" : 3,
+			"info" : "Use 1 to summon a card, and you will<br>always get a UR or higher rarity card. Get your trump card!"
+		},
+		{
+			"id" : 104,
+			"name" : "UR Guaranteed Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0104",
+			"forcedUse" : 1,
+			"display" : 1,
+			"sortId" : 2,
+			"info" : "Use 1 to summon a UR card.<br>Think of a new strategy."
+		},
+		{
+			"id" : 105,
+			"name" : "LE Guaranteed Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0105",
+			"forcedUse" : 1,
+			"display" : 1,
+			"sortId" : 1,
+			"info" : "What a surprise!　Use 1 to summon an LE card.<br>By the power of the gods!"
+		},
+		{
+			"id" : 106,
+			"name" : "SEN SEN SEN KI Location Test Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0101",
+			"forcedUse" : 1,
+			"display" : 0,
+			"sortId" : 100,
+			"info" : "Thank you for your participation<br>in the SEN SEN SEN KI location test!"
+		},
+		{
+			"id" : 107,
+			"name" : "Pre-Location Test Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0101",
+			"forcedUse" : 1,
+			"display" : 0,
+			"sortId" : 101,
+			"info" : "Thank you for your participation<br>in the pre-location test!"
+		},
+		{
+			"id" : 108,
+			"name" : "New User Summon Ticket",
+			"iconName" : "CMN_Resource_Material_0105",
+			"forcedUse" : 1,
+			"display" : 1,
+			"sortId" : 102,
+			"info" : "Use one to summon an LE card. Let's put it in the deck right away!"
+		}
+	]
+}

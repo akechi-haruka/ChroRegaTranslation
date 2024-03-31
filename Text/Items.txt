@@ -1,0 +1,2 @@
+【{{A}}.NET専用アイテム】=[{{A}}.NET exclusive item]
+r:"(.*)<br>([0-9]+)枚が(.*?)に失効します。"=$1<br>$2 expire on $3.

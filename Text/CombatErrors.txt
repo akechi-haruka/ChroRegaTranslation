@@ -1,0 +1,30 @@
+#NOT_USE_IN_ATTACK,
+#NOT_USE_IN_BATTLE,
+#LESS_LEVEL,
+#LESS_MP,
+#NO_TARGET,
+#NOT_USE,
+#CANCEL_RESERVE,
+#NO_ENTRY_LINE,
+#LOST_LINE,
+#NOT_USE_TMP,
+#NOT_ENTRY_TIME,
+#NOT_ENTRY_TIME_IN_EVENT,
+#SPSKILL_LESS_GAUGE,
+#NOT_USE_TIME_IN_EVENT,
+#SEAL_MAGIC,
+出撃中は使用できません=Unusable in sortie
+戦闘中は使用できません=Unusable in battle
+レベルが足りません=Level too low
+MPが足りません=Not enough MP
+使用できる対象がいません=No target
+現在使用できません=Currently unusable
+使用できませんでした=Failed to use
+エントリーできるレーンがありません=No lanes available
+レーンを取られた！=Lane was taken!
+一時的に使用できません=Temporarily unavailable
+間に合わなかった！=Activation time missed!
+演出中はエントリーできません=Unavailable during cutscene
+まだ使用できません=Regalia not charged
+演出中は使用できません=Unavailable during cutscene
+魔法が使えない状態です=Magic is unusable

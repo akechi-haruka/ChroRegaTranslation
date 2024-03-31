@@ -1,0 +1,174 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "None",
+			"red" : 0,
+			"green" : 0,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 1,
+			"name" : "Before Satellite Login",
+			"red" : 255,
+			"green" : 255,
+			"blue" : 255,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Before Terminal login",
+			"red" : 255,
+			"green" : 200,
+			"blue" : 180,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 3,
+			"name" : "After Login",
+			"red" : 0,
+			"green" : 82,
+			"blue" : 255,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 4,
+			"name" : "Entering Battle",
+			"red" : 169,
+			"green" : 255,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 5,
+			"name" : "Error",
+			"red" : 255,
+			"green" : 0,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 6,
+			"name" : "Battle (Yellow)",
+			"red" : 255,
+			"green" : 174,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 7,
+			"name" : "Battle (Orange)",
+			"red" : 255,
+			"green" : 85,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 8,
+			"name" : "Battle (Red)",
+			"red" : 255,
+			"green" : 16,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 9,
+			"name" : "Battle (Win)",
+			"red" : 169,
+			"green" : 255,
+			"blue" : 0,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		},
+		{
+			"id" : 10,
+			"name" : "Battle (Lose)",
+			"red" : 0,
+			"green" : 0,
+			"blue" : 0,
+			"flashing" : 0,
+			"ontime" : 0,
+			"offtime" : 0
+		},
+		{
+			"id" : 11,
+			"name" : "Gacha (Red)",
+			"red" : 255,
+			"green" : 5,
+			"blue" : 0,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		},
+		{
+			"id" : 12,
+			"name" : "Gacha (Green)",
+			"red" : 0,
+			"green" : 255,
+			"blue" : 0,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		},
+		{
+			"id" : 13,
+			"name" : "Gacha (Blue)",
+			"red" : 0,
+			"green" : 0,
+			"blue" : 255,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		},
+		{
+			"id" : 14,
+			"name" : "Gacha (Yellow)",
+			"red" : 200,
+			"green" : 134,
+			"blue" : 0,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		},
+		{
+			"id" : 15,
+			"name" : "Gacha (Brown)",
+			"red" : 220,
+			"green" : 50,
+			"blue" : 0,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		},
+		{
+			"id" : 16,
+			"name" : "Gacha (Purple)",
+			"red" : 129,
+			"green" : 0,
+			"blue" : 191,
+			"flashing" : 1,
+			"ontime" : 500,
+			"offtime" : 150
+		}
+	]
+}

@@ -1,0 +1,2468 @@
+{
+	"datalist" : [
+		{
+			"id" : 1001001,
+			"name" : "Young God",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Played Chrono Regalia"
+		},
+		{
+			"id" : 1100001,
+			"name" : "新たなる戦神",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Played a total of 100 battles"
+		},
+		{
+			"id" : 1100002,
+			"name" : "歴戦の戦神",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Played a total of 500 battles"
+		},
+		{
+			"id" : 1100003,
+			"name" : "乱世の軍神",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Played a total of 1,500 battles"
+		},
+		{
+			"id" : 1100004,
+			"name" : "血塗られた軍神",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Played a total of 3,000 battles"
+		},
+		{
+			"id" : 1100005,
+			"name" : "伝説の闘神",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Played a total of 5,000 battles"
+		},
+		{
+			"id" : 1101001,
+			"name" : "もっと勝ちたい…",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Won a total of 50 battles"
+		},
+		{
+			"id" : 1101002,
+			"name" : "勝利を追い続ける者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Won a total of 300 battles"
+		},
+		{
+			"id" : 1101003,
+			"name" : "勝利への探究心",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Won a total of 750 battles"
+		},
+		{
+			"id" : 1101004,
+			"name" : "勝利への渇望",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Won a total of 1,500 battles"
+		},
+		{
+			"id" : 1101005,
+			"name" : "勝利こそ全てだ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Won a total of 2,500 battles"
+		},
+		{
+			"id" : 1110001,
+			"name" : "見習い戦士",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Alec in a total of 100 battles"
+		},
+		{
+			"id" : 1110002,
+			"name" : "新米戦士",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Alec in a total of 500 battles"
+		},
+		{
+			"id" : 1110003,
+			"name" : "一流の戦士",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Alec in a total of 1,500 battles"
+		},
+		{
+			"id" : 1110004,
+			"name" : "歴戦の戦士",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Alec in a total of 3,000 battles"
+		},
+		{
+			"id" : 1110005,
+			"name" : "伝説の戦士",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Alec in a total of 5,000 battles"
+		},
+		{
+			"id" : 1111001,
+			"name" : "見習い狩人",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Luca in a total of 100 battles"
+		},
+		{
+			"id" : 1111002,
+			"name" : "新米狩人",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Luca in a total of 500 battles"
+		},
+		{
+			"id" : 1111003,
+			"name" : "一流の狩人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Luca in a total of 1,500 battles"
+		},
+		{
+			"id" : 1111004,
+			"name" : "歴戦の狩人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Luca in a total of 3,000 battles"
+		},
+		{
+			"id" : 1111005,
+			"name" : "伝説の狩人",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Luca in a total of 5,000 battles"
+		},
+		{
+			"id" : 1112001,
+			"name" : "見習い学者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Soken in a total of 100 battles"
+		},
+		{
+			"id" : 1112002,
+			"name" : "新米学者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Soken in a total of 500 battles"
+		},
+		{
+			"id" : 1112003,
+			"name" : "一流の学者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Soken in a total of 1,500 battles"
+		},
+		{
+			"id" : 1112004,
+			"name" : "歴戦の学者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Soken in a total of 3,000 battles"
+		},
+		{
+			"id" : 1112005,
+			"name" : "伝説の学者",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Soken in a total of 5,000 battles"
+		},
+		{
+			"id" : 1113001,
+			"name" : "見習い僧侶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Lotta in a total of 100 battles"
+		},
+		{
+			"id" : 1113002,
+			"name" : "新米僧侶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Lotta in a total of 500 battles"
+		},
+		{
+			"id" : 1113003,
+			"name" : "一流の僧侶",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Lotta in a total of 1,500 battles"
+		},
+		{
+			"id" : 1113004,
+			"name" : "歴戦の僧侶",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Lotta in a total of 3,000 battles"
+		},
+		{
+			"id" : 1113005,
+			"name" : "伝説の僧侶",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Lotta in a total of 5,000 battles"
+		},
+		{
+			"id" : 1114001,
+			"name" : "見習い騎士",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Bernalio in a total of 100 battles"
+		},
+		{
+			"id" : 1114002,
+			"name" : "新米騎士",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Bernalio in a total of 500 battles"
+		},
+		{
+			"id" : 1114003,
+			"name" : "一流の騎士",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Bernalio in a total of 1,500 battles"
+		},
+		{
+			"id" : 1114004,
+			"name" : "歴戦の騎士",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Bernalio in a total of 3,000 battles"
+		},
+		{
+			"id" : 1114005,
+			"name" : "伝説の騎士",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Bernalio in a total of 5,000 battles"
+		},
+		{
+			"id" : 1115001,
+			"name" : "見習い魔女",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Misha in a total of 100 battles"
+		},
+		{
+			"id" : 1115002,
+			"name" : "新米魔女",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Misha in a total of 500 battles"
+		},
+		{
+			"id" : 1115003,
+			"name" : "一流の魔女",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Misha in a total of 1,500 battles"
+		},
+		{
+			"id" : 1115004,
+			"name" : "歴戦の魔女",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Misha in a total of 3,000 battles"
+		},
+		{
+			"id" : 1115005,
+			"name" : "伝説の魔女",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Misha in a total of 5,000 battles"
+		},
+		{
+			"id" : 1116001,
+			"name" : "見習い戦姫",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "ヒルダの使用回数が100回を超えた証"
+		},
+		{
+			"id" : 1116002,
+			"name" : "新米戦姫",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "ヒルダの使用回数が500回を超えた証"
+		},
+		{
+			"id" : 1116003,
+			"name" : "一流の戦姫",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ヒルダの使用回数が1,500回を超えた証"
+		},
+		{
+			"id" : 1116004,
+			"name" : "歴戦の戦姫",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ヒルダの使用回数が3,000回を超えた証"
+		},
+		{
+			"id" : 1116005,
+			"name" : "伝説の戦姫",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "ヒルダの使用回数が5,000回を超えた証"
+		},
+		{
+			"id" : 1117001,
+			"name" : "見習い盗賊",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "ニィの使用回数が100回を超えた証"
+		},
+		{
+			"id" : 1117002,
+			"name" : "新米盗賊",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "ニィの使用回数が500回を超えた証"
+		},
+		{
+			"id" : 1117003,
+			"name" : "一流の盗賊",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ニィの使用回数が1,500回を超えた証"
+		},
+		{
+			"id" : 1117004,
+			"name" : "歴戦の盗賊",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ニィの使用回数が3,000回を超えた証"
+		},
+		{
+			"id" : 1117005,
+			"name" : "伝説の盗賊",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "ニィの使用回数が5,000回を超えた証"
+		},
+		{
+			"id" : 1118001,
+			"name" : "見習い召喚士",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "イデアの使用回数が100回を超えた証"
+		},
+		{
+			"id" : 1118002,
+			"name" : "新米召喚士",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "イデアの使用回数が500回を超えた証"
+		},
+		{
+			"id" : 1118003,
+			"name" : "一流の召喚士",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "イデアの使用回数が1,500回を超えた証"
+		},
+		{
+			"id" : 1118004,
+			"name" : "歴戦の召喚士",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "イデアの使用回数が3,000回を超えた証"
+		},
+		{
+			"id" : 1118005,
+			"name" : "伝説の召喚士",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "イデアの使用回数が5,000回を超えた証"
+		},
+		{
+			"id" : 1119001,
+			"name" : "見習い司祭",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Cecilia in a total of 100 battles"
+		},
+		{
+			"id" : 1119002,
+			"name" : "新米司祭",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Cecilia in a total of 500 battles"
+		},
+		{
+			"id" : 1119003,
+			"name" : "一流の司祭",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Cecilia in a total of 1,500 battles"
+		},
+		{
+			"id" : 1119004,
+			"name" : "歴戦の司祭",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Cecilia in a total of 3,000 battles"
+		},
+		{
+			"id" : 1119005,
+			"name" : "伝説の司祭",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Cecilia in a total of 5,000 battles"
+		},
+		{
+			"id" : 1120001,
+			"name" : "見習い破壊屋",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "コロネの使用回数が100回を超えた証"
+		},
+		{
+			"id" : 1120002,
+			"name" : "新米破壊屋",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "コロネの使用回数が500回を超えた証"
+		},
+		{
+			"id" : 1120003,
+			"name" : "一流の破壊屋",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "コロネの使用回数が1,500回を超えた証"
+		},
+		{
+			"id" : 1120004,
+			"name" : "歴戦の破壊屋",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "コロネの使用回数が3,000回を超えた証"
+		},
+		{
+			"id" : 1120005,
+			"name" : "伝説の破壊屋",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "コロネの使用回数が5,000回を超えた証"
+		},
+		{
+			"id" : 1121001,
+			"name" : "見習い暗殺者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Despine in a total of 100 battles"
+		},
+		{
+			"id" : 1121002,
+			"name" : "新米暗殺者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Despine in a total of 500 battles"
+		},
+		{
+			"id" : 1121003,
+			"name" : "一流の暗殺者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Despine in a total of 1,500 battles"
+		},
+		{
+			"id" : 1121004,
+			"name" : "歴戦の暗殺者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Despine in a total of 3,000 battles"
+		},
+		{
+			"id" : 1121005,
+			"name" : "伝説の暗殺者",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Despine in a total of 5,000 battles"
+		},
+		{
+			"id" : 1150001,
+			"name" : "初心者武器使い",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a Weapon Card a total of 1,000 times"
+		},
+		{
+			"id" : 1150002,
+			"name" : "ヒヨッ子武器使い",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a Weapon Card a total of 5,000 times"
+		},
+		{
+			"id" : 1150003,
+			"name" : "武器職人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a Weapon Card a total of 15,000 times"
+		},
+		{
+			"id" : 1150004,
+			"name" : "武器マスター",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a Weapon Card a total of 30,000 times"
+		},
+		{
+			"id" : 1150005,
+			"name" : "武器の神髄",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used a Weapon Card a total of 50,000 times"
+		},
+		{
+			"id" : 1151001,
+			"name" : "変身",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a SACRED Card a total of 100 times"
+		},
+		{
+			"id" : 1151002,
+			"name" : "神の武器",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a SACRED Card a total of 500 times"
+		},
+		{
+			"id" : 1151003,
+			"name" : "獣神化",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a SACRED Card a total of 1,500 times"
+		},
+		{
+			"id" : 1151004,
+			"name" : "神聖",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a SACRED Card a total of 3,000 times"
+		},
+		{
+			"id" : 1151005,
+			"name" : "呼び覚まされし神の力",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used a SACRED Card a total of 5,000 times"
+		},
+		{
+			"id" : 1152001,
+			"name" : "初心者魔法使い",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a Magic Card a total of 500 times"
+		},
+		{
+			"id" : 1152002,
+			"name" : "ヒヨッ子魔法使い",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a Magic Card a total of 2,500 times"
+		},
+		{
+			"id" : 1152003,
+			"name" : "魔法職人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a Magic Card a total of 7,500 times"
+		},
+		{
+			"id" : 1152004,
+			"name" : "魔法マスター",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a Magic Card a total of 15,000 times"
+		},
+		{
+			"id" : 1152005,
+			"name" : "魔法の神髄",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used a Magic Card a total of 25,000 times"
+		},
+		{
+			"id" : 1153001,
+			"name" : "初心者道具使い",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a Tool Card a total of 500 times"
+		},
+		{
+			"id" : 1153002,
+			"name" : "ヒヨッ子道具使い",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used a Tool Card a total of 2,500 times"
+		},
+		{
+			"id" : 1153003,
+			"name" : "道具職人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a Tool Card a total of 7,500 times"
+		},
+		{
+			"id" : 1153004,
+			"name" : "道具マスター",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used a Tool Card a total of 15,000 times"
+		},
+		{
+			"id" : 1153005,
+			"name" : "道具の神髄",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used a Tool Card a total of 25,000 times"
+		},
+		{
+			"id" : 1190001,
+			"name" : "妖精たちの友",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Regalia a total of 100 times"
+		},
+		{
+			"id" : 1190002,
+			"name" : "妖精たちの親友",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Used Regalia a total of 500 times"
+		},
+		{
+			"id" : 1190003,
+			"name" : "妖精たちの主",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Regalia a total of 1,500 times"
+		},
+		{
+			"id" : 1190004,
+			"name" : "妖精たちの守護者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Used Regalia a total of 3,000 times"
+		},
+		{
+			"id" : 1190005,
+			"name" : "時の妖精を統べし者",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Used Regalia a total of 5,000 times"
+		},
+		{
+			"id" : 1200001,
+			"name" : "ユニットスイーパー",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "BREAK a total of 400 times"
+		},
+		{
+			"id" : 1200002,
+			"name" : "ユニットバスター",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "BREAK a total of 2,000 times"
+		},
+		{
+			"id" : 1200003,
+			"name" : "ユニットキラー",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "BREAK a total of 6,000 times"
+		},
+		{
+			"id" : 1200004,
+			"name" : "ユニットブレイカー",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "BREAK a total of 12,000 times"
+		},
+		{
+			"id" : 1200005,
+			"name" : "ユニットデストロイヤー",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "BREAK a total of 20,000 times"
+		},
+		{
+			"id" : 1201001,
+			"name" : "戦闘好き",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Dealt a total of 50,000 damage"
+		},
+		{
+			"id" : 1201002,
+			"name" : "戦闘主義者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Dealt a total of 250,000 damage"
+		},
+		{
+			"id" : 1201003,
+			"name" : "戦闘民族",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Dealt a total of 750,000 damage"
+		},
+		{
+			"id" : 1201004,
+			"name" : "戦闘のプロ",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Dealt a total of 1,500,000 damage"
+		},
+		{
+			"id" : 1201005,
+			"name" : "戦いの神",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Dealt a total of 2,500,000 damage"
+		},
+		{
+			"id" : 1202001,
+			"name" : "バトル初心者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Performed 200 Direct Attacks"
+		},
+		{
+			"id" : 1202002,
+			"name" : "バトル中級者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Performed 1,000 Direct Attacks"
+		},
+		{
+			"id" : 1202003,
+			"name" : "バトルの申し子",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Performed 3,000 Direct Attacks"
+		},
+		{
+			"id" : 1202004,
+			"name" : "バトルの達人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Performed 6,000 Direct Attacks"
+		},
+		{
+			"id" : 1202005,
+			"name" : "バトルの極意",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Performed 10,000 Direct Attacks"
+		},
+		{
+			"id" : 1203001,
+			"name" : "幸運",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Land a total of 200 critical hits"
+		},
+		{
+			"id" : 1203002,
+			"name" : "会心の一撃",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "Land a total of 1,000 critical hits"
+		},
+		{
+			"id" : 1203003,
+			"name" : "ラッキークロノス",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Land a total of 3,000 critical hits"
+		},
+		{
+			"id" : 1203004,
+			"name" : "ミラクルパンチ",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Land a total of 6,000 critical hits"
+		},
+		{
+			"id" : 1203005,
+			"name" : "お主は運がよかったのう",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "Land a total of 10,000 critical hits"
+		},
+		{
+			"id" : 1219001,
+			"name" : "死線をくぐり抜けた者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ギリギリを耐え抜いた証"
+		},
+		{
+			"id" : 1220001,
+			"name" : "至高にして究極の一撃",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "至高にして究極の一撃を放った証"
+		},
+		{
+			"id" : 1229001,
+			"name" : "炎上芸",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【炎上】状態にさせるカードを5回使用した証"
+		},
+		{
+			"id" : 1229004,
+			"name" : "熱中症に気を付けて",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【炎上】状態にさせるカードを500回使用した証"
+		},
+		{
+			"id" : 1229005,
+			"name" : "灼熱",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【炎上】状態にさせるカードを1,000回使用した証"
+		},
+		{
+			"id" : 1230001,
+			"name" : "ポーションをロックで一杯",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【氷結】状態にさせるカードを5回使用した証"
+		},
+		{
+			"id" : 1230004,
+			"name" : "カードで釘が打てる",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【氷結】状態にさせるカードを500回使用した証"
+		},
+		{
+			"id" : 1230005,
+			"name" : "絶対零度",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【氷結】状態にさせるカードを1,000回使用した証"
+		},
+		{
+			"id" : 1231001,
+			"name" : "かすり傷でも戦える",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【裂傷】状態にさせるカードを5回使用した証"
+		},
+		{
+			"id" : 1231004,
+			"name" : "傷だらけでも戦える",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【裂傷】状態にさせるカードを500回使用した証"
+		},
+		{
+			"id" : 1231005,
+			"name" : "満身創痍でも戦える！",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【裂傷】状態にさせるカードを1,000回使用した証"
+		},
+		{
+			"id" : 1232001,
+			"name" : "渾身のポイズン",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【毒】状態にさせるカードを5回使用した証"
+		},
+		{
+			"id" : 1232004,
+			"name" : "全力のヴェノム",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【毒】状態にさせるカードを500回使用した証"
+		},
+		{
+			"id" : 1232005,
+			"name" : "最高のトキシック",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【毒】状態にさせるカードを1,000回使用した証"
+		},
+		{
+			"id" : 1233001,
+			"name" : "爆睡",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【睡眠】状態にさせるカードを5回使用した証"
+		},
+		{
+			"id" : 1233004,
+			"name" : "冬眠",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【睡眠】状態にさせるカードを500回使用した証"
+		},
+		{
+			"id" : 1233005,
+			"name" : "コールドスリープ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【睡眠】状態にさせるカードを1,000回使用した証"
+		},
+		{
+			"id" : 1234001,
+			"name" : "お宝発見！",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "トレジャーを10回入手した証"
+		},
+		{
+			"id" : 1234004,
+			"name" : "宝の匂いがする……",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "トレジャーを500回入手した証"
+		},
+		{
+			"id" : 1234005,
+			"name" : "トレジャーハンター",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "トレジャーを1,000回入手した証"
+		},
+		{
+			"id" : 1234006,
+			"name" : "ダウジングしてます",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "トレジャーを5,000回入手した証"
+		},
+		{
+			"id" : 1234007,
+			"name" : "宝の山",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "トレジャーを10,000回入手した証"
+		},
+		{
+			"id" : 1235001,
+			"name" : "癒し系",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "ユニットのＨＰを1,000以上回復した証"
+		},
+		{
+			"id" : 1235004,
+			"name" : "心身ともに健康",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ユニットのＨＰを100,000以上回復した証"
+		},
+		{
+			"id" : 1235005,
+			"name" : "医神",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "ユニットのＨＰを９９９,９９９以上回復した証"
+		},
+		{
+			"id" : 1236001,
+			"name" : "短距離走は得意",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "ユニットがフィールド上を100マス移動した証"
+		},
+		{
+			"id" : 1236003,
+			"name" : "長距離走も得意",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ユニットがフィールド上を2,500マス移動した証"
+		},
+		{
+			"id" : 1236005,
+			"name" : "思えば遠くまできたものだ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "ユニットがフィールド上を50,000マス移動した証"
+		},
+		{
+			"id" : 1237001,
+			"name" : "いろんなカードお試し中",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "総消費ＭＰが200を超えた証"
+		},
+		{
+			"id" : 1237005,
+			"name" : "魔力解放",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "総消費ＭＰが5,000を超えた証"
+		},
+		{
+			"id" : 1237006,
+			"name" : "一流のカード捌き",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "総消費ＭＰが10,000を超えた証"
+		},
+		{
+			"id" : 1237007,
+			"name" : "魔力覚醒",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "総消費ＭＰが50,000を超えた証"
+		},
+		{
+			"id" : 1238001,
+			"name" : "アコニチン級",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "状態異常【毒】で敵のユニットを1回撃破した証"
+		},
+		{
+			"id" : 1238002,
+			"name" : "テトロドトキシン級",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "状態異常【毒】で敵のユニットを10回撃破した証"
+		},
+		{
+			"id" : 1239003,
+			"name" : "ちょっとした幸せ",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "エンチャント効果の発生した回数が25回を超えた証"
+		},
+		{
+			"id" : 1239005,
+			"name" : "宝石の輝き",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "エンチャント効果の発生した回数が250回を超えた証"
+		},
+		{
+			"id" : 1239006,
+			"name" : "フィーバークロノス",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "エンチャント効果の発生した回数が777回を超えた証"
+		},
+		{
+			"id" : 1239007,
+			"name" : "おっ、またか",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "エンチャント効果の発生した回数が1,500回を超えた証"
+		},
+		{
+			"id" : 1239008,
+			"name" : "欣喜雀躍",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "エンチャント効果の発生した回数が7,777回を超えた証"
+		},
+		{
+			"id" : 1240001,
+			"name" : "パワーアップ中",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【高揚】を10回発動した証"
+		},
+		{
+			"id" : 1240004,
+			"name" : "どこまでも強くなる",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【高揚】を1,000回発動した証"
+		},
+		{
+			"id" : 1240005,
+			"name" : "戦闘大好き",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【高揚】を5,000回発動した証"
+		},
+		{
+			"id" : 1241001,
+			"name" : "一撃に全てを懸けてる",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【倍撃】を5回発動した証"
+		},
+		{
+			"id" : 1241004,
+			"name" : "敵クロノスさえ倒せばいい",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【倍撃】を500回発動した証"
+		},
+		{
+			"id" : 1241005,
+			"name" : "ダイレクトアタックの天才",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【倍撃】を1,000回発動した証"
+		},
+		{
+			"id" : 1242001,
+			"name" : "一方的に攻める派",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【先攻】を10回発動した証"
+		},
+		{
+			"id" : 1242004,
+			"name" : "攻防一体",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【先攻】を1,000回発動した証"
+		},
+		{
+			"id" : 1242005,
+			"name" : "先手必勝",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【先攻】を5,000回発動した証"
+		},
+		{
+			"id" : 1243001,
+			"name" : "バリア張ってるから大丈夫",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【鉄壁】を10回発動した証"
+		},
+		{
+			"id" : 1243004,
+			"name" : "大きな盾で大きな安心",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【鉄壁】を1,000回発動した証"
+		},
+		{
+			"id" : 1243005,
+			"name" : "金城湯池の構え",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【鉄壁】を5,000回発動した証"
+		},
+		{
+			"id" : 1244001,
+			"name" : "お先に失礼します",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【偵察】を5回発動した証"
+		},
+		{
+			"id" : 1244004,
+			"name" : "直行直帰",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【偵察】を500回発動した証"
+		},
+		{
+			"id" : 1244005,
+			"name" : "敵情視察は終わらない",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【偵察】を1,000回発動した証"
+		},
+		{
+			"id" : 1245001,
+			"name" : "粘り強く戦います",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【発奮】を10回発動した証"
+		},
+		{
+			"id" : 1245004,
+			"name" : "どんな道具も糧にする",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【発奮】を1,000回発動した証"
+		},
+		{
+			"id" : 1245005,
+			"name" : "回復魔法は不要だ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【発奮】を5,000回発動した証"
+		},
+		{
+			"id" : 1246001,
+			"name" : "手堅いバフが好き",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【恩寵】を10回発動した証"
+		},
+		{
+			"id" : 1246004,
+			"name" : "経験値中毒",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【恩寵】を2,500回発動した証"
+		},
+		{
+			"id" : 1246005,
+			"name" : "レベル９９９９９",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【恩寵】を7,777回発動した証"
+		},
+		{
+			"id" : 1247001,
+			"name" : "蘇りの翼",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【蘇活】を5回発動した証"
+		},
+		{
+			"id" : 1247004,
+			"name" : "まるでゾンビのよう",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【蘇活】を500回発動した証"
+		},
+		{
+			"id" : 1247005,
+			"name" : "アイル・ビー・バック",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【蘇活】を1,000回発動した証"
+		},
+		{
+			"id" : 1249001,
+			"name" : "痺れるほどの一撃",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【剛撃】を5回発動した証"
+		},
+		{
+			"id" : 1249004,
+			"name" : "城の向こうまで吹っ飛ばす",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【剛撃】を500回発動した証"
+		},
+		{
+			"id" : 1249005,
+			"name" : "ＢＲＥＡＫの天才",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【剛撃】を1,000回発動した証"
+		},
+		{
+			"id" : 1250001,
+			"name" : "一気に攻める派",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "【進攻】を5回発動した証"
+		},
+		{
+			"id" : 1250004,
+			"name" : "敵陣にダイブ！",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "【進攻】を500回発動した証"
+		},
+		{
+			"id" : 1250005,
+			"name" : "特攻隊長",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "【進攻】を1,000回発動した証"
+		},
+		{
+			"id" : 1251001,
+			"name" : "トラップ業者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "配置したトラップを25回発動した証"
+		},
+		{
+			"id" : 1251003,
+			"name" : "トラップの悪魔",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "配置したトラップを666回発動した証"
+		},
+		{
+			"id" : 1251004,
+			"name" : "トラップの専門家",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "配置したトラップを2,500回発動した証"
+		},
+		{
+			"id" : 1251005,
+			"name" : "トラップの人間国宝",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "配置したトラップを10,000回発動した証"
+		},
+		{
+			"id" : 1252001,
+			"name" : "神の加護を設置中",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "配置したギフトを25回発動した証"
+		},
+		{
+			"id" : 1252003,
+			"name" : "僥倖！",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "配置したギフトを777回発動した証"
+		},
+		{
+			"id" : 1252004,
+			"name" : "神の加護受けまくり",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "配置したギフトを2,500回発動した証"
+		},
+		{
+			"id" : 1252005,
+			"name" : "信頼と伝統のギフト",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "配置したギフトを10,000回発動した証"
+		},
+		{
+			"id" : 1400001,
+			"name" : "エンジョイ勢",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "累計スコアを100,000以上にした証"
+		},
+		{
+			"id" : 1400004,
+			"name" : "ミリオネア",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "累計スコアを1,000,000以上にした証"
+		},
+		{
+			"id" : 1400007,
+			"name" : "クロレガのある日常",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "累計スコアを5,000,000以上にした証"
+		},
+		{
+			"id" : 1400008,
+			"name" : "縁起担ぐ派",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "累計スコアを7,777,777以上にした証"
+		},
+		{
+			"id" : 1400009,
+			"name" : "一騎当千",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "累計スコアを10,000,000以上にした証"
+		},
+		{
+			"id" : 1400010,
+			"name" : "百戦錬磨",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "累計スコアを20,000,000以上にした証"
+		},
+		{
+			"id" : 1400011,
+			"name" : "スコアガチ勢",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "累計スコアを50,000,000以上にした証"
+		},
+		{
+			"id" : 1400012,
+			"name" : "目指せカウンターストップ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "累計スコアを９９,９９９,９９９以上にした証"
+		},
+		{
+			"id" : 1401002,
+			"name" : "コミュ力高め",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ストーリーモードの☆の総数が150個以上になった証"
+		},
+		{
+			"id" : 1401003,
+			"name" : "生き字引",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "ストーリーモードの☆の総数が300個以上になった証"
+		},
+		{
+			"id" : 1402003,
+			"name" : "シャドウ狩りの専門家",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索モードの☆の総数が100個以上になった証"
+		},
+		{
+			"id" : 1414001,
+			"name" : "ストーリーガチ勢",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "メインストーリー4章の☆の総数が20個以上になった証"
+		},
+		{
+			"id" : 1421001,
+			"name" : "アレク推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "アレクの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1422001,
+			"name" : "ルカ推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ルカの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1423001,
+			"name" : "ソーケン推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ソーケンの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1424001,
+			"name" : "ロッタ推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ロッタの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1425001,
+			"name" : "ベルナリオ推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ベルナリオの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1426001,
+			"name" : "ミーシャ推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "ミーシャの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1430001,
+			"name" : "セシリア推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "セシリアの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1432001,
+			"name" : "デスピナ推し",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "デスピナの章の☆の総数が1８個以上になった証"
+		},
+		{
+			"id" : 1451001,
+			"name" : "『力が湧いてきたぜ！』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『古強者が舞った戦跡』を☆5にした証"
+		},
+		{
+			"id" : 1452001,
+			"name" : "『勝ちは逃がさない』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『大森林の奥地』を☆5にした証"
+		},
+		{
+			"id" : 1453001,
+			"name" : "『搦め手でいきます』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『知略が完成した証山頂』を☆5にした証"
+		},
+		{
+			"id" : 1454001,
+			"name" : "『今、助けます！』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『加護あふれる広場』を☆5にした証"
+		},
+		{
+			"id" : 1455001,
+			"name" : "『掛かってくるのだな！』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『戦士を救う鉱脈』を☆5にした証"
+		},
+		{
+			"id" : 1456001,
+			"name" : "『はい、プレゼント！』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『魔力うずまく夕暮れ』を☆5にした証"
+		},
+		{
+			"id" : 1460001,
+			"name" : "『苦悶と悲鳴を……』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『罠に掛かる者の最期』を☆5にした証"
+		},
+		{
+			"id" : 1462001,
+			"name" : "『神罰を受けなさい！』",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索で『聖歌が響く祈りの地』を☆5にした証"
+		},
+		{
+			"id" : 1506001,
+			"name" : "探索始めました",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "探索モードをプレイした証"
+		},
+		{
+			"id" : 1506002,
+			"name" : "世界の歴史を紐解く者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "探索モードのプレイ回数が10回を超えた証"
+		},
+		{
+			"id" : 1506003,
+			"name" : "アルケイオンに住んでる",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "探索モードのプレイ回数が50回を超えた証"
+		},
+		{
+			"id" : 1506004,
+			"name" : "アルケイオン世界一周",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索モードのプレイ回数が100回を超えた証"
+		},
+		{
+			"id" : 1506005,
+			"name" : "知らないことは何もない",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索モードのプレイ回数が500回を超えた証"
+		},
+		{
+			"id" : 1506006,
+			"name" : "アルケイオン・マスター",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "探索モードのプレイ回数が1,000回を超えた証"
+		},
+		{
+			"id" : 1700001,
+			"name" : "アレクの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーアレクの章4話をクリアした証"
+		},
+		{
+			"id" : 1710001,
+			"name" : "ルカの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリールカの章4話をクリアした証"
+		},
+		{
+			"id" : 1720001,
+			"name" : "ソーケンの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーソーケンの章4話をクリアした証"
+		},
+		{
+			"id" : 1730001,
+			"name" : "ロッタの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーロッタの章4話をクリアした証"
+		},
+		{
+			"id" : 1740001,
+			"name" : "ベルナリオの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーベルナリオの章4話をクリアした証"
+		},
+		{
+			"id" : 1750001,
+			"name" : "ミーシャの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーミーシャの章4話をクリアした証"
+		},
+		{
+			"id" : 1760001,
+			"name" : "ヒルダの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーヒルダの章4話をクリアした証"
+		},
+		{
+			"id" : 1770001,
+			"name" : "ニィの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーニィの章4話をクリアした証"
+		},
+		{
+			"id" : 1780001,
+			"name" : "イデアの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーイデアの章4話をクリアした証"
+		},
+		{
+			"id" : 1790001,
+			"name" : "セシリアの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーセシリアの章4話をクリアした証"
+		},
+		{
+			"id" : 1800001,
+			"name" : "コロネの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーコロネの章4話をクリアした証"
+		},
+		{
+			"id" : 1810001,
+			"name" : "デスピナの記憶",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "キャラストーリーデスピナの章4話をクリアした証"
+		},
+		{
+			"id" : 1864001,
+			"name" : "たゆまぬ鍛錬の成果",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『古強者が舞った戦跡』をクリアした証"
+		},
+		{
+			"id" : 1865001,
+			"name" : "大森林を駆け抜ける者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『大森林の奥地』をクリアした証"
+		},
+		{
+			"id" : 1866001,
+			"name" : "三度の飯より研究",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『知略が完成する山頂』をクリアした証"
+		},
+		{
+			"id" : 1867001,
+			"name" : "どこまでも届く祈り",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『加護あふれる広場』をクリアした証"
+		},
+		{
+			"id" : 1868001,
+			"name" : "魔鋼のヘビーユーザー",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『戦士を救う鉱脈』をクリアした証"
+		},
+		{
+			"id" : 1869001,
+			"name" : "呪いも踊りもイタズラも",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『魔力うずまく夕暮れ』をクリアした証"
+		},
+		{
+			"id" : 1870001,
+			"name" : "七色の罠の使い手",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『罠に掛かる者の最期』をクリアした証"
+		},
+		{
+			"id" : 1873001,
+			"name" : "アルケイオン一のクワイア",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "探索で『聖歌が響く祈りの地』をクリアした証"
+		},
+		{
+			"id" : 1900001,
+			"name" : "精鋭部隊",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "総ログイン日数が3日を超えた証"
+		},
+		{
+			"id" : 1900002,
+			"name" : "果てなき旅路",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "総ログイン日数が7日を超えた証"
+		},
+		{
+			"id" : 1900003,
+			"name" : "境地に至りし者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "総ログイン日数が30日を超えた証"
+		},
+		{
+			"id" : 1900004,
+			"name" : "ゲームセンターの住人",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "総ログイン日数が100日を超えた証"
+		},
+		{
+			"id" : 1900005,
+			"name" : "クロノレガリア大好き",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "総ログイン日数が365日を超えた証"
+		},
+		{
+			"id" : 1902001,
+			"name" : "カード収集家",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "50枚のカードを獲得した証"
+		},
+		{
+			"id" : 1902002,
+			"name" : "カードコレクター",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "９0枚のカードを獲得した証"
+		},
+		{
+			"id" : 1902003,
+			"name" : "カードオタク",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "120枚のカードを獲得した証"
+		},
+		{
+			"id" : 1902004,
+			"name" : "カード貴族",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "150枚のカードを獲得した証"
+		},
+		{
+			"id" : 1902005,
+			"name" : "カード王",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "1８0枚のカードを獲得した証"
+		},
+		{
+			"id" : 1904001,
+			"name" : "分解人",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "カードを10枚分解した証"
+		},
+		{
+			"id" : 1904002,
+			"name" : "分解サイボーグ",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "カードを50枚分解した証"
+		},
+		{
+			"id" : 1904003,
+			"name" : "分解マシーン",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "カードを150枚分解した証"
+		},
+		{
+			"id" : 1904004,
+			"name" : "分解工場",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "カードを300枚分解した証"
+		},
+		{
+			"id" : 1904005,
+			"name" : "分解の果てに得た者",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カードを500枚分解した証"
+		},
+		{
+			"id" : 1905001,
+			"name" : "おしゃれ初心者",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを1個交換した証"
+		},
+		{
+			"id" : 1905002,
+			"name" : "おしゃれへの目覚め",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを10個交換した証"
+		},
+		{
+			"id" : 1905003,
+			"name" : "おしゃれ情熱",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを30個交換した証"
+		},
+		{
+			"id" : 1905004,
+			"name" : "おしゃれ上級者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを50個交換した証"
+		},
+		{
+			"id" : 1905005,
+			"name" : "おしゃれの匠",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを70個交換した証"
+		},
+		{
+			"id" : 1905006,
+			"name" : "城内は服とオブジェだらけ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを100個交換した証"
+		},
+		{
+			"id" : 1905007,
+			"name" : "流行の最先端",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを125個交換した証"
+		},
+		{
+			"id" : 1905008,
+			"name" : "ファッションリーダー",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを150個交換した証"
+		},
+		{
+			"id" : 1905009,
+			"name" : "おしゃれと時を司る神",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを175個交換した証"
+		},
+		{
+			"id" : 1905010,
+			"name" : "息するようにおしゃれ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを200個交換した証"
+		},
+		{
+			"id" : 1905011,
+			"name" : "おしゃれに終わりはない",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "カスタマイズアイテムを250個交換した証"
+		},
+		{
+			"id" : 1906001,
+			"name" : "クロレガ.NET会員",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "クロレガ.NETに登録した証"
+		},
+		{
+			"id" : 1907001,
+			"name" : "クロレガ.NET上流会員",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "クロレガ.NET上流会員の証"
+		},
+		{
+			"id" : 2000001,
+			"name" : "クロレガ公式",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "公式用"
+		},
+		{
+			"id" : 2000002,
+			"name" : "クロレガ開発",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "開発用"
+		},
+		{
+			"id" : 2000003,
+			"name" : "THE AGENTS",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "コード・オブ・ジョーカープレイヤーの証"
+		},
+		{
+			"id" : 2000004,
+			"name" : "AST所属エージェント",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "コード・オブ・ジョーカープレイヤーの証"
+		},
+		{
+			"id" : 2000005,
+			"name" : "ARCANAの加護",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "コード・オブ・ジョーカープレイヤーの証"
+		},
+		{
+			"id" : 2000006,
+			"name" : "世界の始まりを知る者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "『クロノレガリア』プレ・ロケテスト参加者の証"
+		},
+		{
+			"id" : 2000007,
+			"name" : "桜色の季節",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "クロノレガリア開発者と対戦した証"
+		},
+		{
+			"id" : 2000008,
+			"name" : "連休連休連休！",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "クロノレガリア開発者と対戦した証"
+		},
+		{
+			"id" : 2000009,
+			"name" : "雨も滴るいいクロノス",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "クロノレガリア開発者と対戦した証"
+		},
+		{
+			"id" : 2000010,
+			"name" : "しばし待たれよ",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "バージョンアップ直前ミッションをクリアした証"
+		},
+		{
+			"id" : 2000011,
+			"name" : "ノンジャンルバトラー",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "アーケードゲーム好きの証"
+		},
+		{
+			"id" : 2000012,
+			"name" : "アーケードゲーマー",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "アーケードゲーム好きの証"
+		},
+		{
+			"id" : 2000013,
+			"name" : "異世界からの挑戦者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "アーケードゲーム好きの証"
+		},
+		{
+			"id" : 2000014,
+			"name" : "全ての原点を知る者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "『千閃戦記』プレ・ロケテスト参加者の証"
+		},
+		{
+			"id" : 2000015,
+			"name" : "フォロンの名付け親",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "フォロンの名付け親の証"
+		},
+		{
+			"id" : 2000016,
+			"name" : "ソウルの力を宿す者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "SOUL REVERSEプレイヤーの証"
+		},
+		{
+			"id" : 2000017,
+			"name" : "神筆の使い手",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "Wonderland Warsプレイヤーの証"
+		},
+		{
+			"id" : 2000018,
+			"name" : "三国の英傑",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "三国志大戦プレイヤーの証"
+		},
+		{
+			"id" : 2000019,
+			"name" : "クロレガ攻略組",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "クロノレガリア攻略本購入者の証"
+		},
+		{
+			"id" : 2000020,
+			"name" : "ゲイボルグの担い手",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『煌槍ゲイボルグ』をプレイした証"
+		},
+		{
+			"id" : 2000021,
+			"name" : "ふたりはコマンダー",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『司令官、戦場に立つ』をプレイした証"
+		},
+		{
+			"id" : 2000022,
+			"name" : "古き森の守護者",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『受け継がれし刃』をプレイした証"
+		},
+		{
+			"id" : 2000023,
+			"name" : "クロノレガリア公認ゲスト",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "クロノレガリア公認の証"
+		},
+		{
+			"id" : 2000024,
+			"name" : "クロノレガリア配信中",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "クロノレガリアの配信を行った証"
+		},
+		{
+			"id" : 2000025,
+			"name" : "クロノレガリア実況中",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "クロノレガリアの実況を行った証"
+		},
+		{
+			"id" : 2000026,
+			"name" : "夏の花火師",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『神呼ぶ光華』をプレイした証"
+		},
+		{
+			"id" : 2000027,
+			"name" : "恐怖の絶叫",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『恐怖の肝試し』をプレイした証"
+		},
+		{
+			"id" : 2000028,
+			"name" : "ムーンナイト",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『月夜の決戦』をプレイした証"
+		},
+		{
+			"id" : 2000029,
+			"name" : "トリック・オア・トリート",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『ハロウィンパーティー』をプレイした証"
+		},
+		{
+			"id" : 2000030,
+			"name" : "クロレガガチ勢",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000031,
+			"name" : "プロレガ",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000032,
+			"name" : "開発を超えしもの",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000033,
+			"name" : "クロレガマイスター",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000034,
+			"name" : "スーパープレイヤー",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000035,
+			"name" : "アルケイオンの猛者",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000036,
+			"name" : "勝利の栄冠",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000037,
+			"name" : "クロレガファイター",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000038,
+			"name" : "開発とイチャイチャ",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000039,
+			"name" : "クロレガ決闘者",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "開発者対戦イベントに参加した証"
+		},
+		{
+			"id" : 2000040,
+			"name" : "ゲイボルグの再来",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『煌槍ゲイボルグ』をプレイした証"
+		},
+		{
+			"id" : 2000041,
+			"name" : "煙突から参上",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『雪降る聖夜』をプレイした証"
+		},
+		{
+			"id" : 2000042,
+			"name" : "ニューイヤーバトラー",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『新年戦始め』をプレイした証"
+		},
+		{
+			"id" : 2000043,
+			"name" : "チョコレート貰いました？",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『ドキドキバレンタイン』をプレイした証"
+		},
+		{
+			"id" : 2000044,
+			"name" : "三倍返しは基本",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "『三倍返しの日』をプレイした証"
+		},
+		{
+			"id" : 3000001,
+			"name" : "クロレガ開発からの刺客",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "開発用"
+		},
+		{
+			"id" : 3000002,
+			"name" : "クロレガ開発の接待要員",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "開発用"
+		},
+		{
+			"id" : 3000003,
+			"name" : "クロノレガリア練習中",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "クロノレガリアを練習中の証"
+		},
+		{
+			"id" : 3000004,
+			"name" : "クロノレガリア一人前",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "クロノレガリアに慣れてきた証"
+		},
+		{
+			"id" : 3000005,
+			"name" : "クロレガ宣伝大使（自称）",
+			"backGroundID" : 1,
+			"materialID" : 0,
+			"info" : "クロノレガリア宣伝大使（自称）の証"
+		},
+		{
+			"id" : 3000006,
+			"name" : "クロレガ宣伝大使（仮）",
+			"backGroundID" : 2,
+			"materialID" : 0,
+			"info" : "クロノレガリア宣伝大使（仮）の証"
+		},
+		{
+			"id" : 3000007,
+			"name" : "クロレガ宣伝大使",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "クロノレガリア宣伝大使の証"
+		},
+		{
+			"id" : 3000008,
+			"name" : "レーネの中の人",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "レーネを演じた証"
+		},
+		{
+			"id" : 3000009,
+			"name" : "アストレアの中の人",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "アストレアを演じた証"
+		},
+		{
+			"id" : 3000010,
+			"name" : "マイアの中の人",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "マイアを演じた証"
+		},
+		{
+			"id" : 3000011,
+			"name" : "ミーシャの中の人",
+			"backGroundID" : 3,
+			"materialID" : 0,
+			"info" : "ミーシャを演じた証"
+		},
+		{
+			"id" : 5000001,
+			"name" : "槍術極伝",
+			"backGroundID" : 101,
+			"materialID" : 1,
+			"info" : "『煌槍ゲイボルグ』1位の証"
+		},
+		{
+			"id" : 5000002,
+			"name" : "槍術皆伝",
+			"backGroundID" : 101,
+			"materialID" : 1,
+			"info" : "『煌槍ゲイボルグ』2～100位の証"
+		},
+		{
+			"id" : 5000003,
+			"name" : "最高司令官",
+			"backGroundID" : 102,
+			"materialID" : 1,
+			"info" : "『司令官、戦場に立つ』1位の証"
+		},
+		{
+			"id" : 5000004,
+			"name" : "総司令官",
+			"backGroundID" : 102,
+			"materialID" : 1,
+			"info" : "『司令官、戦場に立つ』2～100位の証"
+		},
+		{
+			"id" : 5000005,
+			"name" : "最古にして最優の狩人",
+			"backGroundID" : 103,
+			"materialID" : 1,
+			"info" : "『受け継がれし刃』1位の証"
+		},
+		{
+			"id" : 5000006,
+			"name" : "いにしえの狩人",
+			"backGroundID" : 103,
+			"materialID" : 1,
+			"info" : "『受け継がれし刃』2～100位の証"
+		},
+		{
+			"id" : 5000007,
+			"name" : "最恐最悪のおばけ",
+			"backGroundID" : 104,
+			"materialID" : 1,
+			"info" : "『恐怖の肝試し』1位の証"
+		},
+		{
+			"id" : 5000008,
+			"name" : "絶叫おばけ",
+			"backGroundID" : 104,
+			"materialID" : 1,
+			"info" : "『恐怖の肝試し』2～100位の証"
+		},
+		{
+			"id" : 5000009,
+			"name" : "閃光の大輪花",
+			"backGroundID" : 105,
+			"materialID" : 1,
+			"info" : "『神呼ぶ光華』1位の証"
+		},
+		{
+			"id" : 5000010,
+			"name" : "閃光の花",
+			"backGroundID" : 105,
+			"materialID" : 1,
+			"info" : "『神呼ぶ光華』2～100位の証"
+		},
+		{
+			"id" : 5000011,
+			"name" : "スーパームーン",
+			"backGroundID" : 106,
+			"materialID" : 1,
+			"info" : "『月夜の決戦』1位の証"
+		},
+		{
+			"id" : 5000012,
+			"name" : "フルムーン",
+			"backGroundID" : 106,
+			"materialID" : 1,
+			"info" : "『月夜の決戦』2～100位の証"
+		},
+		{
+			"id" : 5000013,
+			"name" : "カボチャ王",
+			"backGroundID" : 107,
+			"materialID" : 1,
+			"info" : "『ハロウィンパーティー』1位の証"
+		},
+		{
+			"id" : 5000014,
+			"name" : "カボチャ大臣",
+			"backGroundID" : 107,
+			"materialID" : 1,
+			"info" : "『ハロウィンパーティー』2～100位の証"
+		},
+		{
+			"id" : 5000015,
+			"name" : "聖夜のサンタ",
+			"backGroundID" : 108,
+			"materialID" : 1,
+			"info" : "『雪降る聖夜』1位の証"
+		},
+		{
+			"id" : 5000016,
+			"name" : "聖夜のトナカイ",
+			"backGroundID" : 108,
+			"materialID" : 1,
+			"info" : "『雪降る聖夜』2～100位の証"
+		},
+		{
+			"id" : 5000017,
+			"name" : "超超超大吉！",
+			"backGroundID" : 109,
+			"materialID" : 1,
+			"info" : "『新年戦始め』1位の証"
+		},
+		{
+			"id" : 5000018,
+			"name" : "大吉！",
+			"backGroundID" : 109,
+			"materialID" : 1,
+			"info" : "『新年戦始め』2～100位の証"
+		},
+		{
+			"id" : 5000019,
+			"name" : "モテキング",
+			"backGroundID" : 110,
+			"materialID" : 1,
+			"info" : "『ドキドキバレンタイン』1位の証"
+		},
+		{
+			"id" : 5000020,
+			"name" : "モテプリンス",
+			"backGroundID" : 110,
+			"materialID" : 1,
+			"info" : "『ドキドキバレンタイン』2～100位の証"
+		},
+		{
+			"id" : 5000021,
+			"name" : "モテクイーン",
+			"backGroundID" : 111,
+			"materialID" : 1,
+			"info" : "『三倍返しの日』1位の証"
+		},
+		{
+			"id" : 5000022,
+			"name" : "モテプリンセス",
+			"backGroundID" : 111,
+			"materialID" : 1,
+			"info" : "『三倍返しの日』2～100位の証"
+		}
+	]
+}

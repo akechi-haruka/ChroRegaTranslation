@@ -1,0 +1,39 @@
+{
+	"ScoreData_Star" : [
+		{
+			"id" : 1,
+			"starnum" : 0,
+			"borderPoint" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "☆",
+			"starnum" : 1,
+			"borderPoint" : 1
+		},
+		{
+			"id" : 3,
+			"name" : "☆☆",
+			"starnum" : 2,
+			"borderPoint" : 1000
+		},
+		{
+			"id" : 4,
+			"name" : "☆☆☆",
+			"starnum" : 3,
+			"borderPoint" : 10000
+		},
+		{
+			"id" : 5,
+			"name" : "☆☆☆☆",
+			"starnum" : 4,
+			"borderPoint" : 20000
+		},
+		{
+			"id" : 6,
+			"name" : "☆☆☆☆☆",
+			"starnum" : 5,
+			"borderPoint" : 30000
+		}
+	]
+}

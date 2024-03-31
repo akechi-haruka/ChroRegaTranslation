@@ -1,0 +1,114 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 84,
+			"candidate01" : "083",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 86,
+			"candidate01" : "094",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 100,
+			"candidate01" : "156",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 105,
+			"candidate01" : "081",
+			"candidate02" : "082",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 147,
+			"candidate01" : "176",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 124,
+			"candidate01" : "181",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 126,
+			"candidate01" : "-1",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 131,
+			"candidate01" : "223",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 134,
+			"candidate01" : "183",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 138,
+			"candidate01" : "237",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 148,
+			"candidate01" : "236",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		}
+	]
+}

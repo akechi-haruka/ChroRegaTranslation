@@ -1,0 +1,3694 @@
+{
+	"datalist" : [
+		{
+			"id" : 1000,
+			"name" : "Warrior Costume",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1001,
+			"name" : "Warrior Costume・Arrange",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1001
+		},
+		{
+			"id" : 1002,
+			"name" : "Warrior Costume・Custom",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1002
+		},
+		{
+			"id" : 1003,
+			"name" : "Alec_2_3",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1004,
+			"name" : "Alec_2_4",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1005,
+			"name" : "Alec_2_5",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1006,
+			"name" : "Warrior Costume・High End",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1006
+		},
+		{
+			"id" : 1007,
+			"name" : "Alec_2_7",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1008,
+			"name" : "Warrior Costume・Vintage",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1009
+		},
+		{
+			"id" : 1009,
+			"name" : "Alec_2_9",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_002",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1010,
+			"name" : "Battlefield Armor",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1011,
+			"name" : "Battlefield Armor・Arrange",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1001
+		},
+		{
+			"id" : 1012,
+			"name" : "Battlefield Armor・Custom",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1002
+		},
+		{
+			"id" : 1013,
+			"name" : "Alec_3_3",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1014,
+			"name" : "Alec_3_4",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1015,
+			"name" : "Alec_3_5",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1016,
+			"name" : "Battlefield Armor・High End",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1009
+		},
+		{
+			"id" : 1017,
+			"name" : "Alec_3_7",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1018,
+			"name" : "Battlefield Armor・Vintage",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1010
+		},
+		{
+			"id" : 1019,
+			"name" : "Alec_3_9",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_003",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1020,
+			"name" : "Soldier's Equipment",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1021,
+			"name" : "Soldier's Equipment・Arrange",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1001
+		},
+		{
+			"id" : 1022,
+			"name" : "Soldier's Equipment・Custom",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1002
+		},
+		{
+			"id" : 1023,
+			"name" : "Alec_4_3",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1024,
+			"name" : "Soldier's Equipment・Vintage",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1008
+		},
+		{
+			"id" : 1025,
+			"name" : "Alec_4_5",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1026,
+			"name" : "Alec_4_6",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1027,
+			"name" : "Alec_4_7",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1028,
+			"name" : "Alec_4_8",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1029,
+			"name" : "Soldier's Equipment・High End",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_004",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1007
+		},
+		{
+			"id" : 1030,
+			"name" : "Armor of Fierce Generals",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1031,
+			"name" : "Armor of Fierce Generals・Arrange",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1001
+		},
+		{
+			"id" : 1032,
+			"name" : "Alec_5_2",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1033,
+			"name" : "Alec_5_3",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1034,
+			"name" : "Alec_5_4",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1035,
+			"name" : "Armor of Fierce Generals・Custom",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1004
+		},
+		{
+			"id" : 1036,
+			"name" : "Alec_5_6",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1037,
+			"name" : "Alec_5_7",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1038,
+			"name" : "Alec_5_8",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1039,
+			"name" : "Alec_5_9",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_005",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1040,
+			"name" : "Alec_6_0",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1041,
+			"name" : "Alec_6_1",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1042,
+			"name" : "Alec_6_2",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1043,
+			"name" : "Alec_6_3",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1044,
+			"name" : "Alec_6_4",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1045,
+			"name" : "Alec_6_5",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1046,
+			"name" : "Alec_6_6",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1047,
+			"name" : "Alec_6_7",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1048,
+			"name" : "Alec_6_8",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1049,
+			"name" : "Alec_6_9",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_006",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1050,
+			"name" : "Hero Suit・Orange",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1051,
+			"name" : "Alec_7_1",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1052,
+			"name" : "Alec_7_2",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1053,
+			"name" : "Hero Suit・Golden",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1003
+		},
+		{
+			"id" : 1054,
+			"name" : "Hero Suit・Green",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1009
+		},
+		{
+			"id" : 1055,
+			"name" : "Hero Suit・Pink",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1004
+		},
+		{
+			"id" : 1056,
+			"name" : "Hero Suit・Blue",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1005
+		},
+		{
+			"id" : 1057,
+			"name" : "Hero Suit・Crimson",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1007
+		},
+		{
+			"id" : 1058,
+			"name" : "Alec_7_8",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1059,
+			"name" : "Alec_7_9",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_007",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1060,
+			"name" : "First Barbarian King",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 0,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1061,
+			"name" : "Eastern Barbarian King",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 1,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1001
+		},
+		{
+			"id" : 1062,
+			"name" : "Alec_8_2",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 2,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1063,
+			"name" : "Alec_8_3",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 3,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1064,
+			"name" : "Western Barbarian King",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 4,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1007
+		},
+		{
+			"id" : 1065,
+			"name" : "Alec_8_5",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 5,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1066,
+			"name" : "Southern Barbarian King",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 6,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1005
+		},
+		{
+			"id" : 1067,
+			"name" : "Alec_8_7",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 7,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1000
+		},
+		{
+			"id" : 1068,
+			"name" : "Northern Barbarian King",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 8,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1008
+		},
+		{
+			"id" : 1069,
+			"name" : "Last Barbarian King",
+			"iconName" : "costume_1000",
+			"objectName" : "ch_r_a_h_008",
+			"colorId" : 9,
+			"equipableChara" : 1000,
+			"godCostumeId" : 1006
+		},
+		{
+			"id" : 2000,
+			"name" : "Hunter's Outfit",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 0,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2001,
+			"name" : "Hunter's Outfit・Arrange",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 1,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2001
+		},
+		{
+			"id" : 2002,
+			"name" : "Hunter's Outfit・Custom",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 2,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2002
+		},
+		{
+			"id" : 2003,
+			"name" : "Luca_2_3",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 3,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2004,
+			"name" : "Luca_2_4",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 4,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2005,
+			"name" : "Hunter's Outfit・Vintage",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 5,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2004
+		},
+		{
+			"id" : 2006,
+			"name" : "Luca_2_6",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 6,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2007,
+			"name" : "Luca_2_7",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 7,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2008,
+			"name" : "Luca_2_8",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 8,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2009,
+			"name" : "Luca_2_9",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_002",
+			"colorId" : 9,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2010,
+			"name" : "Swift Hand Attire",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 0,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2011,
+			"name" : "Swift Hand Attire・Arrange",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 1,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2001
+		},
+		{
+			"id" : 2012,
+			"name" : "Swift Hand Attire・Custom",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 2,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2002
+		},
+		{
+			"id" : 2013,
+			"name" : "Luca_3_3",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 3,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2014,
+			"name" : "Luca_3_4",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 4,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2015,
+			"name" : "Luca_3_5",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 5,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2016,
+			"name" : "Luca_3_6",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 6,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2017,
+			"name" : "Swift Hand Attire・High End",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 7,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2007
+		},
+		{
+			"id" : 2018,
+			"name" : "Luca_3_8",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 8,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2019,
+			"name" : "Swift Hand Attire・Vintage",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_003",
+			"colorId" : 9,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2008
+		},
+		{
+			"id" : 2020,
+			"name" : "Forest Chief's Robe",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 0,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2021,
+			"name" : "Forest Chief's Robe・Arrange",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 1,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2011
+		},
+		{
+			"id" : 2022,
+			"name" : "Forest Chief's Robe・Custom",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 2,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2001
+		},
+		{
+			"id" : 2023,
+			"name" : "Luca_4_3",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 3,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2024,
+			"name" : "Luca_4_4",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 4,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2025,
+			"name" : "Luca_4_5",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 5,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2026,
+			"name" : "Forest Chief's Robe・Vintage",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 6,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2009
+		},
+		{
+			"id" : 2027,
+			"name" : "Luca_4_7",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 7,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2028,
+			"name" : "Forest Chief's Robe・High End",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 8,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2008
+		},
+		{
+			"id" : 2029,
+			"name" : "Luca_4_9",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_004",
+			"colorId" : 9,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2030,
+			"name" : "Guardian Clothes",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 0,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2031,
+			"name" : "Luca_5_1",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 1,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2032,
+			"name" : "Luca_5_2",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 2,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2033,
+			"name" : "Luca_5_3",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 3,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2034,
+			"name" : "Luca_5_4",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 4,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2035,
+			"name" : "Luca_5_5",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 5,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2036,
+			"name" : "Guardian Clothes・Arrange",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 6,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2005
+		},
+		{
+			"id" : 2037,
+			"name" : "Guardian Clothes・Vintage",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 7,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2007
+		},
+		{
+			"id" : 2038,
+			"name" : "Guardian Clothes・High End",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 8,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2010
+		},
+		{
+			"id" : 2039,
+			"name" : "Guardian Clothes・Custom",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_005",
+			"colorId" : 9,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2008
+		},
+		{
+			"id" : 2040,
+			"name" : "Fang Costume・Blue Wolf",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 0,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2041,
+			"name" : "Fang Costume・Polar Bear",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 1,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2001
+		},
+		{
+			"id" : 2042,
+			"name" : "Luca_6_2",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 2,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2043,
+			"name" : "Luca_6_3",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 3,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2044,
+			"name" : "Fang Costume・Red Boar",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 4,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2004
+		},
+		{
+			"id" : 2045,
+			"name" : "Fang Costume・Green Tiger",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 5,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2010
+		},
+		{
+			"id" : 2046,
+			"name" : "Fang Costume・Purple Nail",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 6,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2010
+		},
+		{
+			"id" : 2047,
+			"name" : "Luca_6_7",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 7,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2000
+		},
+		{
+			"id" : 2048,
+			"name" : "Fang Costume・Black Fox",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 8,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2008
+		},
+		{
+			"id" : 2049,
+			"name" : "Fang Costume・White Dog",
+			"iconName" : "costume_2000",
+			"objectName" : "ch_g_a_h_006",
+			"colorId" : 9,
+			"equipableChara" : 2000,
+			"godCostumeId" : 2005
+		},
+		{
+			"id" : 3000,
+			"name" : "Scholar's Outfit",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 0,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3001,
+			"name" : "Scholar's Outfit・Arrange",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 1,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3001
+		},
+		{
+			"id" : 3002,
+			"name" : "Scholar's Outfit・Custom",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 2,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3002
+		},
+		{
+			"id" : 3003,
+			"name" : "Soken_2_3",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 3,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3004,
+			"name" : "Soken_2_4",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 4,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3005,
+			"name" : "Soken_2_5",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 5,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3006,
+			"name" : "Scholar's Outfit・High End",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 6,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3006
+		},
+		{
+			"id" : 3007,
+			"name" : "Soken_2_7",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 7,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3008,
+			"name" : "Scholar's Outfit・Extra",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 8,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3008
+		},
+		{
+			"id" : 3009,
+			"name" : "Soken_2_9",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_002",
+			"colorId" : 9,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3010,
+			"name" : "Robe of the Wise",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 0,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3011,
+			"name" : "Robe of the Wise・Arrange",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 1,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3001
+		},
+		{
+			"id" : 3012,
+			"name" : "Robe of the Wise・Custom",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 2,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3002
+		},
+		{
+			"id" : 3013,
+			"name" : "Soken_3_3",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 3,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3014,
+			"name" : "Soken_3_4",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 4,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3015,
+			"name" : "Soken_3_5",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 5,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3016,
+			"name" : "Robe of the Wise・Extra",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 6,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3006
+		},
+		{
+			"id" : 3017,
+			"name" : "Soken_3_7",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 7,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3018,
+			"name" : "Soken_3_8",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 8,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3019,
+			"name" : "Soken_3_9",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_003",
+			"colorId" : 9,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3020,
+			"name" : "Combat White Robe",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 0,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3021,
+			"name" : "Combat White Robe・Arrange",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 1,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3001
+		},
+		{
+			"id" : 3022,
+			"name" : "Combat White Robe・Custom",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 2,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3002
+		},
+		{
+			"id" : 3023,
+			"name" : "Soken_4_3",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 3,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3024,
+			"name" : "Soken_4_4",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 4,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3025,
+			"name" : "Soken_4_5",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 5,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3026,
+			"name" : "Soken_4_6",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 6,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3027,
+			"name" : "Combat White Robe・High End",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 7,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3007
+		},
+		{
+			"id" : 3028,
+			"name" : "Combat White Robe・Extra",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 8,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3010
+		},
+		{
+			"id" : 3029,
+			"name" : "Soken_4_9",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_004",
+			"colorId" : 9,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3040,
+			"name" : "Soken_6_0",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 0,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3041,
+			"name" : "Soken_6_1",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 1,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3042,
+			"name" : "Soken_6_2",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 2,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3043,
+			"name" : "Soken_6_3",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 3,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3044,
+			"name" : "Soken_6_4",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 4,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3045,
+			"name" : "Soken_6_5",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 5,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3046,
+			"name" : "Soken_6_6",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 6,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3047,
+			"name" : "Soken_6_7",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 7,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3048,
+			"name" : "Soken_6_8",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 8,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3049,
+			"name" : "Soken_6_9",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_006",
+			"colorId" : 9,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3050,
+			"name" : "Survey Team Clothing・Forest Type",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 0,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3009
+		},
+		{
+			"id" : 3051,
+			"name" : "Soken_7_1",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 1,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3052,
+			"name" : "Soken_7_2",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 2,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3053,
+			"name" : "Survey Team Clothing・Mining Type",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 3,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3003
+		},
+		{
+			"id" : 3054,
+			"name" : "Soken_7_4",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 4,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3055,
+			"name" : "Survey Team Clothing・Marshland Type",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 5,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3010
+		},
+		{
+			"id" : 3056,
+			"name" : "Soken_7_6",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 6,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3057,
+			"name" : "Soken_7_7",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 7,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3000
+		},
+		{
+			"id" : 3058,
+			"name" : "Survey Team Clothing・Prairie Type",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 8,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3009
+		},
+		{
+			"id" : 3059,
+			"name" : "Survey Team Clothing・Abandoned Building Type",
+			"iconName" : "costume_3000",
+			"objectName" : "ch_b_a_h_007",
+			"colorId" : 9,
+			"equipableChara" : 3000,
+			"godCostumeId" : 3008
+		},
+		{
+			"id" : 4000,
+			"name" : "Monk's Outfit",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 0,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4001,
+			"name" : "Monk's Outfit・Arrange",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 1,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4001
+		},
+		{
+			"id" : 4002,
+			"name" : "Monk's Outfit・Custom",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 2,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4005
+		},
+		{
+			"id" : 4003,
+			"name" : "Lotta_2_3",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 3,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4004,
+			"name" : "Monk's Outfit・Extra",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 4,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4004
+		},
+		{
+			"id" : 4005,
+			"name" : "Lotta_2_5",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 5,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4006,
+			"name" : "Lotta_2_6",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 6,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4007,
+			"name" : "Lotta_2_7",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 7,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4008,
+			"name" : "Lotta_2_8",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 8,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4009,
+			"name" : "Lotta_2_9",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_002",
+			"colorId" : 9,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4010,
+			"name" : "Holy Outfit",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 0,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4011,
+			"name" : "Holy Outfit・Arrange",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 1,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4006
+		},
+		{
+			"id" : 4012,
+			"name" : "Holy Outfit・Custom",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 2,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4002
+		},
+		{
+			"id" : 4013,
+			"name" : "Lotta_3_3",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 3,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4014,
+			"name" : "Lotta_3_4",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 4,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4015,
+			"name" : "Holy Outfit・High End",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 5,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4005
+		},
+		{
+			"id" : 4016,
+			"name" : "Lotta_3_6",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 6,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4017,
+			"name" : "Lotta_3_7",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 7,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4018,
+			"name" : "Lotta_3_8",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 8,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4019,
+			"name" : "Holy Outfit・Vintage",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_003",
+			"colorId" : 9,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4007
+		},
+		{
+			"id" : 4020,
+			"name" : "Holy School Uniform",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 0,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4009
+		},
+		{
+			"id" : 4021,
+			"name" : "Holy School Uniform・Arrange",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 1,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4022,
+			"name" : "Holy School Uniform・Custom",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 2,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4007
+		},
+		{
+			"id" : 4023,
+			"name" : "Lotta_4_3",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 3,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4024,
+			"name" : "Lotta_4_4",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 4,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4025,
+			"name" : "Lotta_4_5",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 5,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4026,
+			"name" : "Lotta_4_6",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 6,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4027,
+			"name" : "Lotta_4_7",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 7,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4028,
+			"name" : "Holy School Uniform・Extra",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 8,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4010
+		},
+		{
+			"id" : 4029,
+			"name" : "Lotta_4_9",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_004",
+			"colorId" : 9,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4030,
+			"name" : "Dainty Formal Wear",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 0,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4031,
+			"name" : "Lotta_5_1",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 1,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4032,
+			"name" : "Lotta_5_2",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 2,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4002
+		},
+		{
+			"id" : 4033,
+			"name" : "Lotta_5_3",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 3,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4034,
+			"name" : "Dainty Formal Wear・Arrange",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 4,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4035,
+			"name" : "Dainty Formal Wear・Custom",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 5,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4036,
+			"name" : "Lotta_5_6",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 6,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4006
+		},
+		{
+			"id" : 4037,
+			"name" : "Lotta_5_7",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 7,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4007
+		},
+		{
+			"id" : 4038,
+			"name" : "Dainty Formal Wear・Extra",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 8,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4008
+		},
+		{
+			"id" : 4039,
+			"name" : "Lotta_5_9",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_005",
+			"colorId" : 9,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4005
+		},
+		{
+			"id" : 4040,
+			"name" : "Saint's Dress・White",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 0,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4006
+		},
+		{
+			"id" : 4041,
+			"name" : "Lotta_6_1",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 1,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4001
+		},
+		{
+			"id" : 4042,
+			"name" : "Saint's Dress・Navy",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 2,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4005
+		},
+		{
+			"id" : 4043,
+			"name" : "Lotta_6_3",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 3,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4044,
+			"name" : "Lotta_6_4",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 4,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4004
+		},
+		{
+			"id" : 4045,
+			"name" : "Lotta_6_5",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 5,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4046,
+			"name" : "Saint's Dress・Black",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 6,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4011
+		},
+		{
+			"id" : 4047,
+			"name" : "Saint's Dress・Red",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 7,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4048,
+			"name" : "Saint's Dress・Yellow",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 8,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4049,
+			"name" : "Saint's Dress・Green",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_006",
+			"colorId" : 9,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4009
+		},
+		{
+			"id" : 4050,
+			"name" : "Saint Coat・White",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 0,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4006
+		},
+		{
+			"id" : 4051,
+			"name" : "Saint Coat・Amethyst",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 1,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4001
+		},
+		{
+			"id" : 4052,
+			"name" : "Saint Coat・Gray",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 2,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4005
+		},
+		{
+			"id" : 4053,
+			"name" : "Lotta_7_3",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 3,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4054,
+			"name" : "Saint Coat・Rose",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 4,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4004
+		},
+		{
+			"id" : 4055,
+			"name" : "Lotta_7_5",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 5,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4056,
+			"name" : "Saint Coat・Blue",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 6,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4005
+		},
+		{
+			"id" : 4057,
+			"name" : "Lotta_7_7",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 7,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4058,
+			"name" : "Lotta_7_8",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 8,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4000
+		},
+		{
+			"id" : 4059,
+			"name" : "Saint Coat・Pastel",
+			"iconName" : "costume_4000",
+			"objectName" : "ch_y_a_h_007",
+			"colorId" : 9,
+			"equipableChara" : 4000,
+			"godCostumeId" : 4010
+		},
+		{
+			"id" : 4100,
+			"name" : "Priest's Outfit",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 0,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4101,
+			"name" : "Priest's Outfit・Arrange",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 1,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4101
+		},
+		{
+			"id" : 4102,
+			"name" : "Priest's Outfit・Custom",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 2,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4102
+		},
+		{
+			"id" : 4103,
+			"name" : "Cecilia_3_3",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 3,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4104,
+			"name" : "Cecilia_3_4",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 4,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4105,
+			"name" : "Cecilia_3_5",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 5,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4106,
+			"name" : "Cecilia_3_6",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 6,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4107,
+			"name" : "Cecilia_3_7",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 7,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4107
+		},
+		{
+			"id" : 4108,
+			"name" : "Cecilia_3_8",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 8,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4109,
+			"name" : "Priest's Outfit・Extra",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_003",
+			"colorId" : 9,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4106
+		},
+		{
+			"id" : 4110,
+			"name" : "Choir Clothes",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 0,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4111,
+			"name" : "Choir Clothes・Arrange",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 1,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4101
+		},
+		{
+			"id" : 4112,
+			"name" : "Choir Clothes・Custom",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 2,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4102
+		},
+		{
+			"id" : 4113,
+			"name" : "Cecilia_2_3",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 3,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4114,
+			"name" : "Cecilia_2_4",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 4,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4115,
+			"name" : "Cecilia_2_5",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 5,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4116,
+			"name" : "Cecilia_2_6",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 6,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4117,
+			"name" : "Choir Clothes・Vintage",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 7,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4107
+		},
+		{
+			"id" : 4118,
+			"name" : "Cecilia_2_8",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 8,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4119,
+			"name" : "Choir Clothes・High End",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_002",
+			"colorId" : 9,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4109
+		},
+		{
+			"id" : 4120,
+			"name" : "Blessed Sacrament",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 0,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4121,
+			"name" : "Cecilia_4_1",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 1,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4122,
+			"name" : "Cecilia_4_2",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 2,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4123,
+			"name" : "Blessed Sacrament・Arrange",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 3,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4107
+		},
+		{
+			"id" : 4124,
+			"name" : "Blessed Sacrament・Custom",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 4,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4109
+		},
+		{
+			"id" : 4125,
+			"name" : "Blessed Sacrament・Vintage",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 5,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4105
+		},
+		{
+			"id" : 4126,
+			"name" : "Cecilia_4_6",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 6,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4127,
+			"name" : "Cecilia_4_7",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 7,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4128,
+			"name" : "Cecilia_4_8",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 8,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4129,
+			"name" : "Blessed Sacrament・High End",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_004",
+			"colorId" : 9,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4111
+		},
+		{
+			"id" : 4130,
+			"name" : "War Nun Vestments・Black",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 0,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4111
+		},
+		{
+			"id" : 4131,
+			"name" : "Cecilia_5_1",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 1,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4132,
+			"name" : "Cecilia_5_2",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 2,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4104
+		},
+		{
+			"id" : 4133,
+			"name" : "Cecilia_5_3",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 3,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4134,
+			"name" : "War Nun Vestments・Red",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 4,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4106
+		},
+		{
+			"id" : 4135,
+			"name" : "Cecilia_5_5",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 5,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4136,
+			"name" : "Cecilia_5_6",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 6,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4137,
+			"name" : "War Nun Vestments・Green",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 7,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4109
+		},
+		{
+			"id" : 4138,
+			"name" : "Cecilia_5_8",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 8,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4100
+		},
+		{
+			"id" : 4139,
+			"name" : "Cecilia_5_9",
+			"iconName" : "costume_4100",
+			"objectName" : "ch_y_b_h_005",
+			"colorId" : 9,
+			"equipableChara" : 4100,
+			"godCostumeId" : 4105
+		},
+		{
+			"id" : 5000,
+			"name" : "Knight's Outfit",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 0,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5001,
+			"name" : "Knight's Outfit・Arrange",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 1,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5001
+		},
+		{
+			"id" : 5002,
+			"name" : "Knight's Outfit・Custom",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 2,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5002
+		},
+		{
+			"id" : 5003,
+			"name" : "Bernalio_2_3",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 3,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5004,
+			"name" : "Bernalio_2_4",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 4,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5005,
+			"name" : "Bernalio_2_5",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 5,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5006,
+			"name" : "Knight's Outfit・Vintage",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 6,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5007,
+			"name" : "Bernalio_2_7",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 7,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5008,
+			"name" : "Knight's Outfit・High End",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 8,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5006
+		},
+		{
+			"id" : 5009,
+			"name" : "Bernalio_2_9",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_002",
+			"colorId" : 9,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5010,
+			"name" : "Protective Armor",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 0,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5011,
+			"name" : "Protective Armor・Arrange",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 1,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5001
+		},
+		{
+			"id" : 5012,
+			"name" : "Protective Armor・Custom",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 2,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5002
+		},
+		{
+			"id" : 5013,
+			"name" : "Bernalio_3_3",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 3,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5014,
+			"name" : "Bernalio_3_4",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 4,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5015,
+			"name" : "Bernalio_3_5",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 5,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5016,
+			"name" : "Protective Armor・Vintage",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 6,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5006
+		},
+		{
+			"id" : 5017,
+			"name" : "Bernalio_3_7",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 7,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5018,
+			"name" : "Protective Armor・High End",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 8,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5011
+		},
+		{
+			"id" : 5019,
+			"name" : "Bernalio_3_9",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_003",
+			"colorId" : 9,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5020,
+			"name" : "Magic Steel Armor",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 0,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5002
+		},
+		{
+			"id" : 5021,
+			"name" : "Magic Steel Armor・Arrange",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 1,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5001
+		},
+		{
+			"id" : 5022,
+			"name" : "Magic Steel Armor・Custom",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 2,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5002
+		},
+		{
+			"id" : 5023,
+			"name" : "Bernalio_4_3",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 3,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5024,
+			"name" : "Bernalio_4_4",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 4,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5025,
+			"name" : "Bernalio_4_5",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 5,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5026,
+			"name" : "Magic Steel Armor・High End",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 6,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5006
+		},
+		{
+			"id" : 5027,
+			"name" : "Magic Steel Armor・Extra",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 7,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5007
+		},
+		{
+			"id" : 5028,
+			"name" : "Bernalio_4_8",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 8,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5029,
+			"name" : "Bernalio_4_9",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_004",
+			"colorId" : 9,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5030,
+			"name" : "War King Armor・Rock",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 0,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5031,
+			"name" : "Bernalio_5_1",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 1,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5032,
+			"name" : "War King Armor・Watter",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 2,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5001
+		},
+		{
+			"id" : 5033,
+			"name" : "War King Armor・Gold",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 3,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5003
+		},
+		{
+			"id" : 5034,
+			"name" : "War King Armor・Electric",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 4,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5009
+		},
+		{
+			"id" : 5035,
+			"name" : "Bernalio_5_5",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 5,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5036,
+			"name" : "Bernalio_5_6",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 6,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5037,
+			"name" : "War King Armor・Fire",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 7,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5007
+		},
+		{
+			"id" : 5038,
+			"name" : "War King Armor・Phantom",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 8,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5007
+		},
+		{
+			"id" : 5039,
+			"name" : "Bernalio_5_9",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_005",
+			"colorId" : 9,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5040,
+			"name" : "Bernalio_6_0",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 0,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5041,
+			"name" : "Cloak of the Nomad・Ash",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 1,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5001
+		},
+		{
+			"id" : 5042,
+			"name" : "Bernalio_6_2",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 2,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5043,
+			"name" : "Cloak of the Nomad・Silver",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 3,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5006
+		},
+		{
+			"id" : 5044,
+			"name" : "Cloak of the Nomad・Yellow",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 4,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5008
+		},
+		{
+			"id" : 5045,
+			"name" : "Cloak of the Nomad・Purple",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 5,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5010
+		},
+		{
+			"id" : 5046,
+			"name" : "Bernalio_6_6",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 6,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5047,
+			"name" : "Bernalio_6_7",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 7,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5048,
+			"name" : "Bernalio_6_8",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 8,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5049,
+			"name" : "Cloak of the Nomad・Red",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_006",
+			"colorId" : 9,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5005
+		},
+		{
+			"id" : 5050,
+			"name" : "Bernalio_7_0",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 0,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5051,
+			"name" : "Bernalio_7_1",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 1,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5052,
+			"name" : "Bernalio_7_2",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 2,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5053,
+			"name" : "Bernalio_7_3",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 3,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5054,
+			"name" : "Bernalio_7_4",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 4,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5055,
+			"name" : "Bernalio_7_5",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 5,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5056,
+			"name" : "Bernalio_7_6",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 6,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5057,
+			"name" : "Bernalio_7_7",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 7,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5058,
+			"name" : "Bernalio_7_8",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 8,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 5059,
+			"name" : "Bernalio_7_9",
+			"iconName" : "costume_5000",
+			"objectName" : "ch_c_a_h_007",
+			"colorId" : 9,
+			"equipableChara" : 5000,
+			"godCostumeId" : 5000
+		},
+		{
+			"id" : 6000,
+			"name" : "Witch's Oufit",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 0,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6001,
+			"name" : "Witch's Oufit・Arrange",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 1,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6001
+		},
+		{
+			"id" : 6002,
+			"name" : "Witch's Oufit・Custom",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 2,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6002
+		},
+		{
+			"id" : 6003,
+			"name" : "Misha_2_3",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 3,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6004,
+			"name" : "Misha_2_4",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 4,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6005,
+			"name" : "Witch's Oufit・Extra",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 5,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6005
+		},
+		{
+			"id" : 6006,
+			"name" : "Misha_2_6",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 6,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6007,
+			"name" : "Misha_2_7",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 7,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6008,
+			"name" : "Misha_2_8",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 8,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6009,
+			"name" : "Misha_2_9",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_002",
+			"colorId" : 9,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6010,
+			"name" : "Dancer's Dress",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 0,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6011,
+			"name" : "Dancer's Dress・Arrange",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 1,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6003
+		},
+		{
+			"id" : 6012,
+			"name" : "Dancer's Dress・Custom",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 2,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6005
+		},
+		{
+			"id" : 6013,
+			"name" : "Misha_3_3",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 3,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6014,
+			"name" : "Misha_3_4",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 4,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6015,
+			"name" : "Misha_3_5",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 5,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6016,
+			"name" : "Misha_3_6",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 6,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6017,
+			"name" : "Dancer's Dress・Vintage",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 7,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6007
+		},
+		{
+			"id" : 6018,
+			"name" : "Dancer's Dress・High End",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 8,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6008
+		},
+		{
+			"id" : 6019,
+			"name" : "Misha_3_9",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_003",
+			"colorId" : 9,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6020,
+			"name" : "Black Night Party Attire",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 0,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6021,
+			"name" : "Black Night Party Attire・Arrange",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 1,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6001
+		},
+		{
+			"id" : 6022,
+			"name" : "Black Night Party Attire・Custom",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 2,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6002
+		},
+		{
+			"id" : 6023,
+			"name" : "Misha_4_3",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 3,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6024,
+			"name" : "Misha_4_4",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 4,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6025,
+			"name" : "Misha_4_5",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 5,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6026,
+			"name" : "Black Night Party Attire・Vintage",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 6,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6006
+		},
+		{
+			"id" : 6027,
+			"name" : "Misha_4_7",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 7,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6028,
+			"name" : "Black Night Party Attire・High End",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 8,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6008
+		},
+		{
+			"id" : 6029,
+			"name" : "Black Night Party Attire・Extra",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_004",
+			"colorId" : 9,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6007
+		},
+		{
+			"id" : 6040,
+			"name" : "Curse Dress・Magic Princess",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 0,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6041,
+			"name" : "Misha_6_1",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 1,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6042,
+			"name" : "Misha_6_2",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 2,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6043,
+			"name" : "Misha_6_3",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 3,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6044,
+			"name" : "Curse Dress・Soothsayer",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 4,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6004
+		},
+		{
+			"id" : 6045,
+			"name" : "Curse Dress・Daughter of Poison",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 5,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6005
+		},
+		{
+			"id" : 6046,
+			"name" : "Misha_6_6",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 6,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6047,
+			"name" : "Curse Dress・Crown Princess",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 7,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6007
+		},
+		{
+			"id" : 6048,
+			"name" : "Curse Dress・White Death",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 8,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6006
+		},
+		{
+			"id" : 6049,
+			"name" : "Curse Dress・Flower of Darkness",
+			"iconName" : "costume_6000",
+			"objectName" : "ch_p_a_h_006",
+			"colorId" : 9,
+			"equipableChara" : 6000,
+			"godCostumeId" : 6000
+		},
+		{
+			"id" : 6100,
+			"name" : "Assassin's Outfit",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 0,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6101,
+			"name" : "Assassin's Outfit・Arrange",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 1,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6101
+		},
+		{
+			"id" : 6102,
+			"name" : "Assassin's Outfit・Custom",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 2,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6102
+		},
+		{
+			"id" : 6103,
+			"name" : "Despine_3_3",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 3,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6104,
+			"name" : "Assassin's Outfit・Vintage",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 4,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6104
+		},
+		{
+			"id" : 6105,
+			"name" : "Despine_3_5",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 5,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6106,
+			"name" : "Despine_3_6",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 6,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6107,
+			"name" : "Despine_3_7",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 7,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6108,
+			"name" : "Despine_3_8",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 8,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6109,
+			"name" : "Assassin's Outfit・High End",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_003",
+			"colorId" : 9,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6107
+		},
+		{
+			"id" : 6110,
+			"name" : "Raid Suit",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 0,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6111,
+			"name" : "Raid Suit・Arrange",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 1,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6109
+		},
+		{
+			"id" : 6112,
+			"name" : "Raid Suit・Custom",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 2,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6101
+		},
+		{
+			"id" : 6113,
+			"name" : "Despine_2_3",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 3,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6114,
+			"name" : "Despine_2_4",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 4,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6115,
+			"name" : "Despine_2_5",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 5,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6116,
+			"name" : "Despine_2_6",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 6,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6117,
+			"name" : "Raid Suit・Vintage",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 7,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6107
+		},
+		{
+			"id" : 6118,
+			"name" : "Despine_2_8",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 8,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6119,
+			"name" : "Raid Suit・High End",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_002",
+			"colorId" : 9,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6105
+		},
+		{
+			"id" : 6120,
+			"name" : "Divine Punishment Garment",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 0,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6121,
+			"name" : "Despine_4_1",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 1,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6122,
+			"name" : "Divine Punishment Garment・Arrange",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 2,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6104
+		},
+		{
+			"id" : 6123,
+			"name" : "Divine Punishment Garment・High End",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 3,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6107
+		},
+		{
+			"id" : 6124,
+			"name" : "Despine_4_4",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 4,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6125,
+			"name" : "Divine Punishment Garment・Vintage",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 5,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6111
+		},
+		{
+			"id" : 6126,
+			"name" : "Despine_4_6",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 6,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6127,
+			"name" : "Despine_4_7",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 7,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6128,
+			"name" : "Despine_4_8",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 8,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6129,
+			"name" : "Divine Punishment Garment・Custom",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_004",
+			"colorId" : 9,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6105
+		},
+		{
+			"id" : 6130,
+			"name" : "Lady's Attire・Mistress",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 0,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6131,
+			"name" : "Lady's Attire・Queen",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 1,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6101
+		},
+		{
+			"id" : 6132,
+			"name" : "Despine_5_2",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 2,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6133,
+			"name" : "Despine_5_3",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 3,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6134,
+			"name" : "Lady's Attire・Widow",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 4,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6110
+		},
+		{
+			"id" : 6135,
+			"name" : "Lady's Attire・Lady",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 5,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6101
+		},
+		{
+			"id" : 6136,
+			"name" : "Despine_5_6",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 6,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6137,
+			"name" : "Despine_5_7",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 7,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6138,
+			"name" : "Despine_5_8",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 8,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6100
+		},
+		{
+			"id" : 6139,
+			"name" : "Lady's Attire・Assassin",
+			"iconName" : "costume_6100",
+			"objectName" : "ch_p_b_h_005",
+			"colorId" : 9,
+			"equipableChara" : 6100,
+			"godCostumeId" : 6106
+		}
+	]
+}

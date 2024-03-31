@@ -1,0 +1,93 @@
+ショップ=Shop
+カスタマイズ=Customization
+交換=Exchange
+新商品=New Items
+商品カテゴリー=Category
+装備中=Equipped
+未所持=Unpalated
+カード召喚=Summon Cards
+変更=Change
+クレジットやチケットでカードを獲得できます=Buy Cards with Credits or Summon Tickets
+素材をPRカードに交換できます=Craft PR Cards with Material
+カードを召喚補助チケットに変換できます=Convert Cards to Summon Assist tickets
+素材でキャラクターのカスタマイズができます=Use Materials to buy Customization Items
+クレジットで{{A}}コインを購入できます=Buy {{A}} coins with credits
+開催期間 1969/12/31 19:00:00 ～ 2029/12/31 18:00:00=Open from 1969/12/31 19:00 to 2029/12/31 18:00:00
+あと1回可能=Summons Left: 1
+1回召喚=Summon 1
+無料=Free
+※同一カードの所持上限はエンチャントごとに9枚となります。\r\n※所持上限を超えたカード1枚につき召喚補助チケット1枚に自動で変換されます。=※ The maximum number of copies you can have of one card with the same enchantment is 9.\n※ Cards that exceed this limit are automatically converted to Summon Tickets.
+Summon Assist Ticket所持数:{{0}}=Summon Assist Tickets:
+カード\n選択=Choose\nCard
+タッチで変更=Touch to Change
+固定枠=Fixed Card
+召喚=Summon
+必要な素材=Items Used
+リセット=Reset
+ユニット順=Units
+所持カード一覧=Cards Owned
+カード分解=Card Disassembly
+分解=Disassemble
+所持数２枚以上のカードを\r\n分解することができます。\r\n\r\nカードを追加してください。\r=Cards which you have 2 or more copies can be disassembled.\nPlease select cards.
+分解カード一覧=Craftable Card List
+獲得アイテム=Obtained Item
+余剰カード選択=Select Excess Cards
+PRカード交換=PR Card Exchange
+所持済み=Owned
+PRカード一覧=PR Card List
+{{A}}コイン購入=Purchase {{A}} Coins
+上限を超えるため購入不可=Limit Reached
+カード生成に必要な素材。\n全国対戦や探索などのバトルや、カードの分解により入手できる。=Materials required for card crafting.\nIt can be obtained by battles such as Net Battle and Exploration, and disassembly of cards.
+
+カード×1獲得=Receive 1 Card
+カード×2獲得=Receive 2 Cards
+
+所持=Owned
+
+武器=Weapon
+なし=None
+レアリティ=Rarity
+ユニット=Unit
+カード<br>カテゴリ=Card<br>Category
+絞り込み=Filter
+並び順\n=Sort\n
+道具=Tool
+魔法=Magic
+カテゴリ順=Categories
+レアリティ順=Rarity
+必要MP順=Required MP
+エンチャント=Enchantment
+1： ユニット順=1: Units
+2： ユニット順=2: Units
+2： カテゴリ順=2: Categories
+1： カテゴリ順=1: Categories
+1： 必要MP順=1: Required MP
+2： 必要MP順=2: Required MP
+1： レアリティ順=1: Rarity
+2： レアリティ順=2: Rarity
+
+r:"^(.*?)×([0-9]+)を消費して<br><color\=#00aaaaff>(.*?)</color>に変更します。<br>よろしいですか？$"=Consume $1 x $2<br> to change to <color\=#00aaaaff>$3</color>.<br>Is this OK?
+r:"^(.*?)変更$"=Change $1
+r:"^素材を消費して<br><color\=#00aaaaff>(.*?)</color>に変更しました。$"=Consumed the material, and changed to<br><color\=#00aaaaff>$1</color>.
+r:"^(.*?)×([0-9]+)を消費して<br><color\=#00aaaaff>(.*?)</color>と交換します。<br>よろしいですか？$"=Exchange $1 x $2<br> to purchase <color\=#00aaaaff>$3</color>.<br>Is this OK?
+カスタマイズアイテム交換=Custom Item Exchange
+r:"^素材を消費して<br><color\=#00aaaaff>(.*?)</color>を獲得しました。$"=Consumed the material, and obtained<br><color\=#00aaaaff>$1</color>.
+
+選択したカードを分解します。<br>よろしいですか？=The selected card(s) will be destroyed.<br>Is this OK?
+
+r:"※クロレガコイン<color\=#FF55E1><size\=24>([0-9]+)枚</size></color>が<br><color\=#FF55E1>(.*?)</color>に失効します"=※<color\=#FF55E1><size\=24>$1</size> coins</color> will expire on <br><color\=#FF55E1>$2</color>
+r:"^所持コイン×([0-9]+)"=Coins owned: $1
+クロレガコイン購入=Purchase Chrorega Coins
+r:"^クロレガコイン×([0-9]+)$"=Chrorega Coins x$1
+クロレガコインについて\r\n・クロレガコインはクロレガ.NETでのみ使用可能です。\r\n・所持上限は3000枚です。換金、返金はできません。\r\n・有効期限は購入した月から4カ月後の月末になります。\r\n・有効期限が過ぎたクロレガコインはすべて失効となります。\r\n ご購入の際はご注意ください。=・ Chrorega coins can only be used on Chrorega.NET.\n・ The max amount owned at any given time is 3000.\n・ You cannot redeem or refund them.\n・ The expiration date is the end of the month, 4 months after the month of purchase.\n・ All Chrorega coins that have expired will be unusable.\nPlease be considerate when purchasing.
+クレジットでクロレガコインを購入できます=Buy Chrorega coins with credits
+
+r:"^(.*?)<color\=#FF55E1><size\=24>([0-9]+)枚</size></color>が<br><color\=#FF55E1>(.*?)</color>に失効します$"=<color\=#FF55E1><size\=24>$2</size> $1</color> will expire on <br><color\=#FF55E1>$3</color>.
+r:"^チケット×([0-9]+)$"=Ticket x $1
+r:"^素材を消費して、<br><color\=#00aaaaff>(.*?)</color>を召喚します。<br><size\=28>※エンチャントはランダムです。</size>$"=Consume materials, and summon <br><color\=#00aaaaff>$1</color>.<br><size\=28>※ The enchantment will be picked at random.</size>
+※所持上限を超えたカードは自動的に分解されます。=※ Cards that exceed the possession limit are automatically disassembled.
+獲得カード一覧=List of obtained cards
+無料で実行出来ます。<br><br>よろしいですか？=This summon can be executed for free.<br><br>Is this OK?
+消費確認=Confirmation
+r:"^(.*?)×([0-9]+)を<br>消費します。<br><br>よろしいですか？$"=$1 x $2<br>will be consumed.<br><br>Is this OK?
+r:"^【(.*?)】で<br>カード召喚しましょう。<br><br>※タイムアウトした場合、ログアウトします。$"=Summon a card with<br>[$1]!<br><br>※ If time runs out, you will be logged out.

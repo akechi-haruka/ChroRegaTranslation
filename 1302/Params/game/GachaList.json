@@ -1,0 +1,73 @@
+{
+	"datalist" : [
+		{
+			"index" : 1,
+			"gachaid" : 1,
+			"name" : "Permanant Gacha",
+			"heldType" : 0,
+			"startDate" : "201803161000",
+			"endDate" : "219903181000",
+			"version" : 100,
+			"consumeType" : 0,
+			"consumeNum" : [
+				1,
+				3,
+				10
+			],
+			"lotteryNum" : [
+				1,
+				3,
+				10
+			],
+			"imageLargeFile" : "SHO_banner_gacha_001",
+			"imageSmallFile" : "SHO_banner_gacha_001",
+			"descriptionText" : "Permanant Gacha\nTrying to write a second line"
+		},
+		{
+			"index" : 2,
+			"gachaid" : 2,
+			"name" : "Shibori Gacha",
+			"heldType" : 2,
+			"startDate" : "201803161000",
+			"endDate" : "201804301000",
+			"version" : 100,
+			"consumeType" : 0,
+			"consumeNum" : [
+				1,
+				3,
+				0
+			],
+			"lotteryNum" : [
+				1,
+				3,
+				0
+			],
+			"imageLargeFile" : "SHO_banner_gacha_002",
+			"imageSmallFile" : "SHO_banner_gacha_002",
+			"descriptionText" : "testtttttt"
+		},
+		{
+			"index" : 3,
+			"gachaid" : 3,
+			"name" : "Free Gacha",
+			"heldType" : 2,
+			"startDate" : "201803161000",
+			"endDate" : "201805311000",
+			"version" : 100,
+			"consumeType" : 1,
+			"consumeNum" : [
+				0,
+				0,
+				0
+			],
+			"lotteryNum" : [
+				1,
+				3,
+				5
+			],
+			"imageLargeFile" : "SHO_banner_gacha_002_s",
+			"imageSmallFile" : "SHO_banner_gacha_002_s",
+			"descriptionText" : "Are you sure you can handle it?"
+		}
+	]
+}

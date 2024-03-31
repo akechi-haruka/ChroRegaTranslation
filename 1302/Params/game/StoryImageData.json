@@ -1,0 +1,516 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "クロノス",
+			"category" : 0,
+			"filePath" : "character_cmn_B_chronos_wh_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 2,
+			"name" : "シャドウ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_chronos_bl_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 3,
+			"name" : "アレク",
+			"category" : 0,
+			"filePath" : "character_cmn_B_red_human_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 4,
+			"name" : "ロッタ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_yellow_human_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 5,
+			"name" : "ルカ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_green_human_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 6,
+			"name" : "ソーケン",
+			"category" : 0,
+			"filePath" : "character_cmn_B_blue_human_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 7,
+			"name" : "ベルナリオ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_chairo_human_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 8,
+			"name" : "ミーシャ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_purple_human_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 9,
+			"name" : "ファイター（獣神）",
+			"category" : 0,
+			"filePath" : "character_cmn_B_red_god_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 10,
+			"name" : "クレリック（獣神）",
+			"category" : 0,
+			"filePath" : "character_cmn_B_yellow_god_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 11,
+			"name" : "ハンター（獣神）",
+			"category" : 0,
+			"filePath" : "character_cmn_B_green_god_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 12,
+			"name" : "ソーサラー（獣神）",
+			"category" : 0,
+			"filePath" : "character_cmn_B_blue_god_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 13,
+			"name" : "ナイト（獣神）",
+			"category" : 0,
+			"filePath" : "character_cmn_B_chairo_god_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 14,
+			"name" : "ウィッチ（獣神）",
+			"category" : 0,
+			"filePath" : "character_cmn_B_purple_god_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 15,
+			"name" : "フォロン",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_01_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 16,
+			"name" : "フォロンSD",
+			"category" : 0,
+			"filePath" : "navi_cmn_SD_01",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 17,
+			"name" : "ナビ2",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_02_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 18,
+			"name" : "ナビ3",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_03_a",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 19,
+			"name" : "ナビ4",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_04_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 20,
+			"name" : "アレク4話",
+			"category" : 1,
+			"filePath" : "card_101206",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 21,
+			"name" : "ルカ4話",
+			"category" : 1,
+			"filePath" : "card_102204",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 22,
+			"name" : "ソーケン4話",
+			"category" : 1,
+			"filePath" : "card_103209",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 23,
+			"name" : "ロッタ4話",
+			"category" : 1,
+			"filePath" : "card_104209",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 24,
+			"name" : "ベル4話1",
+			"category" : 1,
+			"filePath" : "card_105100",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 25,
+			"name" : "ベル4話2",
+			"category" : 1,
+			"filePath" : "card_105208",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 26,
+			"name" : "ベル4話3",
+			"category" : 1,
+			"filePath" : "card_105203",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 27,
+			"name" : "ベル4話4",
+			"category" : 1,
+			"filePath" : "card_105003",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 28,
+			"name" : "ベル4話5",
+			"category" : 1,
+			"filePath" : "card_105006",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 29,
+			"name" : "ミーシャ4話1",
+			"category" : 1,
+			"filePath" : "card_106103",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 30,
+			"name" : "ミーシャ4話2",
+			"category" : 1,
+			"filePath" : "card_106209",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 31,
+			"name" : "宝箱（UR、LE）",
+			"category" : 2,
+			"filePath" : "ResourceItem/CMN_Resource_TreasureChest_0003",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 32,
+			"name" : "金袋",
+			"category" : 2,
+			"filePath" : "ResourceItem/CMN_Resource_Money_0000",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 33,
+			"name" : "イベントロゴ",
+			"category" : 2,
+			"filePath" : "EventLogo/CMN_EventLogo_20180700",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 34,
+			"name" : "デスピナ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_purple_human_b",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 35,
+			"name" : "セシリア",
+			"category" : 0,
+			"filePath" : "character_cmn_B_yellow_human_b",
+			"direction" : 2,
+			"!direction" : "左"
+		},
+		{
+			"id" : 36,
+			"name" : "レーネ",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_02_a",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 37,
+			"name" : "アストレア",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_03_a",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 38,
+			"name" : "マイア",
+			"category" : 0,
+			"filePath" : "character_cmn_B_navi_04_a",
+			"direction" : 1,
+			"!direction" : "右"
+		},
+		{
+			"id" : 39,
+			"name" : "デスピナ4話1",
+			"category" : 1,
+			"filePath" : "card_112102",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 40,
+			"name" : "デスピナ4話2",
+			"category" : 1,
+			"filePath" : "card_112202",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 41,
+			"name" : "3章3話",
+			"category" : 1,
+			"filePath" : "card_112013",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 42,
+			"name" : "3章4話",
+			"category" : 1,
+			"filePath" : "card_110009",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 43,
+			"name" : "イベント1",
+			"category" : 1,
+			"filePath" : "card_104019",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 44,
+			"name" : "イベント2",
+			"category" : 1,
+			"filePath" : "card_112010",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 45,
+			"name" : "イベント3_1",
+			"category" : 1,
+			"filePath" : "card_106001",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 46,
+			"name" : "イベント3_2",
+			"category" : 1,
+			"filePath" : "card_102015",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 47,
+			"name" : "イベント3_3",
+			"category" : 1,
+			"filePath" : "card_102012",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 48,
+			"name" : "イベント3_4",
+			"category" : 1,
+			"filePath" : "card_103017",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 49,
+			"name" : "イベント4",
+			"category" : 1,
+			"filePath" : "card_106017",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 50,
+			"name" : "セシリア4話1",
+			"category" : 1,
+			"filePath" : "card_110004",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 51,
+			"name" : "セシリア4話2",
+			"category" : 1,
+			"filePath" : "card_110003",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 52,
+			"name" : "セシリア4話3",
+			"category" : 1,
+			"filePath" : "card_110007",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 53,
+			"name" : "セシリア4話4",
+			"category" : 1,
+			"filePath" : "card_104016",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 54,
+			"name" : "セシリア4話5",
+			"category" : 1,
+			"filePath" : "card_110103",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 55,
+			"name" : "イベント5",
+			"category" : 1,
+			"filePath" : "card_110006",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 56,
+			"name" : "イベント6",
+			"category" : 1,
+			"filePath" : "card_105022",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 57,
+			"name" : "イベント7_1",
+			"category" : 1,
+			"filePath" : "card_102105",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 58,
+			"name" : "イベント7_2",
+			"category" : 1,
+			"filePath" : "card_112105",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 59,
+			"name" : "イベント8_1",
+			"category" : 1,
+			"filePath" : "card_103110",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 60,
+			"name" : "イベント8_2",
+			"category" : 1,
+			"filePath" : "card_101101",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 61,
+			"name" : "イベント8_3",
+			"category" : 1,
+			"filePath" : "card_103006",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 62,
+			"name" : "イベント8_4",
+			"category" : 1,
+			"filePath" : "card_103001",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 63,
+			"name" : "イベント8_5",
+			"category" : 1,
+			"filePath" : "card_105019",
+			"direction" : 0,
+			"!direction" : "中"
+		},
+		{
+			"id" : 64,
+			"name" : "デメテル",
+			"category" : 0,
+			"filePath" : "character_cmn_B_yellow_god_b",
+			"direction" : 1,
+			"!direction" : "右"
+		}
+	]
+}

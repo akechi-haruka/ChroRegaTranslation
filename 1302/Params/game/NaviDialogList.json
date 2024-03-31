@@ -1,0 +1,1316 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "None",
+			"message" : "無効なダイアログです",
+			"posType" : 4,
+			"timeoutTime" : 0,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1001,
+			"name" : "Tutorial_00_01",
+			"message" : "クロノス様、敵が現れました！\nこれからバトルについて説明します！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1002,
+			"name" : "Tutorial_00_02",
+			"message" : "まずはゲームルールについて\n説明していきます。",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1003,
+			"name" : "Tutorial_00_03",
+			"message" : "残り時間の表示です。\nこの時間内に……",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1004,
+			"name" : "Tutorial_00_04",
+			"message" : "ＨＰが多く残っているプレイヤーの\n勝利となります。",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1005,
+			"name" : "Tutorial_00_05",
+			"message" : "また、どちらかのＨＰが０になると\nその時点で決着となります。",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1101,
+			"name" : "Tutorial_01_01",
+			"message" : "ＨＰにダメージを与えるには\nキャラクターを出撃させる必要が\nあります。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1102,
+			"name" : "Tutorial_01_02",
+			"message" : "相手エリアに到達すると攻撃します。\n出撃させましょう。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1103,
+			"name" : "Tutorial_01_03",
+			"message" : "出撃できました！\nキャラクターにはいくつかの\nパラメータがあります。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1104,
+			"name" : "Tutorial_01_04",
+			"message" : "キャラクターのＨＰです。\n０になると一定時間、行動不能に\nなります。",
+			"posType" : 6,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1105,
+			"name" : "Tutorial_01_05",
+			"message" : "攻撃力です。\n数値が高いほど相手に与える\nダメージが増えます。",
+			"posType" : 6,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1106,
+			"name" : "Tutorial_01_06",
+			"message" : "レベルです。\n行動するとレベルが上がります。",
+			"posType" : 6,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1107,
+			"name" : "Tutorial_01_07",
+			"message" : "移動や戦闘までの時間です。\nメモリがなくなると行動します。",
+			"posType" : 6,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1201,
+			"name" : "Tutorial_02_01",
+			"message" : "敵が出撃しました！\n武器カードで迎撃しましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1202,
+			"name" : "Tutorial_02_02",
+			"message" : "カードを使用するには\nプレイヤーのＭＰが必要です。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1203,
+			"name" : "Tutorial_02_03",
+			"message" : "ＭＰが足りませんね……\nＭＰは時間経過で増えていきます。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1204,
+			"name" : "Tutorial_02_04",
+			"message" : "また、カードをＭＰに変換して\n増やすことができます。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1205,
+			"name" : "Tutorial_02_05",
+			"message" : "今回は、ＭＰが増えるのを\n待ちましょう。",
+			"posType" : 8,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1206,
+			"name" : "Tutorial_02_06",
+			"message" : "ＭＰが増えました！\n敵と同じレーンに出撃させて\n戦闘をさせましょう。",
+			"posType" : 8,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1207,
+			"name" : "Tutorial_02_07",
+			"message" : "戦闘に勝つと、ＢＲＥＡＫとなり\n１ステップ進めます。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1208,
+			"name" : "Tutorial_02_08",
+			"message" : "戦闘に負けると行動不能となります。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1209,
+			"name" : "Tutorial_02_09",
+			"message" : "クロノスに攻撃した時、反撃によって\n武器カードが破壊され戻ってきます。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1210,
+			"name" : "Tutorial_02_10",
+			"message" : "また、出撃していない時は\nキャラクターのＨＰが\n徐々に回復します。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1301,
+			"name" : "Tutorial_03_01",
+			"message" : "次はキャラクターの復活についてです",
+			"posType" : 4,
+			"timeoutTime" : 4,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1302,
+			"name" : "Tutorial_03_02",
+			"message" : "行動不能になると表示されたカウントが\n経過するまで戻ってきません。",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1303,
+			"name" : "Tutorial_03_03",
+			"message" : "ただし、蘇生アイコンをタッチすることにより、\nライフを払ってキャラクターを\n蘇生することが出来ます。",
+			"posType" : 5,
+			"timeoutTime" : 6,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1304,
+			"name" : "Tutorial_03_04",
+			"message" : "上手蘇生できましたね。\nどうしてもすぐに復活させたいキャラクターが\n居る時は復活させるのも1つの手です",
+			"posType" : 5,
+			"timeoutTime" : 7,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1401,
+			"name" : "Tutorial_04_01",
+			"message" : "手札の補充について説明します。",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1402,
+			"name" : "Tutorial_04_02",
+			"message" : "カードストックの数だけ\nカードを引くことができます。\nカードストックは時間で増えます。",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1403,
+			"name" : "Tutorial_04_03",
+			"message" : "キャラクターごとの引くボタンから\nカードを引くことができます。",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1404,
+			"name" : "Tutorial_04_04",
+			"message" : "実際にカードを引いてみましょう。",
+			"posType" : 3,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1405,
+			"name" : "Tutorial_04_05",
+			"message" : "戦況を見ながら、どのキャラクターの\nカードを引くか判断しましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1501,
+			"name" : "Tutorial_05_01",
+			"message" : "道具カードを使ってみましょう。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1502,
+			"name" : "Tutorial_05_02",
+			"message" : "道具カードをタッチすると、\n出撃中のキャラクターに\n使用アイコンが出ます。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1503,
+			"name" : "Tutorial_05_03",
+			"message" : "出撃中の味方を\n強化してみましょう。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1504,
+			"name" : "Tutorial_05_04",
+			"message" : "味方が強化されました！\n道具カードで戦況を有利に\n変えていきましょう。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1601,
+			"name" : "Tutorial_06_01",
+			"message" : "魔法カードは、道具カードと異なり\n発動までに詠唱時間が必要です。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1602,
+			"name" : "Tutorial_06_02",
+			"message" : "また、詠唱中に行動不能や\n敵との戦闘になると発動できません。",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1603,
+			"name" : "Tutorial_06_03",
+			"message" : "詠唱時間がある分\n発動できると強力です！",
+			"posType" : 5,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1701,
+			"name" : "Tutorial_07_01",
+			"message" : "カードはあるけど\nＭＰが足りない……",
+			"posType" : 4,
+			"timeoutTime" : 3,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1702,
+			"name" : "Tutorial_07_02",
+			"message" : "そんな時は、カードを\nＭＰに変換することができます。\n実際にやってみましょう！",
+			"posType" : 8,
+			"timeoutTime" : 3,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1703,
+			"name" : "Tutorial_07_03",
+			"message" : "ＭＰがどうしても必要なときは\n不要なカードをＭＰに変換して\nピンチを乗り切りましょう！",
+			"posType" : 8,
+			"timeoutTime" : 3,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1801,
+			"name" : "Tutorial_08_01",
+			"message" : "レガリアとはバトルで１回だけ使える\nクロノス様の特別な力です。",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1802,
+			"name" : "Tutorial_08_02",
+			"message" : "レガリアゲージが貯まると\n発動できます。強力なので\nタイミングを見極めましょう。",
+			"posType" : 6,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 1803,
+			"name" : "Tutorial_08_03",
+			"message" : "これで基本操作の説明は終わりです。\n最後に、2対2バトルで\n敵と戦ってみましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5001,
+			"name" : "Home_CPU3vs3_Start",
+			"message" : "チュートリアル終了です。\n次は3対3バトルの\nCOM戦に挑戦してみましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5101,
+			"name" : "Home_CPU3vs3_End",
+			"message" : "おめでとうございます！\n新たな機能が開放されました！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5102,
+			"name" : "Home_CardGeneration_01",
+			"message" : "さきほど手に入れた素材で\nカードを生成することができます。",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5103,
+			"name" : "Home_CardGeneration_02",
+			"message" : "『カード生成』はショップの中に\nあります。",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5104,
+			"name" : "Home_CardGeneration_03",
+			"message" : "素材が足りない時は、\n対戦で素材を集めましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5105,
+			"name" : "Home_PartyEdit_01",
+			"message" : "編集からパーティ編成へ。\nキャラクターを選んで\n『カードセット』を\nタッチしてみましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5106,
+			"name" : "Home_PartyEdit_02",
+			"message" : "カードセットを編集したときは\n忘れずに『保存』ボタンを\n押しましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5107,
+			"name" : "Home_PartyEdit_03",
+			"message" : "私からの説明は以上ですが、\nプレイの流れを見てみましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 5108,
+			"name" : "Home_Present",
+			"message" : "最後に、最高レア『絶対神ゼウス』を\nプレゼントしました！\n編成からカードセットに組み込もう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10001,
+			"name" : "Tutorial_00_01",
+			"message" : "Dear Chronos-sama, we are in trouble!\nAn enemy has appeared!",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10002,
+			"name" : "Tutorial_00_02",
+			"message" : "Let me explain to you how to win the battle.",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10003,
+			"name" : "Tutorial_00_03",
+			"message" : "This is <#ff0046>Chronos' HP</color>.\nThe HP bar and numbers confirm this.",
+			"posType" : 11,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10004,
+			"name" : "Tutorial_00_04",
+			"message" : "This is the <#ff0046>enemy's HP</color>.\nBy <#ff0046>reducing it to 0</color>,\nChronos-sama<#ff0046> will win</color>.",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10005,
+			"name" : "Tutorial_00_05",
+			"message" : "This is the <#ff0046>remaining Count</color>.\nWhen it reaches 0, the <#ff0046>winner</color> is whoever has <#ff0046>more HP remaining</color>.",
+			"posType" : 9,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10006,
+			"name" : "Tutorial_00_06",
+			"message" : "To reduce the enemy's HP,\nChronos-sama needs to <#ff0046>give instructions</color> to <#ff0046>their allies</color>!",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10007,
+			"name" : "Tutorial_00_07",
+			"message" : "Give instructions to allied units\nand aim for victory!",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10101,
+			"name" : "Tutorial_01_01",
+			"message" : "カードを使うことで\nユニットに指示を出します",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10102,
+			"name" : "Tutorial_01_02",
+			"message" : "まずは、<#ff0046>武器カード</color>を\n<#ff0046>タッチ</color>しましょう",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10103,
+			"name" : "Tutorial_01_03",
+			"message" : "武器カードの情報が\n表示されました",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10104,
+			"name" : "Tutorial_01_04",
+			"message" : "この数字はカードを使うために\n必要な<#ff0046>消費ＭＰ</color>です",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10105,
+			"name" : "Tutorial_01_05",
+			"message" : "武器カードの<#ff0046>攻撃力</color>です。\n与えるダメージの目安になります",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10106,
+			"name" : "Tutorial_01_06",
+			"message" : "<#ff0046>移動するまでのカウント</color>を表した\nアイコンです。\n移動については後で説明しますね",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10107,
+			"name" : "Tutorial_01_07",
+			"message" : "このようにカードをタッチして\n情報を確認することができます",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10108,
+			"name" : "Tutorial_01_08",
+			"message" : "カードを使うために必要な\nＭＰを確認してみましょう",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10109,
+			"name" : "Tutorial_01_09",
+			"message" : "<#ff0046>クロノスさまのＭＰ</color>です。\nカウント経過で増えていきます",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10110,
+			"name" : "Tutorial_01_10",
+			"message" : "ＭＰが足りないようですね……\n少し<#ff0046>待ってみましょう</color>",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10111,
+			"name" : "Tutorial_01_11",
+			"message" : "ＭＰが増えました！\nこれでカードが使えます",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10112,
+			"name" : "Tutorial_01_12",
+			"message" : "武器カードが使えるようになると\nユニットが出撃できます",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10113,
+			"name" : "Tutorial_01_13",
+			"message" : "『<#ff0046>出撃</color>』を<#ff0046>タッチ</color>しましょう！",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10114,
+			"name" : "Tutorial_01_14",
+			"message" : "うまくいきましたね！",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10115,
+			"name" : "Tutorial_01_15",
+			"message" : "ユニットにはいくつかの\nパラメータがあります",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10116,
+			"name" : "Tutorial_01_16",
+			"message" : "<#ff0046>ユニットのＨＰ</color>です。\n０になると、一定カウント\n行動不能となります",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10117,
+			"name" : "Tutorial_01_17",
+			"message" : "<#ff0046>攻撃力</color>です。\n数値が高いほど相手に与える\nダメージが増えます",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10118,
+			"name" : "Tutorial_01_18",
+			"message" : "<#ff0046>レベル</color>です。\n行動するとレベルが上がります",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10119,
+			"name" : "Tutorial_01_19",
+			"message" : "出撃したユニットは\n前進していきます",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10120,
+			"name" : "Tutorial_01_20",
+			"message" : "ここで、<#ff0046>手札を見てみましょう</color>",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10121,
+			"name" : "Tutorial_01_21",
+			"message" : "カードが増えましたね",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10122,
+			"name" : "Tutorial_01_22",
+			"message" : "カードは、カウント経過により\n手札に補充されます",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10123,
+			"name" : "Tutorial_01_23",
+			"message" : "手札には、１ユニットにつき\n3枚までカードが持てます",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10124,
+			"name" : "Tutorial_01_24",
+			"message" : "手札がいっぱいの場合は、\n<#ff0046>カードストック</color>が増えていきます",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10125,
+			"name" : "Tutorial_01_25",
+			"message" : "手札に空きがあると\n<#ff0046>カードストックから補充</color>されます",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10126,
+			"name" : "Tutorial_01_26",
+			"message" : "敵が出てきました！\n今は焦らず、<#ff0046>様子を見てみましょう</color>",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10127,
+			"name" : "Tutorial_01_27",
+			"message" : "ユニットが前進するカウントは\n武器カードによって違います。\n<#ff0046>ユニット</color>を<#ff0046>タッチ</color>してみましょう",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10128,
+			"name" : "Tutorial_01_28",
+			"message" : "この武器カードの場合\n<#ff0046>3カウント</color>経過すると\nユニットが前進します",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10129,
+			"name" : "Tutorial_01_29",
+			"message" : "前進するまでの残りカウントです。\n光がなくなると前進します",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10130,
+			"name" : "Tutorial_01_30",
+			"message" : "敵にぶつかると\n戦闘が始まります",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10131,
+			"name" : "Tutorial_01_31",
+			"message" : "<#ff0046>攻撃するまでのカウント</color>です。\n光がなくなると戦闘します",
+			"posType" : 6,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10132,
+			"name" : "Tutorial_01_32",
+			"message" : "どちらかのＨＰが０になるまで\n戦闘は続きます",
+			"posType" : 6,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10201,
+			"name" : "Tutorial_02_01",
+			"message" : "ＨＰが<#ff0046>赤く点滅</color>していますね！\nこのままでは次の戦闘で\n倒されてしまいます！",
+			"posType" : 6,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10202,
+			"name" : "Tutorial_02_02",
+			"message" : "味方を助けるために、\n<#ff0046>道具カード</color>を<#ff0046>タッチ</color>しましょう！",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10203,
+			"name" : "Tutorial_02_03",
+			"message" : "この道具カードは味方のＨＰを\n回復することができます",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10204,
+			"name" : "Tutorial_02_04",
+			"message" : "この数字は、<#ff0046>回復する量</color>です",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10205,
+			"name" : "Tutorial_02_05",
+			"message" : "武器カードと同じくＭＰを\n消費します。\n『<#ff0046>使用</color>』を<#ff0046>タッチ</color>しましょう！",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10206,
+			"name" : "Tutorial_02_06",
+			"message" : "無事に回復できました！\n<#ff0046>戦闘の続きを見てみましょう</color>",
+			"posType" : 6,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10207,
+			"name" : "Tutorial_02_07",
+			"message" : "やりましたね！\n戦闘に勝つと、<#ff0046>ブレイク</color>となり\n<#ff0046>１マス前進</color>します",
+			"posType" : 6,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10208,
+			"name" : "Tutorial_02_08",
+			"message" : "戦闘に負けると、カウントが\n０になるまで<#ff0046>行動不能</color>となります",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10209,
+			"name" : "Tutorial_02_09",
+			"message" : "大変です！　新しい敵です！",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10301,
+			"name" : "Tutorial_03_01",
+			"message" : "このままでは味方が危険です！\n<#ff0046>魔法カード</color>を<#ff0046>タッチ</color>しましょう！",
+			"posType" : 8,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10302,
+			"name" : "Tutorial_03_02",
+			"message" : "この魔法カードは味方のＨＰを\n回復させることができます",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10303,
+			"name" : "Tutorial_03_03",
+			"message" : "この数字は<#ff0046>発動までのカウント</color>です。\n魔法カードは道具カードと違い\n発動までに<#ff0046>詠唱</color>が必要です",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10304,
+			"name" : "Tutorial_03_04",
+			"message" : "『<#ff0046>詠唱</color>』を<#ff0046>タッチ</color>しましょう！",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10305,
+			"name" : "Tutorial_03_05",
+			"message" : "この数字は詠唱カウントです。\n<#ff0046>０になると魔法が発動</color>します",
+			"posType" : 3,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10306,
+			"name" : "Tutorial_03_06",
+			"message" : "クロノスさま！\n戦闘が始まる前に、<#ff0046>レガリア</color>を\n発動させましょう！",
+			"posType" : 3,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10401,
+			"name" : "Tutorial_04_01",
+			"message" : "レガリアは<#ff0046>バトルで１回だけ使える</color>\n<#ff0046>特別な力</color>です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10402,
+			"name" : "Tutorial_04_02",
+			"message" : "<#ff0046>レガリアゲージ</color>が最大になると\n発動できます",
+			"posType" : 7,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10403,
+			"name" : "Tutorial_04_03",
+			"message" : "今がその時です！\n<#ff0046>タッチ</color>して<#ff0046>発動</color>させましょう！",
+			"posType" : 7,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10404,
+			"name" : "Tutorial_04_04",
+			"message" : "このレガリアは<#ff0046>３カウントの間、</color>\n<#ff0046>敵の動きを止める</color>ことができます！",
+			"posType" : 7,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10405,
+			"name" : "Tutorial_04_05",
+			"message" : "やりました！\n城にたどり着きました！",
+			"posType" : 4,
+			"timeoutTime" : 1,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10406,
+			"name" : "Tutorial_04_06",
+			"message" : "相手にダメージを与えます！",
+			"posType" : 4,
+			"timeoutTime" : 1,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10407,
+			"name" : "Tutorial_04_07",
+			"message" : "相手に攻撃すると\n攻撃した味方の武器が破壊されて\n追い返されてしまいます",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10408,
+			"name" : "Tutorial_04_08",
+			"message" : "これは！\n残りカウントが少なくなると\n<#ff0046>クライマックス</color>になります！",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10409,
+			"name" : "Tutorial_04_09",
+			"message" : "ＭＰやカードの<#ff0046>増えるカウントが\n短くなります！</color>",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 10410,
+			"name" : "Tutorial_04_10",
+			"message" : "基本的な戦い方の<#ff0046>説明は以上</color>です。\n<#ff0046>武器カード</color>で<#ff0046>出撃</color>させて\nとどめを刺しましょう！",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20001,
+			"name" : "Tutorial_10_01",
+			"message" : "クロノスさま。\n対戦が始まる前に、今回使う\n<#ff0046>レガリア</color>を<#ff0046>選びましょう</color>",
+			"posType" : 2,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20002,
+			"name" : "Tutorial_10_02",
+			"message" : "レガリアには<#ff0046>様々な効果</color>があります。\n私たち、時の妖精が\nお手伝いさせていただきますね！",
+			"posType" : 2,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20003,
+			"name" : "Tutorial_10_03",
+			"message" : "タッチして確認してみてください！",
+			"posType" : 2,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20101,
+			"name" : "Tutorial_11_01",
+			"message" : "つぎに<#ff0046>カードの種類</color>を\nおさらいしましょう",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20102,
+			"name" : "Tutorial_11_02",
+			"message" : "武器カードは『<#ff0046>出撃</color>』して\n相手を<#ff0046>攻撃</color>することができます",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20103,
+			"name" : "Tutorial_11_03",
+			"message" : "<#ff0046>四角いアイコン</color>と<#ff0046>剣</color>、\n攻撃力の数字が目印です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20104,
+			"name" : "Tutorial_11_04",
+			"message" : "道具カードは出撃している\nユニットに『<#ff0046>使用</color>』できます",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20105,
+			"name" : "Tutorial_11_05",
+			"message" : "<#ff0046>六角形のアイコン</color>と<#ff0046>小瓶</color>が\n目印です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20106,
+			"name" : "Tutorial_11_06",
+			"message" : "魔法カードは<#ff0046>発動まで</color>に\n『<#ff0046>詠唱</color>』が必要です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20107,
+			"name" : "Tutorial_11_07",
+			"message" : "<#ff0046>丸いアイコン</color>と<#ff0046>呪文書</color>、\n詠唱時間の数字が目印です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20201,
+			"name" : "Tutorial_12_01",
+			"message" : "仲間が１人増えました！\nあらためて見てみましょう",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20202,
+			"name" : "Tutorial_12_02",
+			"message" : "ユニットにはそれぞれ\n<#ff0046>特徴</color>があります",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20203,
+			"name" : "Tutorial_12_03",
+			"message" : "アレクさんは\n<#ff0046>攻撃力が高い武器カード</color>で\n<#ff0046>戦闘</color>することが<#ff0046>得意</color>です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20204,
+			"name" : "Tutorial_12_04",
+			"message" : "ロッタちゃんは\n<#ff0046>道具カードや魔法カードで</color>\n味方を<#ff0046>回復</color>させることが<#ff0046>得意</color>です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20205,
+			"name" : "Tutorial_12_05",
+			"message" : "ルカさんは\n<#ff0046>少ないＭＰ</color>で<#ff0046>素早く行動</color>することが\n<#ff0046>得意</color>です",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20206,
+			"name" : "Tutorial_12_06",
+			"message" : "それぞれの特徴を活かして\n戦いましょう",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20301,
+			"name" : "Tutorial_13_01",
+			"message" : "まだ説明していないカードが\nありました！",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20302,
+			"name" : "Tutorial_13_02",
+			"message" : "<#ff0046>特別な武器カード</color>\n<#ff0046>神器（しんき）</color>について説明します！",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20303,
+			"name" : "Tutorial_13_03",
+			"message" : "神器をお持ちではないようですね……\nここは私にお任せください！\nそーれっ！",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20304,
+			"name" : "Tutorial_13_04",
+			"message" : "アレクさんの手札にある\n<#ff0046>神器</color>を<#ff0046>タッチ</color>しましょう",
+			"posType" : 4,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20305,
+			"name" : "Tutorial_13_05",
+			"message" : "神器は<#ff0046>強力な武器カード</color>で\n消費ＭＰのほかに、ユニットの\n<#ff0046>レベルを上げる必要</color>があります",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20306,
+			"name" : "Tutorial_13_06",
+			"message" : "この数字は<#ff0046>レベル制限</color>です。\nレベルがこの数字以上にならないと\n出撃できません",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20307,
+			"name" : "Tutorial_13_07",
+			"message" : "アレクさんのレベルが\n足りないようですね……",
+			"posType" : 11,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20308,
+			"name" : "Tutorial_13_08",
+			"message" : "レベルは<#ff0046>カード</color>を<#ff0046>使ったり</color>\n<#ff0046>戦闘</color>することで上げられますが……\nえ～いっ！！",
+			"posType" : 11,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20309,
+			"name" : "Tutorial_13_09",
+			"message" : "今回は特別にレベルを\n上げちゃいました！",
+			"posType" : 11,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20310,
+			"name" : "Tutorial_13_10",
+			"message" : "ですが、私の力だけでは\nまだＭＰが足りないようですね……",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20311,
+			"name" : "Tutorial_13_11",
+			"message" : "足りない分はクロノスさまの力で\n<#ff0046>ＭＰを増やしましょう！</color>",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20312,
+			"name" : "Tutorial_13_12",
+			"message" : "使わないカード１枚を選んで\nＭＰ１に変換できます。\n<#ff0046>ＭＰ変換</color>を<#ff0046>タッチ</color>してみましょう！",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20313,
+			"name" : "Tutorial_13_13",
+			"message" : "ＭＰが増えましたね！\n神器を<#ff0046>タッチ</color>して\n<#ff0046>出撃</color>させましょう！",
+			"posType" : 10,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20314,
+			"name" : "Tutorial_13_14",
+			"message" : "この神器は出撃すると\n<#ff0046>出撃中の味方全員に【高揚III】</color>\nを与えます！",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20315,
+			"name" : "Tutorial_13_15",
+			"message" : "高揚は、戦闘ごとに\n<#ff0046>攻撃力を上げる</color>効果があります！",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20316,
+			"name" : "Tutorial_13_16",
+			"message" : "神器は制限が多い分\n<#ff0046>勝敗を決める強力なカード</color>です！\n上手に使いましょう！",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 20317,
+			"name" : "Tutorial_13_17",
+			"message" : "クロノスさま！\n引き続きユニットに指示を出して\n<#ff0046>自由に戦ってみましょう！</color>",
+			"posType" : 5,
+			"timeoutTime" : 10,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30001,
+			"name" : "Tutorial_Home_01",
+			"message" : "クロノスさま、お疲れ様でした！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30002,
+			"name" : "Tutorial_Home_02",
+			"message" : "次は、仲間３人で\nCOM戦に挑戦しましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30101,
+			"name" : "Tutorial_Home_11",
+			"message" : "チュートリアルお疲れ様でした！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30102,
+			"name" : "Tutorial_Home_12",
+			"message" : "チュートリアルをクリアしたので\nミーシャさんが仲間になりました！\nご紹介しますね！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30103,
+			"name" : "Tutorial_Home_13",
+			"message" : "さらに、今回は特別に\nこんなものがあるんです！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30201,
+			"name" : "Tutorial_Home_21",
+			"message" : "やりましたね！\n特別な召喚チケットを\n手に入れました！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30202,
+			"name" : "Tutorial_Home_22",
+			"message" : "スタンプをためて、\n<#ff0046>報酬を手に入れましょう！</color>",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30203,
+			"name" : "Tutorial_Home_23",
+			"message" : "さっそく、召喚チケットを使って\n<#ff0046>カード召喚を行いましょう！</color>",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30204,
+			"name" : "Tutorial_Home_24",
+			"message" : "手に入れたカードは、\n<#ff0046>編成のデッキ編集</color>で\n入れ替えましょう",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30205,
+			"name" : "Tutorial_Home_25",
+			"message" : "新しいカードは、\n<#ff0046>プレイ後</color>か<#ff0046>ショップのカード召喚で</color>\n入手できます",
+			"posType" : 0,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30206,
+			"name" : "Tutorial_Home_26",
+			"message" : "私からの説明は以上です",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30207,
+			"name" : "Tutorial_Home_27",
+			"message" : "慣れないうちは\nワールドにある<#ff0046>ストーリー</color>を\nプレイしてみましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		},
+		{
+			"id" : 30208,
+			"name" : "Tutorial_Home_28",
+			"message" : "次の戦いも、仲間たちと共に\nがんばっていきましょう！",
+			"posType" : 4,
+			"timeoutTime" : 5,
+			"sizeType" : 0
+		}
+	]
+}

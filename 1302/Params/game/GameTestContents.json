@@ -1,0 +1,4192 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "BOOKKEEPING",
+			"contentName" : [
+				"BOOKKEEPING",
+				"BOOKKEEPING"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "Bookkeep01",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 2,
+			"name" : "COIN 1",
+			"contentName" : [
+				"COIN 1",
+				"COIN 1"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 3,
+			"name" : "COIN 2",
+			"contentName" : [
+				"COIN 2",
+				"COIN 2"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 4,
+			"name" : "COIN 3",
+			"contentName" : [
+				"COIN 3",
+				"COIN 3"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 5,
+			"name" : "COIN 4",
+			"contentName" : [
+				"COIN 4",
+				"COIN 4"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 6,
+			"name" : "TOTAL COINS",
+			"contentName" : [
+				"TOTAL COINS",
+				"TOTAL COINS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 7,
+			"name" : "E-MONEY COINS",
+			"contentName" : [
+				"E-MONEY COINS",
+				"E-MONEY COINS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : 0,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 8,
+			"name" : "COIN CREDITS",
+			"contentName" : [
+				"COIN CREDITS",
+				"COIN CREDITS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 9,
+			"name" : "SERVICE CREDITS",
+			"contentName" : [
+				"SERVICE CREDITS",
+				"SERVICE CREDITS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 10,
+			"name" : "E-MONEY CREDITS",
+			"contentName" : [
+				"E-MONEY CREDITS",
+				"E-MONEY CREDITS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : 0,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 11,
+			"name" : "TOTAL CREDITS",
+			"contentName" : [
+				"TOTAL CREDITS",
+				"TOTAL CREDITS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 12,
+			"name" : "NUMBER OF GAMES",
+			"contentName" : [
+				"NUMBER OF GAMES",
+				"NUMBER OF PLAYS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 13,
+			"name" : "TOTAL TIME",
+			"contentName" : [
+				"TOTAL TIME",
+				"TOTAL POWER TIME (EXCLUDING TEST MENU)"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 14,
+			"name" : "PLAY TIME",
+			"contentName" : [
+				"PLAY TIME",
+				"PLAY TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 15,
+			"name" : "AIME PLAY NUM",
+			"contentName" : [
+				"　AIME PLAY NUM",
+				"　Aime PLAY"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 16,
+			"name" : "NORMAL PLAY NUM",
+			"contentName" : [
+				"　　NORMAL PLAY NUM",
+				"　　NORMAL PLAY"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 17,
+			"name" : "CARD PURCHASE PLAY NUM",
+			"contentName" : [
+				"　　CARD PURCHASE PLAY NUM",
+				"　　CARD PURCHASE PLAY"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 18,
+			"name" : "GUEST PLAY NUM",
+			"contentName" : [
+				"　GUEST PLAY NUM",
+				"　GUEST PLAY"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 19,
+			"name" : "PURCHASE TOTAL CREDIT NUM",
+			"contentName" : [
+				"PURCHASE TOTAL CREDIT NUM",
+				"TOTAL CREDIT PURCHASE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 20,
+			"name" : "PURCHASE CP CREDIT NUM",
+			"contentName" : [
+				"　PURCHASE CP CREDIT NUM",
+				"　CP CREDIT PURCHASE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 21,
+			"name" : "PURCHASE CARD CREDIT NUM",
+			"contentName" : [
+				"　PURCHASE CARD CREDIT NUM",
+				"　CARD CREDIT PURCHASE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 22,
+			"name" : "PURCHASE CHROREGACOIN CREDIT NUM",
+			"contentName" : [
+				"　PURCHASE CHROREGACOIN CREDIT NUM",
+				"　CHROREGA COIN PURCHASE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 23,
+			"name" : "INPUT TEST",
+			"contentName" : [
+				"INPUT TEST",
+				"INPUT TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "InputTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 24,
+			"name" : "TEST BUTTON",
+			"contentName" : [
+				"TEST BUTTON",
+				"TEST BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 25,
+			"name" : "SERVICE BUTTON",
+			"contentName" : [
+				"SERVICE BUTTON",
+				"SERVICE BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 26,
+			"name" : "BUTTON UP",
+			"contentName" : [
+				"BUTTON UP",
+				"UP BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 27,
+			"name" : "BUTTON DOWN",
+			"contentName" : [
+				"BUTTON DOWN",
+				"DOWN BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 28,
+			"name" : "BUTTON LEFT",
+			"contentName" : [
+				"BUTTON LEFT",
+				"LEFT BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 29,
+			"name" : "BUTTON RIGHT",
+			"contentName" : [
+				"BUTTON RIGHT",
+				"RIGHT BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 30,
+			"name" : "BUTTON DECISION",
+			"contentName" : [
+				"BUTTON DECISION",
+				"CONFIRM BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 31,
+			"name" : "BUTTON CANCEL",
+			"contentName" : [
+				"BUTTON CANCEL",
+				"CANCEL BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 32,
+			"name" : "BUTTON LEFT ARROW",
+			"contentName" : [
+				"BUTTON LEFT ARROW",
+				"L BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 33,
+			"name" : "BUTTON RIGHT ARROW",
+			"contentName" : [
+				"BUTTON RIGHT ARROW",
+				"R BUTTON"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 34,
+			"name" : "OUTPUT TEST",
+			"contentName" : [
+				"OUTPUT TEST",
+				"OUTPUT TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "OutputTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 35,
+			"name" : "COIN LOCKOUT",
+			"contentName" : [
+				"COIN LOCKOUT",
+				"COIN BLOCKER"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"COIN BLOCKER OFF",
+					"COIN BLOCKER ON"
+				]}
+			]
+		},
+		{
+			"id" : 36,
+			"name" : "CABINET LAMP LEFTTOP",
+			"contentName" : [
+				"CABINET LAMP LEFTTOP",
+				"CABINET LED TOP LEFT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 37,
+			"name" : "CABINET LAMP RIGHTTOP",
+			"contentName" : [
+				"CABINET LAMP RIGHTTOP",
+				"CABINET LED TOP RIGHT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 38,
+			"name" : "CABINET LAMP LEFTBOTTOM",
+			"contentName" : [
+				"CABINET LAMP LEFTBOTTOM",
+				"CABINET LED BOTTOM LEFT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 39,
+			"name" : "CABINET LAMP RIGHTBOTTOM",
+			"contentName" : [
+				"CABINET LAMP RIGHTBOTTOM",
+				"CABINET LED BOTTOM RIGHT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 40,
+			"name" : "CABINET LAMP BOTTOM",
+			"contentName" : [
+				"CABINET LAMP BOTTOM",
+				"CABINET LED BOTTOM"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 41,
+			"name" : "Aime LAMP",
+			"contentName" : [
+				"Aime LAMP",
+				"Aime CARD READER LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 42,
+			"name" : "SPEAKER LEFT",
+			"contentName" : [
+				"SPEAKER LEFT",
+				"LEFT SPEAKER"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 43,
+			"name" : "SPEAKER RIGHT",
+			"contentName" : [
+				"SPEAKER RIGHT",
+				"RIGHT SPEAKER"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 44,
+			"name" : "LED UP",
+			"contentName" : [
+				"LED UP",
+				"UP BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 45,
+			"name" : "LED DOWN",
+			"contentName" : [
+				"LED DOWN",
+				"DOWN BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 46,
+			"name" : "LED LEFT",
+			"contentName" : [
+				"LED LEFT",
+				"LEFT BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 47,
+			"name" : "LED RIGHT",
+			"contentName" : [
+				"LED RIGHT",
+				"RIGHT BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 48,
+			"name" : "LED DECISION",
+			"contentName" : [
+				"LED DECISION",
+				"CONFIRM BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 49,
+			"name" : "LED CANCEL",
+			"contentName" : [
+				"LED CANCEL",
+				"CANCEL BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 50,
+			"name" : "LED LEFT ARROW",
+			"contentName" : [
+				"LED LEFT ARROW",
+				"L BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 51,
+			"name" : "LED RIGHT ARROW",
+			"contentName" : [
+				"LED RIGHT ARROW",
+				"R BUTTON LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 52,
+			"name" : "LED BILLBOARD",
+			"contentName" : [
+				"LED BILLBOARD",
+				"BILLBOARD LED"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]},
+				{"values" : [
+					"OFF",
+					"RED",
+					"GREEN",
+					"BLUE",
+					"WHITE"
+				]}
+			]
+		},
+		{
+			"id" : 53,
+			"name" : "USB CHARGEING PORT",
+			"contentName" : [
+				"USB CHARGEING PORT",
+				"USB CHARGING PORT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 54,
+			"name" : "GAME ASSIGNMENTS",
+			"contentName" : [
+				"GAME ASSIGNMENTS",
+				"GAME SETTINGS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "GameAssignments",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 55,
+			"name" : "ADVERTISE SOUND",
+			"contentName" : [
+				"ADVERTISE SOUND",
+				"ADVERTISE VOLUME"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"100%",
+					"OFF",
+					"25%",
+					"50%",
+					"75%"
+				]},
+				{"values" : [
+					"100%",
+					"OFF",
+					"25%",
+					"50%",
+					"75%"
+				]}
+			]
+		},
+		{
+			"id" : 56,
+			"name" : "TOUCH PANEL TYPE",
+			"contentName" : [
+				"TOUCHPANEL TYPE",
+				"TOUCHPANEL TYPE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"COM",
+					"USB"
+				]},
+				{"values" : [
+					"COM",
+					"USB"
+				]}
+			]
+		},
+		{
+			"id" : 57,
+			"name" : "LED TYPE",
+			"contentName" : [
+				"LED TYPE",
+				"LED TYPE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"NONE",
+					"COJ",
+					"SRA"
+				]},
+				{"values" : [
+					"NONE",
+					"COJ",
+					"SRA"
+				]}
+			]
+		},
+		{
+			"id" : 58,
+			"name" : "PURCHASE LIMIT",
+			"contentName" : [
+				"PURCHASE LIMIT",
+				"CP PURCHASE LIMIT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"NO LIMIT",
+					"1",
+					"3",
+					"5"
+				]},
+				{"values" : [
+					"NO LIMIT",
+					"1",
+					"3",
+					"5"
+				]}
+			]
+		},
+		{
+			"id" : 59,
+			"name" : "PLACEEVENT MODE",
+			"contentName" : [
+				"PLACEEVENT MODE",
+				"LOCAL EVENT MODE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"OFF",
+					"ON"
+				]},
+				{"values" : [
+					"OFF",
+					"ON"
+				]}
+			]
+		},
+		{
+			"id" : 60,
+			"name" : "PLACEEVENT MODE MATCH NUM",
+			"contentName" : [
+				"PLACEEVENT MODE MATCH NUM",
+				"　MATCHING GROUP NUMBER"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"1",
+					"2",
+					"3",
+					"4"
+				]},
+				{"values" : [
+					"1",
+					"2",
+					"3",
+					"4"
+				]}
+			]
+		},
+		{
+			"id" : 61,
+			"name" : "GAME ASSIGNMENTS DEFAULT",
+			"contentName" : [
+				"GAME ASSIGNMENTS DEFAULT",
+				"DEFAULT SETTINGS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 62,
+			"name" : "GAME SYSTEM STATUS",
+			"contentName" : [
+				"GAME SYSTEM STATUS",
+				"GAME SYSTEM INFORMATION"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "GameSystemStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 63,
+			"name" : "GAME TITLE",
+			"contentName" : [
+				"GAME TITLE",
+				"GAME TITLE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 64,
+			"name" : "SOFTWARE TIME",
+			"contentName" : [
+				"SOFTWARE TIME",
+				"SOFTWARE RELEASE TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 65,
+			"name" : "SOFTWARE VERSION",
+			"contentName" : [
+				"SOFTWARE VERSION",
+				"SOFTWARE VERSION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 66,
+			"name" : "DATA VERSION",
+			"contentName" : [
+				"DATA VERSION",
+				"DATA VERSION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 67,
+			"name" : "SYSTEM CLOCK",
+			"contentName" : [
+				"SYSTEM CLOCK",
+				"SYSTEM CLOCK"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 68,
+			"name" : "KEYCHIP ID",
+			"contentName" : [
+				"KEYCHIP ID",
+				"KEYCHIP ID"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 69,
+			"name" : "BOARD ID",
+			"contentName" : [
+				"BOARD ID",
+				"BOARD ID"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 70,
+			"name" : "CLOSE SETTING",
+			"contentName" : [
+				"CLOSE SETTING",
+				"CLOSE SETTING"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "CloseSetting",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 71,
+			"name" : "CLOSE SETTING DAY",
+			"contentName" : [
+				"CLOSE SETTING",
+				"CLOSE SETTING"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "CloseSettingDay",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 72,
+			"name" : "SCHEDULE TYPE DAY",
+			"contentName" : [
+				"SCHEDULE TYPE",
+				"SCHEDULE TYPE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更（履歴なし）",
+			"contentType" : 1,
+			"nextSceneName" : "CloseSettingWeek",
+			"selects" : [
+				{"values" : [
+					"DAY"
+				]},
+				{"values" : [
+					"毎日"
+				]}
+			]
+		},
+		{
+			"id" : 73,
+			"name" : "DAY HOUR",
+			"contentName" : [
+				"DAY HOUR",
+				"HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 74,
+			"name" : "DAY MINUTE",
+			"contentName" : [
+				"DAY MINUTE",
+				"MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 75,
+			"name" : "DAY DEFAULT",
+			"contentName" : [
+				"DAY DEFAULT",
+				"DEFAULT SETTINGS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 76,
+			"name" : "CLOSE SETTING WEEK",
+			"contentName" : [
+				"CLOSE SETTING",
+				"CLOSE SETTING"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "CloseSettingWeek",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 77,
+			"name" : "SCHEDULE TYPE WEEK",
+			"contentName" : [
+				"SCHEDULE TYPE",
+				"SCHEDULE TYPE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更（履歴なし）",
+			"contentType" : 1,
+			"nextSceneName" : "CloseSettingDay",
+			"selects" : [
+				{"values" : [
+					"WEEK"
+				]},
+				{"values" : [
+					"曜日別"
+				]}
+			]
+		},
+		{
+			"id" : 78,
+			"name" : "SUN HOUR",
+			"contentName" : [
+				"SUN HOUR",
+				"SUNDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 79,
+			"name" : "SUN MINUTE",
+			"contentName" : [
+				"SUN MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 80,
+			"name" : "MON HOUR",
+			"contentName" : [
+				"MON HOUR",
+				"MONDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 81,
+			"name" : "MON MINUTE",
+			"contentName" : [
+				"MON MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 82,
+			"name" : "TUE HOUR",
+			"contentName" : [
+				"TUE HOUR",
+				"TUESDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 83,
+			"name" : "TUE MINUTE",
+			"contentName" : [
+				"TUE MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 84,
+			"name" : "WED HOUR",
+			"contentName" : [
+				"WED HOUR",
+				"WEDNESDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 85,
+			"name" : "WED MINUTE",
+			"contentName" : [
+				"WED MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 86,
+			"name" : "THU HOUR",
+			"contentName" : [
+				"THU HOUR",
+				"THURSDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 87,
+			"name" : "THU MINUTE",
+			"contentName" : [
+				"THU MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 88,
+			"name" : "FRI HOUR",
+			"contentName" : [
+				"FRI HOUR",
+				"FRIDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 89,
+			"name" : "FRI MINUTE",
+			"contentName" : [
+				"FRI MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 90,
+			"name" : "SAT HOUR",
+			"contentName" : [
+				"SAT HOUR",
+				"SATURDAY　HOUR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"NONE",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]},
+				{"values" : [
+					"24",
+					"25",
+					"26",
+					"27",
+					"28",
+					"29",
+					"30",
+					"全HOUR刻",
+					"18",
+					"19",
+					"20",
+					"21",
+					"22",
+					"23"
+				]}
+			]
+		},
+		{
+			"id" : 91,
+			"name" : "SAT MINUTE",
+			"contentName" : [
+				"SAT MINUTE",
+				"　　　　MINUTE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]},
+				{"values" : [
+					"00",
+					"05",
+					"10",
+					"15",
+					"20",
+					"25",
+					"30",
+					"35",
+					"40",
+					"45",
+					"50",
+					"55"
+				]}
+			]
+		},
+		{
+			"id" : 92,
+			"name" : "WEEK DEFAULT",
+			"contentName" : [
+				"WEEK DEFAULT",
+				"DEFAULT SETTINGS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 93,
+			"name" : "HARDWARE STATUS",
+			"contentName" : [
+				"HARDWARE STATUS",
+				"HARDWARE STATUS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "HardwareStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 94,
+			"name" : "Aime CARD READER STATUS COMMENT",
+			"contentName" : [
+				"Aime CARD READER",
+				"Aime CARD READER"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 95,
+			"name" : "Aime HWVERSION",
+			"contentName" : [
+				"HARDWARE",
+				"HARDWARE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 96,
+			"name" : "Aime FWVERSION",
+			"contentName" : [
+				"FIRMWARE",
+				"FIRMWARE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 97,
+			"name" : "LED STATUS COMMENT",
+			"contentName" : [
+				"LED STATUS COMMENT",
+				"CABINET LED"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 98,
+			"name" : "LED BOARD NO",
+			"contentName" : [
+				"BOARD NO.",
+				"BOARD NO."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 99,
+			"name" : "LED CHIP NO",
+			"contentName" : [
+				"CHIP NO.",
+				"CHIP NO."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 100,
+			"name" : "LED FIRMWARE REV",
+			"contentName" : [
+				"FIRMWARE REV.",
+				"FIRMWARE REV."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 101,
+			"name" : "HARDWARE TEST",
+			"contentName" : [
+				"HARDWARE TEST",
+				"HARDWARE TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "HardwareTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 102,
+			"name" : "Aime CARD READER TEST",
+			"contentName" : [
+				"Aime CARD READER TEST",
+				"Aime CARD READER TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "AimeCardReaderTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 103,
+			"name" : "Aime CARD READER READ TEST",
+			"contentName" : [
+				"Aime CARD READER TEST",
+				"Aime CARD READER TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "AimeCardReaderReadTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 104,
+			"name" : "Aime CARD READER TEST COMMENT",
+			"contentName" : [
+				"Please put a card of Aime or an available mobile phone",
+				"PLEASE SCAN AN Aime CARD OR COMPATIBLE MOBILE PHONE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 105,
+			"name" : "CARD STATUS",
+			"contentName" : [
+				"CARD STATUS",
+				"CARD STATUS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"Polling"
+				]},
+				{"values" : [
+					"Polling"
+				]}
+			]
+		},
+		{
+			"id" : 106,
+			"name" : "CHECK TIME",
+			"contentName" : [
+				"CHECK TIME",
+				"CHECK TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"0"
+				]},
+				{"values" : [
+					"0"
+				]}
+			]
+		},
+		{
+			"id" : 107,
+			"name" : "EMONEY TEST",
+			"contentName" : [
+				"EMONEY TEST",
+				"E-MONEY TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "EMoneyTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 108,
+			"name" : "EMONEY STATUS",
+			"contentName" : [
+				"EMONEY STATUS",
+				"E-MONEY STATUS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "EMoneyStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 109,
+			"name" : "VFD TEST",
+			"contentName" : [
+				"VFD TEST",
+				"VFD DISPLAY TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "VFDTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 110,
+			"name" : "VFD TEST STATUS",
+			"contentName" : [
+				"VFD TEST STATUS",
+				"STATUS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 111,
+			"name" : "VFD TEST COMMENT",
+			"contentName" : [
+				"VFD TEST COMMENT",
+				"A | WILL MOVE THROUGH THE ROWS FROM RIGHT TO LEFT.\nPLEASE CONFIRM ON THE VFD DISPLAY."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 112,
+			"name" : "TERMINAL ACTIVATE",
+			"contentName" : [
+				"ACTIVATE",
+				"ACTIVATE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 113,
+			"name" : "TERMINAL DEACTIVATE",
+			"contentName" : [
+				"DEACTIVATE",
+				"DEACTIVATE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"YES",
+					"NO"
+				]},
+				{"values" : [
+					"YES",
+					"NO"
+				]}
+			]
+		},
+		{
+			"id" : 114,
+			"name" : "TERMINALID",
+			"contentName" : [
+				"TERMINALID",
+				"TERMINAL ID"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 115,
+			"name" : "BRAND",
+			"contentName" : [
+				"BRAND",
+				"BRAND"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 116,
+			"name" : "DEAL RESULT",
+			"contentName" : [
+				"DEAL RESULT",
+				"TRANSACTION HISTORY"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 117,
+			"name" : "DEAL RESULT LAYOUT",
+			"contentName" : [
+				"DEAL RESULT LAYOUT",
+				"TRANSACTION RESULT LAYOUT"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "レイアウト",
+			"contentType" : 8,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 118,
+			"name" : "NETWORK TEST",
+			"contentName" : [
+				"NETWORK TEST",
+				"NETWORK TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "NetworkTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 119,
+			"name" : "IP ADDRESS",
+			"contentName" : [
+				"IP ADDRESS",
+				"IP ADDRESS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 120,
+			"name" : "GATEWAY",
+			"contentName" : [
+				"GATEWAY",
+				"GATEWAY"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 121,
+			"name" : "DNS(LAN)",
+			"contentName" : [
+				"DNS(LAN)",
+				"DNS (LAN)"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 122,
+			"name" : "HOPS",
+			"contentName" : [
+				"HOPS",
+				"NUMBER OF HOPS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 123,
+			"name" : "LINE TYPE",
+			"contentName" : [
+				"LINE TYPE",
+				"LINE TYPE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 124,
+			"name" : "ALL.Net AUTH",
+			"contentName" : [
+				"ALL.Net AUTH",
+				"ALL.Net AUTHENTICATION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 125,
+			"name" : "Aime SERVER",
+			"contentName" : [
+				"Aime",
+				"Aime SERVER"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 126,
+			"name" : "EMONEY SERVER",
+			"contentName" : [
+				"EMONEY",
+				"E-MONEY SERVER"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 127,
+			"name" : "TITLE GAME SERVER",
+			"contentName" : [
+				"TITLE GAME SERVER",
+				"GAME TITLE SERVER"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 128,
+			"name" : "TERMINAL",
+			"contentName" : [
+				"TERMINAL",
+				"TERMINAL"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータチェック",
+			"contentType" : 4,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 129,
+			"name" : "ALL.Net WiFi STATUS",
+			"contentName" : [
+				"ALL.Net WiFi ROUTER STATUS",
+				"ALL.Net Wi-Fi ROUTER STATUS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "AllNetWiFiStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 130,
+			"name" : "WiFi SERIAL",
+			"contentName" : [
+				"WiFi SERIAL",
+				"WiFi SERIAL"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 131,
+			"name" : "WiFi FIRM",
+			"contentName" : [
+				"WiFi FIRM",
+				"WiFi FIRMWARE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 132,
+			"name" : "WiFi SERVER",
+			"contentName" : [
+				"WiFi SERVER",
+				"ALL.Net Wi-Fi SERVER"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 133,
+			"name" : "WiFi CONNECTION NUM",
+			"contentName" : [
+				"WiFi CONNECTION NUM",
+				"WiFi CONNECTION NUMBER"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 134,
+			"name" : "MASTER ROUTER SERIAL",
+			"contentName" : [
+				"MASTER ROUTER SERIAL",
+				"MASTER ROUTER SERIAL"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 135,
+			"name" : "ROUTER NOT FOUND COMMENT",
+			"contentName" : [
+				"ROUTER NOT FOUND COMMENT",
+				"ALL.Net Wi-Fi ROUTER COULD NOT BE FOUND"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 136,
+			"name" : "ALL.Net ACCOUNTING STATUS",
+			"contentName" : [
+				"ALL.Net ACCOUNTING STATUS",
+				"ALL.Net ACCOUNTING STATUS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "AllNetAccountingStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 137,
+			"name" : "ALL.Net SYSTEM CAUTION",
+			"contentName" : [
+				"ALL.Net SYSTEM CAUTION",
+				"ALL.Net SYSTEM CAUTION DISPLAY"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "パラメータ変更",
+			"contentType" : 2,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"ON",
+					"OFF"
+				]},
+				{"values" : [
+					"ON",
+					"OFF"
+				]}
+			]
+		},
+		{
+			"id" : 138,
+			"name" : "ACCOUNTING MODE",
+			"contentName" : [
+				"ACCOUNTING MODE",
+				"ACCOUNTING MODE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"A"
+				]},
+				{"values" : [
+					"A"
+				]}
+			]
+		},
+		{
+			"id" : 139,
+			"name" : "ACCOUNTING STATUS",
+			"contentName" : [
+				"ACCOUNTING STATUS",
+				"ACCOUNTING STATUS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"GOOD",
+					"BAD"
+				]},
+				{"values" : [
+					"GOOD",
+					"BAD"
+				]}
+			]
+		},
+		{
+			"id" : 140,
+			"name" : "ALL.Net ACCOUNTING STATUS PLAY COUNT COMMENT",
+			"contentName" : [
+				"PLAY COUNT",
+				"PLAY COUNT"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 141,
+			"name" : "REPORT PLAY COUNT 1",
+			"contentName" : [
+				"REPORT PLAY COUNT 1",
+				"PLAY COUNT 1"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 142,
+			"name" : "REPORT PLAY COUNT 2",
+			"contentName" : [
+				"REPORT PLAY COUNT 2",
+				"PLAY COUNT 2"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 143,
+			"name" : "REPORT PLAY COUNT 3",
+			"contentName" : [
+				"REPORT PLAY COUNT 3",
+				"PLAY COUNT 3"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 144,
+			"name" : "ALL.Net ACCOUNTING STATUS REPORT INFORMATION COMMENT",
+			"contentName" : [
+				"REPORT INFORMATION",
+				"REPORT INFORMATION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 145,
+			"name" : "REPORT1:",
+			"contentName" : [
+				"REPORT1:",
+				"REPORT 1"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 146,
+			"name" : "REPORT2:",
+			"contentName" : [
+				"REPORT2:",
+				"REPORT 2"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 147,
+			"name" : "ALL.Net APPLI DOWNLOAD STATUS",
+			"contentName" : [
+				"APPLI DOWNLOAD STATUS",
+				"APP DOWNLOAD STATUS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "AllNetAppliDownloadStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 148,
+			"name" : "ALL.Net AUTHENTICATION",
+			"contentName" : [
+				"ALL.Net AUTHENTICATION",
+				"ALL.Net AUTHENTICATION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+					"CHECK",
+					"GOOD",
+					"BAD"
+				]},
+				{"values" : [
+					"CHECK",
+					"GOOD",
+					"BAD"
+				]}
+			]
+		},
+		{
+			"id" : 149,
+			"name" : "GAME CURRENT VERSION",
+			"contentName" : [
+				"GAME CURRENT VERSION",
+				"CURRENT GAME VERSION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 150,
+			"name" : "GAME DOWNLOAD VERSION",
+			"contentName" : [
+				"GAME DOWNLOAD VERSION",
+				"DOWNLOADED GAME VERSION"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 151,
+			"name" : "GAME DOWNLOAD PROGRESS",
+			"contentName" : [
+				"GAME DOWNLOAD PROGRESS",
+				"DOWNLOAD PROGRESS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 152,
+			"name" : "GAME DOWNLOAD START TIME",
+			"contentName" : [
+				"GAME DOWNLOAD START TIME",
+				"DOWNLOAD RELEASE TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 153,
+			"name" : "GAME DOWNLOAD STATUS",
+			"contentName" : [
+				"GAME DOWNLOAD STATUS",
+				"DOWNLOAD STATUS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 154,
+			"name" : "GAME RELEASE START TIME",
+			"contentName" : [
+				"GAME RELEASE START TIME",
+				"APP RELEASE TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 155,
+			"name" : "ALL.Net DATA DOWNLOAD STATUS",
+			"contentName" : [
+				"DATA DOWNLOAD STATUS",
+				"DATA DOWNLOAD STATUS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "AllNetDataDownloadStatus",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 156,
+			"name" : "DATA DOWNLOAD PROGRESS",
+			"contentName" : [
+				"DATA DOWNLOAD PROGRESS",
+				"DOWNLOAD PROGRESS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 157,
+			"name" : "DATA DOWNLOAD START TIME",
+			"contentName" : [
+				"DATA DOWNLOAD START TIME",
+				"DOWNLOAD RELEASE TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 158,
+			"name" : "DATA RELEASE START TIME",
+			"contentName" : [
+				"DATA RELEASE START TIME",
+				"DATA RELEASE TIME"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 159,
+			"name" : "DATA DOWNLOAD STATUS",
+			"contentName" : [
+				"DATA DOWNLOAD STATUS",
+				"DOWNLOAD STATUS"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 160,
+			"name" : "BACKUP DATA CLEAR",
+			"contentName" : [
+				"BACKUP DATA CLEAR",
+				"BACKUP DATA CLEAR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "BackupDataClear",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 161,
+			"name" : "BACKUP DATA CLEAR COMMENT",
+			"contentName" : [
+				"if you select YES, clear bookking and unused credit.",
+				"SELECTING YES WILL CLEAR BOOKKEEPING AND UNUSED CREDITS."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 162,
+			"name" : "BACKUP DATA CLEAR DONE",
+			"contentName" : [
+				"BACKUP DATA CLEAR DONE",
+				"BACKUP DATA CLEAR COMPLETE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "BackupDataClearDone",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 163,
+			"name" : "BACKUP DATA CLEAR DONE COMMENT",
+			"contentName" : [
+				"CLEARD BACKUP DATA",
+				"CLEARED BACKUP DATA"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 164,
+			"name" : "HDD DATA CLEAR",
+			"contentName" : [
+				"HDD DATA CLEAR",
+				"HDD DATA CLEAR"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "HDDDataClear",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 165,
+			"name" : "HDD DATA CLEAR COMMENT",
+			"contentName" : [
+				"if you select YES, clear HDD data.",
+				"HDD WILL BE CLEARED IF YOU SELECT YES. ARE YOU SURE?"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 166,
+			"name" : "HDD DATA CLEAR DONE",
+			"contentName" : [
+				"HDD DATA CLEAR DONE",
+				"HDD DATA CLEAR COMPLETE."
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "HDDDataClearDone",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 167,
+			"name" : "HDD DATA CLEAR DONE COMMENT",
+			"contentName" : [
+				"CLEARD HDD DATA",
+				"HDD DATA CLEARED"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 168,
+			"name" : "SYSTEM TEST MODE",
+			"contentName" : [
+				"SYSTEM TEST MODE",
+				"SYSTEM TEST MODE"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "SystemTestMode",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 169,
+			"name" : "SYSTEM TEST MODE COMMENT",
+			"contentName" : [
+				"if you select YES, go to system test mode.",
+				"SELECTING YES WILL MOVE TO SYSTEM TEST MODE."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 170,
+			"name" : "EXIT",
+			"contentName" : [
+				"EXIT",
+				"EXIT"
+			],
+			"!selectable" : "デフォルト選択",
+			"selectable" : 1,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 171,
+			"name" : "YES",
+			"contentName" : [
+				"YES",
+				"YES"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 172,
+			"name" : "NO",
+			"contentName" : [
+				"NO",
+				"NO"
+			],
+			"!selectable" : "デフォルト選択",
+			"selectable" : 1,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 173,
+			"name" : "TOUCH PANEL ADJUSTMENT",
+			"contentName" : [
+				"TOUCH PANEL ADJUSTMENT",
+				"TOUCH PANEL ADJUSTMENT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "TouchPanelAdjustment",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 174,
+			"name" : "TOUCH PANEL MULTI TOUCH TEST",
+			"contentName" : [
+				"MULTI TOUCH TEST",
+				"MULTI TOUCH TEST"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "TouchPanelMultiTouchTest",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 175,
+			"name" : "TOUCH PANEL MULTI TOUCH COUNT",
+			"contentName" : [
+				"TOUCH PANEL MULTI TOUCH COUNT",
+				"TOUCH PANEL MULTI TOUCH COUNT"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "パラメータ参照",
+			"contentType" : 3,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 176,
+			"name" : "TOUCH PANEL ADJUSTMENT MANUAL",
+			"contentName" : [
+				"ADJUSTMENT MANUAL",
+				"MANUAL ADJUSTMENT"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "TouchPanelAdjustmentManual",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 177,
+			"name" : "TOUCH PANEL ADJUSTMENT MANUAL TOUCH COMMENT",
+			"contentName" : [
+				"TOUCH PANEL ADJUSTMENT MANUAL TOUCH COMMENT",
+				"TOUCH THE ＋ MARK"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : "TouchPanelAdjustmentManualComment",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 178,
+			"name" : "TOUCH PANEL ADJUSTMENT DEFAULT",
+			"contentName" : [
+				"ADJUSTMENT DEFAULT",
+				"DEFAULT SETTINGS"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "TouchPanelAdjustmentDefault",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 179,
+			"name" : "TOUCH PANEL ADJUSTMENT DEFAULT COMMENT",
+			"contentName" : [
+				"if you select YES, do default.",
+				"SELECTING YES WILL RESET THE TOUCH PANEL TO DEFAULT SETTINGS."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : "TouchPanelAdjustmentDefaultComment",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 180,
+			"name" : "TOUCH PANEL ADJUSTMENT DEFAULT DONE COMMENT",
+			"contentName" : [
+				"ADJUSTED TOUCHPANEL",
+				"TOUCH PANEL ADJUSTED."
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 181,
+			"name" : "TOUCH PANEL ADJUSTMENT MANUAL DONE COMMENT",
+			"contentName" : [
+				"ADJUSTED TOUCHPANEL",
+				"TOUCH PANEL ADJUSTED"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 182,
+			"name" : "YES(RESET)",
+			"contentName" : [
+				"YES(RESET)",
+				"YES (RESET)"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 183,
+			"name" : "YES(CLEAR)",
+			"contentName" : [
+				"YES(CLEAR)",
+				"YES (CLEAR)"
+			],
+			"!selectable" : "選択可",
+			"selectable" : 0,
+			"!contentType" : "処理実行",
+			"contentType" : 5,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 184,
+			"name" : "NO(CANCEL)",
+			"contentName" : [
+				"NO(CANCEL)",
+				"NO (CANCEL)"
+			],
+			"!selectable" : "デフォルト選択",
+			"selectable" : 1,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 185,
+			"name" : "NETWORK TEST COMMENT",
+			"contentName" : [
+				"TESTING NETWORK",
+				"TESTING THE NETWORK"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "コメント",
+			"contentType" : 6,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 186,
+			"name" : "SPACE",
+			"contentName" : [
+				"SPACE",
+				"SPACE"
+			],
+			"!selectable" : "選択不可",
+			"selectable" : -1,
+			"!contentType" : "スペース",
+			"contentType" : 7,
+			"nextSceneName" : -1,
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		},
+		{
+			"id" : 187,
+			"name" : "GAME TEST MODE EXIT",
+			"contentName" : [
+				"EXIT",
+				"EXIT"
+			],
+			"!selectable" : "デフォルト選択",
+			"selectable" : 1,
+			"!contentType" : "シーケンス変更",
+			"contentType" : 0,
+			"nextSceneName" : "GameTestModeExit",
+			"selects" : [
+				{"values" : [
+				]},
+				{"values" : [
+				]}
+			]
+		}
+	]
+}

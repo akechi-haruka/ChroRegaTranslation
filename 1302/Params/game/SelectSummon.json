@@ -1,0 +1,124 @@
+{
+	"SelectSummon" : [
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1,
+			"Rarity" : 1,
+			"Num_Item" : 10
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1,
+			"Rarity" : 2,
+			"Num_Item" : 30
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1,
+			"Rarity" : 3,
+			"Num_Item" : 70
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1,
+			"Rarity" : 4,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1,
+			"Rarity" : 5,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.1,
+			"Rarity" : 1,
+			"Num_Item" : 10
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.1,
+			"Rarity" : 2,
+			"Num_Item" : 30
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.1,
+			"Rarity" : 3,
+			"Num_Item" : 70
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.1,
+			"Rarity" : 4,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.1,
+			"Rarity" : 5,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.2,
+			"Rarity" : 1,
+			"Num_Item" : 10
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.2,
+			"Rarity" : 2,
+			"Num_Item" : 30
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.2,
+			"Rarity" : 3,
+			"Num_Item" : 70
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.2,
+			"Rarity" : 4,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 3,
+			"CardVersion" : 1.2,
+			"Rarity" : 5,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 4,
+			"CardVersion" : 1.3,
+			"Rarity" : 1,
+			"Num_Item" : 10
+		},
+		{
+			"ServerVersion" : 4,
+			"CardVersion" : 1.3,
+			"Rarity" : 2,
+			"Num_Item" : 30
+		},
+		{
+			"ServerVersion" : 4,
+			"CardVersion" : 1.3,
+			"Rarity" : 3,
+			"Num_Item" : 70
+		},
+		{
+			"ServerVersion" : 4,
+			"CardVersion" : 1.3,
+			"Rarity" : 4,
+			"Num_Item" : 200
+		},
+		{
+			"ServerVersion" : 4,
+			"CardVersion" : 1.3,
+			"Rarity" : 5,
+			"Num_Item" : 200
+		}
+	]
+}

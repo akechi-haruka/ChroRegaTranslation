@@ -1,0 +1,13 @@
+
+Every attack,<br>gain ＋{0} ATK
+Direct attack <br>damage ＋{0}％
+Attack before<br>the enemy
+Combat damage<br>received －{0}％
+Critical rate<br>increased （{0}）
+Return to standby<br>after attacking
+Recover {0} ＨＰ<br>when an item<br>effect is received
+Revive Count when<br>defeated －{0}
+EXP increased ＋{0}％
+On BREAK, recover {0}％ of dealt damage
+On BREAK, increase enemy Revive Count by +{0}
+On BREAK, advance {0} squares

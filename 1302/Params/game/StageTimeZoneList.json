@@ -1,0 +1,24 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "Noon",
+			"time" : 46
+		},
+		{
+			"id" : 1,
+			"name" : "Morning",
+			"time" : 32
+		},
+		{
+			"id" : 2,
+			"name" : "Evening",
+			"time" : 69
+		},
+		{
+			"id" : 3,
+			"name" : "Night",
+			"time" : 85
+		}
+	]
+}

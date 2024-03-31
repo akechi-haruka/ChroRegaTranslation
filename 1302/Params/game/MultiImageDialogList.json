@@ -1,0 +1,176 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "Tutorial",
+			"title" : "System Description",
+			"timeoutTime" : 60,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Information/TUT_img_001"
+			]
+		},
+		{
+			"id" : 1,
+			"name" : "Card Summon Tutorial",
+			"title" : "About Card Summoning",
+			"timeoutTime" : 60,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Information/TUT_img_001"
+			]
+		},
+		{
+			"id" : 2,
+			"name" : "Card Deck Editing Tutorial",
+			"title" : "About Card Deck Editing",
+			"timeoutTime" : 60,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Information/TUT_img_002"
+			]
+		},
+		{
+			"id" : 3,
+			"name" : "Review Tutorial",
+			"title" : "Flow of Play",
+			"timeoutTime" : 60,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Information/TUT_img_003"
+			]
+		},
+		{
+			"id" : 4,
+			"name" : "Location Test Store Open",
+			"title" : "Location Test Store Open",
+			"timeoutTime" : 60,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Banner/SHO_banner_gacha_003"
+			]
+		},
+		{
+			"id" : 5,
+			"name" : "Auto Draw Notification 1",
+			"title" : "Manual Draw",
+			"timeoutTime" : 10,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Banner/TUT_img_051907041"
+			]
+		},
+		{
+			"id" : 6,
+			"name" : "Auto Draw Notification 2",
+			"title" : "Manual Draw",
+			"timeoutTime" : 5,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Banner/TUT_img_051902040"
+			]
+		},
+		{
+			"id" : 7,
+			"name" : "Draw Type Switching",
+			"title" : "Draw Type Switching",
+			"timeoutTime" : 0,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+				"Switch Draw Type to Auto."
+			],
+			"imageFileNames" : [
+				"Banner/TUT_banner_051902030"
+			]
+		},
+		{
+			"id" : 8,
+			"name" : "Draw Type Switching",
+			"title" : "Draw Type Switching",
+			"timeoutTime" : 0,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+				"Switch Draw Type to Manual."
+			],
+			"imageFileNames" : [
+				"Banner/TUT_banner_051902030"
+			]
+		},
+		{
+			"id" : 9,
+			"name" : ".NET Registration Request",
+			"title" : "Buy Chrorega Coins",
+			"timeoutTime" : 0,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+				"You can purchase Chrorega Coins by registering at Chrorega.NET."
+			],
+			"imageFileNames" : [
+				"Banner/SHO_banner_011902090"
+			]
+		},
+		{
+			"id" : 10,
+			"name" : "Logout Dialog",
+			"title" : "Logout Confirmation",
+			"timeoutTime" : 0,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+				"Are you sure you want to log out?\n※Remaining CP will be converted into Summon Assist Tickets."
+			],
+			"imageFileNames" : [
+				"Banner/TUT_img_021904061"
+			]
+		},
+		{
+			"id" : 11,
+			"name" : "Notification after Tutorial",
+			"title" : "Playing Story Mode",
+			"timeoutTime" : 0,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Banner/TUT_img_021907031"
+			]
+		},
+		{
+			"id" : 12,
+			"name" : "Manual Draw Notification",
+			"title" : "Manual Draw",
+			"timeoutTime" : 10,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Banner/TUT_banner_051902030"
+			]
+		},
+		{
+			"id" : 13,
+			"name" : "Manual Draw Notification 2",
+			"title" : "Manual Draw",
+			"timeoutTime" : 10,
+			"positiveButtonDisableTime" : 0,
+			"messages" : [
+			],
+			"imageFileNames" : [
+				"Banner/TUT_img_051902040"
+			]
+		}
+	]
+}

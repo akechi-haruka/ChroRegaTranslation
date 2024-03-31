@@ -1,0 +1,16 @@
+
+Unusable in sortie
+Unusable in battle
+Level too low
+Not enough MP
+No target
+Currently unusable
+Failed to use
+No lanes available
+Lane was taken!
+Temporarily unavailable
+Activation time missed!
+Unavailable during cutscene
+Regalia not ready
+Unavailable during cutscene
+Magic is sealed

@@ -1,0 +1,136 @@
+{
+	"EventList" : [
+		{
+			"id" : 1,
+			"name" : "Gleaming Spear Gaebolg",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000001,
+			"battleRuleID" : 3,
+			"battleRuleText" : "MP Rate UP",
+			"stageEnvironmentID" : 0,
+			"startDate" : 1556056800000,
+			"endDate" : 1557255600000
+		},
+		{
+			"id" : 2,
+			"name" : "Commander, Taking the Battlefield!",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000002,
+			"battleRuleID" : 4,
+			"battleRuleText" : "MP Rate UP\nCard Stock Rate UP",
+			"stageEnvironmentID" : 0,
+			"startDate" : 1559080800000,
+			"endDate" : 1560279600000
+		},
+		{
+			"id" : 3,
+			"name" : "The Inherited Blade",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000003,
+			"battleRuleID" : 5,
+			"battleRuleText" : "Player　MP Rate DOWN\n　　　　　Card Stock Rate UP\nCOM　　 MP Rate UP",
+			"stageEnvironmentID" : 0,
+			"startDate" : 1561500000000,
+			"endDate" : 1562698800000
+		},
+		{
+			"id" : 4,
+			"name" : "A Terrifying Test of Courage",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000005,
+			"battleRuleID" : 7,
+			"battleRuleText" : "COM　　 Unit HP UP",
+			"stageEnvironmentID" : 12021,
+			"startDate" : 1563919200000,
+			"endDate" : 1565722800000
+		},
+		{
+			"id" : 5,
+			"name" : "Called by a Brilliant God",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000004,
+			"battleRuleID" : 6,
+			"battleRuleText" : "Critical Rate UP",
+			"stageEnvironmentID" : 12013,
+			"startDate" : 1565733600000,
+			"endDate" : 1567537200000
+		},
+		{
+			"id" : 6,
+			"name" : "Tournament by Moonlight",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000006,
+			"battleRuleID" : 8,
+			"battleRuleText" : "Player　MP Rate UP, Card Stock Rate UP\n　　　　　 Chronos HP DOWN\nCOM　　 MP Rate UP、Card Stock Rate UP",
+			"stageEnvironmentID" : 13011,
+			"startDate" : 1569362400000,
+			"endDate" : 1570561200000
+		},
+		{
+			"id" : 7,
+			"name" : "Halloween Party",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000007,
+			"battleRuleID" : 9,
+			"battleRuleText" : "Unit Starting Level 4",
+			"stageEnvironmentID" : 13021,
+			"startDate" : 1571781600000,
+			"endDate" : 1572980400000
+		},
+		{
+			"id" : 8,
+			"name" : "Gleaming Spear Gaebolg",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000001,
+			"battleRuleID" : 3,
+			"battleRuleText" : "MP Rate UP",
+			"stageEnvironmentID" : 13031,
+			"startDate" : 1574200800000,
+			"endDate" : 1575399600000
+		},
+		{
+			"id" : 9,
+			"name" : "A Snowy Holy Night",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000008,
+			"battleRuleID" : 12,
+			"battleRuleText" : "Sudden CLIMAX\nXP Rate UP",
+			"stageEnvironmentID" : 14011,
+			"startDate" : 1576015200000,
+			"endDate" : 1577300400000
+		},
+		{
+			"id" : 10,
+			"name" : "First Game of the New Year",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000009,
+			"battleRuleID" : 13,
+			"battleRuleText" : "Bernalio HP UP\nPlayer　Starting MP 12",
+			"stageEnvironmentID" : 14021,
+			"startDate" : 1578693600000,
+			"endDate" : 1578942000000
+		},
+		{
+			"id" : 11,
+			"name" : "Heart Pounding Valentine's Day",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000010,
+			"battleRuleID" : 14,
+			"battleRuleText" : "Player　Starting Regalia Gauge MAX\nCOM　　 MP Rate UP",
+			"stageEnvironmentID" : 14031,
+			"startDate" : 1580853600000,
+			"endDate" : 1582052400000
+		},
+		{
+			"id" : 12,
+			"name" : "Triple Payback Day",
+			"fixPTID" : 0,
+			"enemy_fixPTID" : 3000011,
+			"battleRuleID" : 15,
+			"battleRuleText" : "Resurrection Time 1 Count\nMP Rate 3x\nCard Stock Rate 3x",
+			"stageEnvironmentID" : 21011,
+			"startDate" : 1583359200000,
+			"endDate" : 1584558000000
+		}
+	]
+}

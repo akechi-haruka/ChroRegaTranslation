@@ -1,0 +1,119 @@
+{
+	"ScoreData_Special" : [
+		{
+			"id" : 101,
+			"name" : "Cleared Event Battle",
+			"point" : 10000
+		},
+		{
+			"id" : 102,
+			"name" : "First Entry",
+			"point" : 2000
+		},
+		{
+			"id" : 103,
+			"name" : "First Direct Attack",
+			"point" : 3000
+		},
+		{
+			"id" : 104,
+			"name" : "First Treasure",
+			"point" : 1000
+		},
+		{
+			"id" : 105,
+			"name" : "Treasure Hunter",
+			"point" : 3000
+		},
+		{
+			"id" : 106,
+			"name" : "Tile Flipping Pro",
+			"point" : 5000
+		},
+		{
+			"id" : 107,
+			"name" : "SACRED Deployment",
+			"point" : 1000
+		},
+		{
+			"id" : 108,
+			"name" : "SACRED Festival",
+			"point" : 5000
+		},
+		{
+			"id" : 109,
+			"name" : "No Damage Taken",
+			"point" : 5000
+		},
+		{
+			"id" : 110,
+			"name" : "Close Victory",
+			"point" : 3000
+		},
+		{
+			"id" : 111,
+			"name" : "Lucky 7",
+			"point" : 7777
+		},
+		{
+			"id" : 112,
+			"name" : "Attack From All Rows",
+			"point" : 1000
+		},
+		{
+			"id" : 113,
+			"name" : "Level MAX",
+			"point" : 3000
+		},
+		{
+			"id" : 114,
+			"name" : "Super Direct Attack",
+			"point" : 3000
+		},
+		{
+			"id" : 115,
+			"name" : "Quick Victory",
+			"point" : 1000
+		},
+		{
+			"id" : 116,
+			"name" : "Passed Enemies From Across",
+			"point" : 1000
+		},
+		{
+			"id" : 117,
+			"name" : "God of War",
+			"point" : 1000
+		},
+		{
+			"id" : 118,
+			"name" : "God of Destruction",
+			"point" : 3000
+		},
+		{
+			"id" : 119,
+			"name" : "No Regalia",
+			"point" : 3000
+		},
+		{
+			"id" : 120,
+			"name" : "Used Few Cards",
+			"point" : 5000
+		},
+		{
+			"id" : 121,
+			"name" : "Complete Destruction",
+			"point" : 5000
+		},
+		{
+			"id" : 122,
+			"name" : "Sneak Attack",
+			"point" : 3000
+		},
+		{
+			"id" : 123,
+			"name" : "Ability Bubble",
+			"point" : 5000
+		}
+	]
+}

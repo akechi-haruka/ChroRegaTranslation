@@ -1,0 +1,81 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Rank Diff 0",
+			"difference" : 0,
+			"winRate" : 0,
+			"loseRate" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Rank Diff+1",
+			"difference" : 1,
+			"winRate" : 0.5,
+			"loseRate" : 0.1
+		},
+		{
+			"id" : 3,
+			"name" : "Rank Diff+2",
+			"difference" : 2,
+			"winRate" : 1,
+			"loseRate" : 0.2
+		},
+		{
+			"id" : 4,
+			"name" : "Rank Diff+3",
+			"difference" : 3,
+			"winRate" : 1.5,
+			"loseRate" : 0.4
+		},
+		{
+			"id" : 5,
+			"name" : "Rank Diff+4",
+			"difference" : 4,
+			"winRate" : 1.75,
+			"loseRate" : 0.6
+		},
+		{
+			"id" : 6,
+			"name" : "Rank Diff+5",
+			"difference" : 5,
+			"winRate" : 2,
+			"loseRate" : 0.8
+		},
+		{
+			"id" : 7,
+			"name" : "Rank Diff+6",
+			"difference" : 6,
+			"winRate" : 2.2,
+			"loseRate" : 1
+		},
+		{
+			"id" : 8,
+			"name" : "Rank Diff+7",
+			"difference" : 7,
+			"winRate" : 2.4,
+			"loseRate" : 1.2
+		},
+		{
+			"id" : 9,
+			"name" : "Rank Diff+8",
+			"difference" : 8,
+			"winRate" : 2.6,
+			"loseRate" : 1.4
+		},
+		{
+			"id" : 10,
+			"name" : "Rank Diff+9",
+			"difference" : 9,
+			"winRate" : 2.8,
+			"loseRate" : 1.6
+		},
+		{
+			"id" : 11,
+			"name" : "Rank Diff+10",
+			"difference" : 10,
+			"winRate" : 3,
+			"loseRate" : 1.8
+		}
+	]
+}

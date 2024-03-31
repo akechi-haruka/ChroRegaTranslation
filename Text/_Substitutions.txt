@@ -1,0 +1,29 @@
+﻿# Close time shit
+【閉店{{A}}分前】ＣＰ購入受付：あと{{B}}分　購入CP制限中：{{C}}CP=[{{A}} minutes until shop closes] {{B}} minutes left to buy CP.　Maximum CP: {{C}}
+プレイ受付：あと{{A}}分　購入CP制限中：{{B}}CP=Shop closes in {{A}} minutes　Maximum CP: {{B}}
+閉店まであと{{A}}分です。あと{{B}}分でログインが出来なくなります。=It is only {{A}} minutes until the shop closes. You will not be able to log in in {{B}} minutes.
+
+# Very obvious re-used strings
+所持数:{{0}}=Owned: {{0}}
+{{A}}章=Chapter {{A}}
+クロノレガリア=Chrono Regalia
+発動必要ゲージ：=Active Gauge: 
+（小）=(Small)
+（中）=(Medium)
+（大）=(Large)
+開催期間=Event period:
+
+Aime接続チェック=Checking Aime Reader
+データ読み込み中=Loading Data
+ネットワークチェック=Network Check
+パラメータ読み込み中=Loading Parameters
+バックアップデータチェック=Checking Backup Data
+システムチェック=System Check
+タイトルサーバー=Title Server
+電子マネー=E-Money
+ALL.Net認証=ALL.Net Authentication
+ホップ数=Number of Hops
+回線種別=Line Type
+店内LAN=In-Store LAN
+ゲートウェイ=Gateway
+IPアドレス=IP Address

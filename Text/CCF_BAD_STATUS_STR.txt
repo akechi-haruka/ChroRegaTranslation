@@ -1,0 +1,6 @@
+
+Flame
+Freeze
+Sleep
+Poison
+Slash

@@ -1,0 +1,14 @@
+ルカ=Luca
+ロッタ=Lotta
+アレク=Alec
+フォロン=Folon
+マイア=Myas
+アストレア=Astria
+レーネ=Rene
+ソーケン=Soken
+セシリア=Cecilia
+ベルナリオ=Bernalio
+ミーシャ=Misha
+デスピナ=Despine
+ネクロマンサー=Necromancer
+シャドウ=Shadow

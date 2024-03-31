@@ -1,0 +1,20 @@
+かつて、神々の戦いがあった。\n戦いの果てに、勝利したのは『時の神』=There was once a battle of the gods.\nAt the end of the battle, the victor was the 'God of Time'.
+かつて神々の戦いがあった=There was once a battle of the gods.
+戦いの果てに、勝利したのは『時の神』=At the end of the battle, the victor was the 'God of Time'.
+敗北した神々は封じられ、人々の祖となった=The defeated gods were sealed away and became the ancestors of the people.
+神々の末裔が暮らす大陸の名は『アルケイオン』=The name of the continent where the descendants of the gods live is 'Alkeion'.
+時は流れ……=Time flows ...
+『時の力』は、若き神『クロノス』に受け継がれた=The 'power of time' was passed on to the young god 'Chronos'.
+だがしかし、『時の力』を狙う者が現れたのである=But someone has come for the 'power of time'...
+
+チュートリアル=Tutorial
+タッチして進む=Touch to proceed
+～勝利条件～=～ Victory Conditions ～
+～武器カードについて～=～ Weapon Cards ～
+～出撃ユニットについて～=～ Unit Deployment ～
+～道具カードについて～=～ Tool Cards ～
+～魔法カードについて～=～ Magic Cards ～
+～レガリアについて～=～ About Regalia ～
+～ＣＬＩＭＡＸについて～=～ About CLIMAX ～
+～ユニットの特徴について～=～ Unit Characteristics ～
+～神器について～=～ SACRED Treasure ～

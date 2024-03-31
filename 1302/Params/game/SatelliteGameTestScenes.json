@@ -1,0 +1,636 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Top",
+			"titleName" : [
+				"GAME TEST MODE",
+				"GAME TEST MODE"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"BOOKKEEPING",
+				"INPUT TEST",
+				"OUTPUT TEST",
+				"GAME ASSIGNMENTS",
+				"GAME SYSTEM STATUS",
+				"HARDWARE STATUS",
+				"HARDWARE TEST",
+				"TOUCH PANEL ADJUSTMENT",
+				"NETWORK TEST",
+				"ALL.Net ACCOUNTING STATUS",
+				"EMONEY STATUS",
+				"BACKUP DATA CLEAR",
+				"HDD DATA CLEAR",
+				"SYSTEM TEST MODE",
+				"GAME TEST MODE EXIT"
+			]
+		},
+		{
+			"id" : 2,
+			"name" : "Bookkeep01",
+			"titleName" : [
+				"BOOKKEEP 1/2",
+				"BOOKKEEPING 1/2"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : "Bookkeep02",
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO NEXT",
+				"PRESS TEST BUTTON TO MOVE TO NEXT PAGE"
+			],
+			"contentNames" : [
+				"COIN 1",
+				"COIN 2",
+				"TOTAL COINS",
+				"E-MONEY COINS",
+				"SPACE",
+				"COIN CREDITS",
+				"SERVICE CREDITS",
+				"E-MONEY CREDITS",
+				"TOTAL CREDITS"
+			]
+		},
+		{
+			"id" : 3,
+			"name" : "Bookkeep02",
+			"titleName" : [
+				"BOOKKEEP 2/2",
+				"BOOKKEEPING 2/2"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : "Top",
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"NUMBER OF GAMES",
+				"AIME PLAY NUM",
+				"GUEST PLAY NUM",
+				"SPACE",
+				"PURCHASE TOTAL CREDIT NUM",
+				"PURCHASE CP CREDIT NUM",
+				"PURCHASE CARD CREDIT NUM",
+				"PURCHASE CHROREGACOIN CREDIT NUM",
+				"SPACE",
+				"TOTAL TIME",
+				"PLAY TIME"
+			]
+		},
+		{
+			"id" : 4,
+			"name" : "InputTest",
+			"titleName" : [
+				"INPUT TEST",
+				"INPUT TEST"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 0,
+			"footerStr" : [
+				"PRESS TEST BUTTON AND SERVICE BUTTON TO ABORT",
+				"PRESS TEST BUTTON AND SERVICE BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"TEST BUTTON",
+				"SERVICE BUTTON"
+			]
+		},
+		{
+			"id" : 5,
+			"name" : "OutputTest",
+			"titleName" : [
+				"OUTPUT TEST",
+				"OUTPUT TEST"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"COIN LOCKOUT",
+				"CABINET LAMP LEFTTOP",
+				"CABINET LAMP RIGHTTOP",
+				"CABINET LAMP LEFTBOTTOM",
+				"CABINET LAMP RIGHTBOTTOM",
+				"CABINET LAMP BOTTOM",
+				"Aime LAMP",
+				"USB CHARGING PORT",
+				"EXIT"
+			]
+		},
+		{
+			"id" : 6,
+			"name" : "GameAssignments",
+			"titleName" : [
+				"GAME ASSIGNMENTS",
+				"GAME SETTINGS"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"ADVERTISE SOUND",
+				"PURCHASE LIMIT",
+				"PLACEEVENT MODE",
+				"PLACEEVENT MODE MATCH NUM",
+				"SPACE",
+				"GAME ASSIGNMENTS DEFAULT",
+				"EXIT"
+			]
+		},
+		{
+			"id" : 7,
+			"name" : "GameSystemStatus",
+			"titleName" : [
+				"GAME SYSTEM STATUS",
+				"GAME SYSTEM INFORMATION"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"GAME TITLE",
+				"SOFTWARE TIME",
+				"SOFTWARE VERSION",
+				"DATA VERSION",
+				"SPACE",
+				"SYSTEM CLOCK",
+				"SPACE",
+				"KEYCHIP ID",
+				"BOARD ID"
+			]
+		},
+		{
+			"id" : 8,
+			"name" : "HardwareStatus",
+			"titleName" : [
+				"HARDWARE STATUS",
+				"HARDWARE STATUS"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"Aime CARD READER STATUS COMMENT",
+				"Aime HWVERSION",
+				"Aime FWVERSION",
+				"SPACE",
+				"LED STATUS COMMENT",
+				"LED BOARD NO",
+				"LED CHIP NO",
+				"LED FIRMWARE REV"
+			]
+		},
+		{
+			"id" : 9,
+			"name" : "HardwareTest",
+			"titleName" : [
+				"HARDWARE TEST",
+				"HARDWARE TEST"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"Aime CARD READER READ TEST",
+				"VFD TEST",
+				"EXIT"
+			]
+		},
+		{
+			"id" : 10,
+			"name" : "AimeCardReaderReadTest",
+			"titleName" : [
+				"Aime CARD READER TEST",
+				"Aime CARD READER TEST"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"Aime CARD READER TEST COMMENT",
+				"SPACE",
+				"CARD STATUS",
+				"SPACE",
+				"CHECK TIME"
+			]
+		},
+		{
+			"id" : 11,
+			"name" : "EMoneyStatus",
+			"titleName" : [
+				"E-MONEY STATUS",
+				"E-MONEY STATUS"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"TERMINAL ACTIVATE",
+				"TERMINAL DEACTIVATE",
+				"EXIT",
+				"SPACE",
+				"TERMINALID",
+				"BRAND",
+				"SPACE",
+				"DEAL RESULT",
+				"DEAL RESULT LAYOUT",
+				"SPACE"
+			]
+		},
+		{
+			"id" : 12,
+			"name" : "VFDTest",
+			"titleName" : [
+				"VFD TEST",
+				"VFD DISPLAY TEST"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"VFD TEST STATUS",
+				"SPACE",
+				"VFD TEST COMMENT"
+			]
+		},
+		{
+			"id" : 13,
+			"name" : "NetworkTest",
+			"titleName" : [
+				"NETWORK TEST",
+				"NETWORK TEST"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"NETWORK TEST COMMENT",
+				"IP ADDRESS",
+				"GATEWAY",
+				"DNS(LAN)",
+				"HOPS",
+				"LINE TYPE",
+				"ALL.Net AUTH",
+				"Aime SERVER",
+				"EMONEY SERVER",
+				"TITLE GAME SERVER"
+			]
+		},
+		{
+			"id" : 14,
+			"name" : "AllNetAccountingStatus",
+			"titleName" : [
+				"ALL.Net ACCOUNTING STATUS",
+				"ALL.Net ACCOUNTING STATUS"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"ALL.Net SYSTEM CAUTION",
+				"EXIT",
+				"SPACE",
+				"ACCOUNTING MODE",
+				"ACCOUNTING STATUS",
+				"SPACE",
+				"ALL.Net ACCOUNTING STATUS PLAY COUNT COMMENT",
+				"REPORT PLAY COUNT 1",
+				"REPORT PLAY COUNT 2",
+				"REPORT PLAY COUNT 3",
+				"SPACE",
+				"ALL.Net ACCOUNTING STATUS REPORT INFORMATION COMMENT",
+				"REPORT1:",
+				"REPORT2:"
+			]
+		},
+		{
+			"id" : 15,
+			"name" : "TouchPanelAdjustment",
+			"titleName" : [
+				"TOUCH PANEL ADJUSTMENT",
+				"TOUCH PANEL ADJUSTMENT"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"TOUCH PANEL MULTI TOUCH TEST",
+				"TOUCH PANEL ADJUSTMENT MANUAL",
+				"SPACE",
+				"TOUCH PANEL ADJUSTMENT DEFAULT",
+				"EXIT"
+			]
+		},
+		{
+			"id" : 16,
+			"name" : "TouchPanelMultiTouchTest",
+			"titleName" : [
+				"TOUCH PANEL MULTI TOUCH TEST",
+				"TOUCH PANEL MULTI TOUCH TEST"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 0,
+			"footerStr" : [
+				"PRESS TEST BUTTON AND SERVICE BUTTON TO ABORT",
+				"PRESS TEST BUTTON AND SERVICE BUTTON\nWITHOUT TOUCHING SCREEN TO EXIT"
+			],
+			"contentNames" : [
+				"TOUCH PANEL MULTI TOUCH COUNT"
+			]
+		},
+		{
+			"id" : 17,
+			"name" : "TouchPanelAdjustmentManual",
+			"titleName" : [
+				"TOUCH PANEL ADJUSTMENT MANUAL",
+				"TOUCH PANEL MANUAL ADJUSTMENT"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 0,
+			"footerStr" : [
+				"PRESS TEST BUTTON AND SERVICE BUTTON TO ABORT",
+				"PRESS TEST BUTTON AND SERVICE BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"SPACE",
+				"TOUCH PANEL ADJUSTMENT MANUAL TOUCH COMMENT"
+			]
+		},
+		{
+			"id" : 18,
+			"name" : "TouchPanelAdjustmentDefault",
+			"titleName" : [
+				"TOUCH PANEL ADJUSTMENT DEFAULT",
+				"TOUCH PANEL DEFAULT ADJUSTMENT"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"TOUCH PANEL ADJUSTMENT DEFAULT COMMENT",
+				"SPACE",
+				"YES(RESET)",
+				"NO(CANCEL)"
+			]
+		},
+		{
+			"id" : 19,
+			"name" : "TouchPanelAdjustmentManualDone",
+			"titleName" : [
+				"TOUCH PANEL ADJUSTMENT MANUAL DONE",
+				"TOUCH PANEL MANUAL ADJUSTMENT"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : "TouchPanelAdjustment",
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"TOUCH PANEL ADJUSTMENT MANUAL DONE COMMENT"
+			]
+		},
+		{
+			"id" : 20,
+			"name" : "TouchPanelAdjustmentDefaultDone",
+			"titleName" : [
+				"TOUCH PANEL ADJUSTMENT DEFAULT DONE",
+				"TOUCH PANEL DEFAULT ADJUSTMENT"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : "TouchPanelAdjustment",
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"TOUCH PANEL ADJUSTMENT DEFAULT DONE COMMENT"
+			]
+		},
+		{
+			"id" : 21,
+			"name" : "BackupDataClear",
+			"titleName" : [
+				"BACKUP DATA CLEAR",
+				"BACKUP DATA CLEAR"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"BACKUP DATA CLEAR COMMENT",
+				"SPACE",
+				"YES(CLEAR)",
+				"NO(CANCEL)"
+			]
+		},
+		{
+			"id" : 22,
+			"name" : "BackupDataClearDone",
+			"titleName" : [
+				"BACKUP DATA CLEAR DONE",
+				"BACKUP DATA CLEAR"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : "Top",
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"BACKUP DATA CLEAR DONE COMMENT"
+			]
+		},
+		{
+			"id" : 23,
+			"name" : "HDDDataClear",
+			"titleName" : [
+				"HDD DATA CLEAR",
+				"HDD DATA CLEAR"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"HDD DATA CLEAR COMMENT",
+				"SPACE",
+				"YES(CLEAR)",
+				"NO(CANCEL)"
+			]
+		},
+		{
+			"id" : 24,
+			"name" : "HDDDataClearDone",
+			"titleName" : [
+				"HDD DATA CLEAR DONE",
+				"HDD DATA CLEAR"
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : "Top",
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"PRESS TEST BUTTON TO ABORT",
+				"PRESS TEST BUTTON TO EXIT"
+			],
+			"contentNames" : [
+				"HDD DATA CLEAR DONE COMMENT"
+			]
+		},
+		{
+			"id" : 25,
+			"name" : "SystemTestMode",
+			"titleName" : [
+				"SYSTEM TEST MODE",
+				"SYSTEM TEST MODE"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"SYSTEM TEST MODE COMMENT",
+				"YES",
+				"NO"
+			]
+		},
+		{
+			"id" : 26,
+			"name" : "GameTestModeExit",
+			"titleName" : [
+			],
+			"!pageType" : "参照ページ",
+			"pageType" : 1,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 0,
+			"footerStr" : [
+			],
+			"contentNames" : [
+			]
+		}
+	]
+}

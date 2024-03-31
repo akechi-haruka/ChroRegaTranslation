@@ -1,0 +1,82 @@
+ホーム=Home
+カード一覧=Card List
+デッキ\n編集=Deck\nEdit
+ハイスコア=High Score
+あと100回召喚可能=Can be summoned 100 times
+1つ引く=Draw 1
+編成中=In Party
+セット中=In Set
+設定中=Equipped
+昇順=↑
+降順=↓
+カテゴリー順=Category
+特殊なルールでCOM戦を行います=Battle against COM with unique rules!
+月間スタンプ=Monthly Stamp
+ドロータイプ切替<br><size\=-16><color\=#FFFFFF>現在の設定：マニュアル</size></color>=Set Draw Type<br><size\=-16><color\=#FFFFFF>Current Setting: Manual</size></color>
+ナビキャラ変更=Navigator Character Change
+所持アイテム=Item List
+宝箱をタッチで開封=Unlock the treasure chest by touching!
+召喚補助チケット<color\=#FF55E1><size\=24>1000枚</size></color>が\n<color\=#FF55E1>2015/10/30 12:45</color>に失効します=Summon assistance ticket<color\=#FF55E1><size\=24>1000 sheets</size></color>but\n<color\=#FF55E1>2015/10/30 12:45</color>Is exposed to
+制限=Limit
+ミッション=Missions
+マイデータ=My Data
+高ランクを目指して真剣勝負！=Aim for a high rank in a serious competition!
+探索やストーリーが楽しめます=Enjoy Exploration Mode and Story Mode
+COMや友達と気軽に対戦できます=Easily play against COM or Friends!
+ノーマル=Normal
+デイリー=Daily
+受け取る=Receive
+受け取り済み=Received
+全獲得ボーナス=All Owned Bonus
+ゴールド　×5000G=Gold x 5000g
+パーティー編成=Party Formation
+※この先パーティーを変更できません。=* Your party cannot be changed after this point.
+
+イベントCOM戦=Event COM Battle
+特別ルール=Special Rules
+CPを使って『The Inherited Blade』を開始します。<br>対戦後にカードを獲得できます。=Start "The Inherited Blade" using CP.<br>You can get a card after the match.
+
+CPを使って全国対戦を開始します。<br>対戦後にカードを獲得できます。<br>対戦モードを選択してください。=Start a Net Battle using CP.<br>You can get a card after the battle.<br>Please select the battle type.
+全国対戦=Net Battle
+CPを使って対戦を開始します。<br>対戦後にカードを獲得できます。<br>対戦モードを選択してください。=Start the battle using CP.<br>You can get a card after the battle.<br>Please select the battle mode.
+
+カジュアル戦=Casual Battle
+
+ワールド=World
+探索では、自分のパーティーで様々な敵と対戦できます。\r\nストーリーでは、専用のパーティーで様々な物語を楽しめます。=In Exploration Mode, you can play against various enemies using your selected party.\nIn Story Mode, you can enjoy various stories in a pre-selected party.
+
+探索=Exploration
+※探索で手に入る素材の個数は、どの難易度でも変化しません。\r=* The number of materials obtained by searching does not change at any difficulty level.\r
+カード×3獲得=Receive 3x Cards
+CPを使って探索を開始します。<br>対戦後にカードを獲得できます。=Start exploration using CP.<br>You can get a card after the battle.
+ドロップアイテム=Drop Items
+探索開始=Start Exploration
+
+ストーリー=Story
+
+{{A}}．ＮＥＴ登録特典={{A}}.NET Registration Perks
+所持アイテム一覧=Items Owned
+{{A}}コイン={{A}} Coin
+様々な機能に使用できるコイン。<br>650枚が2023/12/02 22:47:55に失効します。=Coins that can be used for various functions.<br>650 pieces expire at 2023/12/02 22:47:55.
+【素材】=【Material】
+【チケット】=【Ticket】
+BEカード確定ガチャチケットのかけら=BE Card Gacha Ticket Fragment
+
+r:"CPを使って『(.*?)』を開始します。<br>対戦後にカードを獲得できます。"=Start 『$1』 using CP.<br>You can get a card after the battle.
+※専用のパーティーを使用してプレイします。=※ This episode will use a fixed party.
+CPを使ってストーリーを開始します。<br>対戦後にカードを獲得できます。=Start the story using CP.<br>You can get a card after the battle.
+専用パーティー=Fixed party
+ストーリー開始=Start Story
+購入できません=Purchase currently unavailable
+ＣＰを使って対戦を開始します。<br>対戦モードを選択してください。=Start the match using CP.<br>Please select the battle mode.
+タイムアウト=Timed Out
+残ったCPをチケットに変換しました。=The remaining CP have been converted to tickets.
+
+同じ数字を入力したプレイヤーと対戦します。\nお好きな4ケタの数字を入力してください。=You will play against the player who entered the same number. Enter any number of your choice.
+対戦コード入力=Enter matching code
+マッチング中=Matching...
+マッチング=Matching
+
+ゲストプレイ中は選択不可=Mode unavailable during guest play
+CPを使ってチュートリアルを開始します。=Start the game tutorial using CP.
+チュートリアル開始=Start Tutorial

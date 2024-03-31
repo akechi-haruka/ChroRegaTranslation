@@ -1,0 +1,193 @@
+{
+	"datalist" : [
+		{
+			"id" : 10000,
+			"name" : "Enemy Chronos Costume",
+			"!note" : "A Costume for Chronos. As a tradition, it is passed down to those who have inherited the power of time.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 0
+		},
+		{
+			"id" : 1,
+			"name" : "Chronos Robe (Blue)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. The color seems to indicate his intelligence.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Chronos Robe (Red)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. The color seems to represent his fighting spirit.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 1
+		},
+		{
+			"id" : 3,
+			"name" : "Chronos Robe (Green)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. The color seems to represent his pride.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 2
+		},
+		{
+			"id" : 4,
+			"name" : "Chronos Robe (Yellow)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. The color seems to represent his mercy.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 3
+		},
+		{
+			"id" : 5,
+			"name" : "Chronos Robe (Brown)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. The color seems to represent his beliefs.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 4
+		},
+		{
+			"id" : 6,
+			"name" : "Chronos Robe (Purple)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. The color seems to represent his mystery.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 5
+		},
+		{
+			"id" : 7,
+			"name" : "Chronos Robe (Bright Yellow)",
+			"!note" : "Dummy Test",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 6
+		},
+		{
+			"id" : 8,
+			"name" : "Chronos Robe EX1",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 7
+		},
+		{
+			"id" : 9,
+			"name" : "Chronos Robe (Black and White)",
+			"!note" : "Dummy Test",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 8
+		},
+		{
+			"id" : 10,
+			"name" : "Chronos Robe (Crimson)",
+			"!note" : "Dummy Test",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 9
+		},
+		{
+			"id" : 11,
+			"name" : "Chronos Robe EX2",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 10
+		},
+		{
+			"id" : 12,
+			"name" : "Chronos Robe EX8",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 11
+		},
+		{
+			"id" : 13,
+			"name" : "Chronos Robe EX9",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 12
+		},
+		{
+			"id" : 14,
+			"name" : "Chronos Robe EX10",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 13
+		},
+		{
+			"id" : 15,
+			"name" : "Chronos Robe EX11",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 14
+		},
+		{
+			"id" : 16,
+			"name" : "Chronos Robe EX12",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 15
+		},
+		{
+			"id" : 17,
+			"name" : "Chronos Robe EX3",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 16
+		},
+		{
+			"id" : 18,
+			"name" : "Chronos Robe EX13",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 17
+		},
+		{
+			"id" : 19,
+			"name" : "Chronos Robe (Gold)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It is a gem of a shining special edition.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 18
+		},
+		{
+			"id" : 20,
+			"name" : "Chronos Robe (Silver)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It is a gem of a shining special edition.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 19
+		},
+		{
+			"id" : 21,
+			"name" : "Chronos Robe (Black)",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It is a gem of a shining special edition.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 20
+		},
+		{
+			"id" : 22,
+			"name" : "Chronos Robe EX14",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 21
+		},
+		{
+			"id" : 23,
+			"name" : "Chronos Robe EX4",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 22
+		},
+		{
+			"id" : 24,
+			"name" : "Chronos Robe EX5",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 23
+		},
+		{
+			"id" : 25,
+			"name" : "Chronos Robe EX6",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 24
+		},
+		{
+			"id" : 26,
+			"name" : "Chronos Robe EX7",
+			"!note" : "An outfit that can be purchased with Crystal Time Stones. It reveals a new aspect of Chronos. ",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 25
+		}
+	]
+}

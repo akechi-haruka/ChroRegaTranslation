@@ -1,0 +1,22 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"mainCategory" : "Main Story",
+			"headerTitle" : "Main Story",
+			"headerImage" : "STO_head_cronus"
+		},
+		{
+			"id" : 2,
+			"mainCategory" : "Character Story",
+			"headerTitle" : "Character Story"
+		},
+		{
+			"id" : 3,
+			"mainCategory" : "Another Story",
+			"headerTitle" : "Another Story",
+			"headerImage" : "STO_head_another_base",
+			"iconImage" : "character_cmn_B_chronos_wh_a"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+<size\=+20>99</size>連勝中=<size\=+20>99</size>Consecutive Victories
+勝利時のランクポイントが３倍!=Rank points are tripled upon win!
+引く=Pull
+レガリアを選択してください。=Select a Regalia.
+MPに\n変換=MP\nConvert
+出撃=Deploy
+出撃中=Deployed
+装備をしていないため\n出撃できません。=Cannot equip as unit\nis not deployed!
+詠唱=Cast
+戦闘中=In Combat
+行動不能=Retreated
+使用=Use
+魔法詠唱中=Casting
+{{A}}Medium={{A}}Medium
+{{A}}Large={{A}}Large
+{{A}}Small={{A}}Small
+{{A}}Extra Large={{A}}Extra Large
+戦闘用鉄杖=Battle
+出撃時効果！=Effect on Deployed!
+レガリア\n決定=Regalia\nConfirm
+加速！=Acceleration
+（敵使用前）=(Not yet used)
+残り　　  カウント\n=　　  Counts!!\n
+道具使用中=Using Tool
+対戦相手の戦闘準備を待っています。=Waiting for your opponent to prepare for battle...

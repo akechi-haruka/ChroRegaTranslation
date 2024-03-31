@@ -1,0 +1,192 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Aichi Prefecture"
+		},
+		{
+			"id" : 2,
+			"name" : "Aomori Prefecture"
+		},
+		{
+			"id" : 3,
+			"name" : "Akita Prefecture"
+		},
+		{
+			"id" : 4,
+			"name" : "Ishikawa Prefecture"
+		},
+		{
+			"id" : 5,
+			"name" : "Ibaraki Prefecture"
+		},
+		{
+			"id" : 6,
+			"name" : "Iwate Prefecture"
+		},
+		{
+			"id" : 7,
+			"name" : "Ehime Prefecture"
+		},
+		{
+			"id" : 8,
+			"name" : "Oita Prefecture"
+		},
+		{
+			"id" : 9,
+			"name" : "Osaka Metropolitan Area"
+		},
+		{
+			"id" : 10,
+			"name" : "Okayama Prefecture"
+		},
+		{
+			"id" : 11,
+			"name" : "Okinawa Prefecture"
+		},
+		{
+			"id" : 12,
+			"name" : "Kagawa Prefecture"
+		},
+		{
+			"id" : 13,
+			"name" : "Kagoshima Prefecture"
+		},
+		{
+			"id" : 14,
+			"name" : "Kanagawa Prefecture"
+		},
+		{
+			"id" : 15,
+			"name" : "Gifu Prefecture"
+		},
+		{
+			"id" : 16,
+			"name" : "Kyoto Metropolitan Area"
+		},
+		{
+			"id" : 17,
+			"name" : "Kumamoto Prefecture"
+		},
+		{
+			"id" : 18,
+			"name" : "Gunma Prefecture"
+		},
+		{
+			"id" : 19,
+			"name" : "Kouchi Prefecture"
+		},
+		{
+			"id" : 20,
+			"name" : "Saitama Prefecture"
+		},
+		{
+			"id" : 21,
+			"name" : "Saga Prefecture"
+		},
+		{
+			"id" : 22,
+			"name" : "Shiga Prefecture"
+		},
+		{
+			"id" : 23,
+			"name" : "Shizuoka Prefecture"
+		},
+		{
+			"id" : 24,
+			"name" : "Shimane Prefecture"
+		},
+		{
+			"id" : 25,
+			"name" : "Chiba Prefecture"
+		},
+		{
+			"id" : 26,
+			"name" : "Tokyo Metropolitan Area"
+		},
+		{
+			"id" : 27,
+			"name" : "Tokushima Prefecture"
+		},
+		{
+			"id" : 28,
+			"name" : "Tochigi Prefecture"
+		},
+		{
+			"id" : 29,
+			"name" : "Tottori Prefecture"
+		},
+		{
+			"id" : 30,
+			"name" : "Toyama Prefecture"
+		},
+		{
+			"id" : 31,
+			"name" : "Nagasaki Prefecture"
+		},
+		{
+			"id" : 32,
+			"name" : "Nagano Prefecture"
+		},
+		{
+			"id" : 33,
+			"name" : "Nara Prefecture"
+		},
+		{
+			"id" : 34,
+			"name" : "Niigata Prefecture"
+		},
+		{
+			"id" : 35,
+			"name" : "Hyogo Prefecture"
+		},
+		{
+			"id" : 36,
+			"name" : "Hiroshima Prefecture"
+		},
+		{
+			"id" : 37,
+			"name" : "Fukui Prefecture"
+		},
+		{
+			"id" : 38,
+			"name" : "Fukuoka Prefecture"
+		},
+		{
+			"id" : 39,
+			"name" : "Fukushima Prefecture"
+		},
+		{
+			"id" : 40,
+			"name" : "Hokkaido & Northern Islands"
+		},
+		{
+			"id" : 41,
+			"name" : "Mie Prefecture"
+		},
+		{
+			"id" : 42,
+			"name" : "Miyagi Prefecture"
+		},
+		{
+			"id" : 43,
+			"name" : "Miyazaki Prefecture"
+		},
+		{
+			"id" : 44,
+			"name" : "Yamagata Prefecture"
+		},
+		{
+			"id" : 45,
+			"name" : "Yamaguchi Prefecture"
+		},
+		{
+			"id" : 46,
+			"name" : "Yamanashi Prefecture"
+		},
+		{
+			"id" : 47,
+			"name" : "Wakayama Prefecture"
+		}
+	]
+}

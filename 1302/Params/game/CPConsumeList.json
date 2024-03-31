@@ -1,0 +1,104 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Net Battle",
+			"consumeCp" : 100,
+			"consumeCpType" : 1,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Net Battle DX",
+			"consumeCp" : 150,
+			"consumeCpType" : 1,
+			"publishCardNum" : 2,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 1
+		},
+		{
+			"id" : 3,
+			"name" : "Local Battle",
+			"consumeCp" : 100,
+			"consumeCpType" : 2,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 4
+		},
+		{
+			"id" : 4,
+			"name" : "Event Battle",
+			"consumeCp" : 100,
+			"consumeCpType" : 6,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 6
+		},
+		{
+			"id" : 5,
+			"name" : "COM Battle",
+			"consumeCp" : 100,
+			"consumeCpType" : 4,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 2
+		},
+		{
+			"id" : 6,
+			"name" : "Story Battle",
+			"consumeCp" : 0,
+			"consumeCpType" : 5,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 5
+		},
+		{
+			"id" : 7,
+			"name" : "Friend Battle",
+			"consumeCp" : 100,
+			"consumeCpType" : 3,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 3
+		},
+		{
+			"id" : 8,
+			"name" : "Local Event Battle",
+			"consumeCp" : 0,
+			"consumeCpType" : 7,
+			"publishCardNum" : 0,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 4
+		},
+		{
+			"id" : 9,
+			"name" : "Exploration",
+			"consumeCp" : 100,
+			"consumeCpType" : 8,
+			"publishCardNum" : 1,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 7
+		},
+		{
+			"id" : 10,
+			"name" : "Exploration DX",
+			"consumeCp" : 300,
+			"consumeCpType" : 8,
+			"publishCardNum" : 3,
+			"bonus" : 0,
+			"attention" : 0,
+			"buttonIconType" : 8
+		}
+	]
+}

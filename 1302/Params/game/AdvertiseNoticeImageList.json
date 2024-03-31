@@ -1,0 +1,56 @@
+{
+	"datalist" : [
+		{
+			"advertiseId" : 1,
+			"serverVersion" : 4,
+			"name" : "New Registration Perks",
+			"sortPriority" : 1,
+			"imageName" : "SHO_banner_021902011",
+			"visibleAdvertise" : 1,
+			"visibleHome" : 0,
+			"targetVersion" : 0,
+			"visibleMyData" : 0,
+			"startDate" : 1550700000000,
+			"endDate" : 4102426800000
+		},
+		{
+			"advertiseId" : 7,
+			"serverVersion" : 4,
+			"name" : "Chrorega.NET Registration Perks",
+			"sortPriority" : 2,
+			"imageName" : "SHO_banner_021902020",
+			"visibleAdvertise" : 1,
+			"visibleHome" : 0,
+			"targetVersion" : 0,
+			"visibleMyData" : 0,
+			"startDate" : 1550700000000,
+			"endDate" : 4102426800000
+		},
+		{
+			"advertiseId" : 1300,
+			"serverVersion" : 4,
+			"name" : "Updated to Ver. 1.3",
+			"sortPriority" : 10,
+			"imageName" : "KOK_banner_021909011",
+			"visibleAdvertise" : 0,
+			"visibleHome" : 1,
+			"targetVersion" : 13000,
+			"visibleMyData" : 0,
+			"startDate" : 1564610400000,
+			"endDate" : 4102426800000
+		},
+		{
+			"advertiseId" : 99999,
+			"serverVersion" : 4,
+			"name" : "100CP Free Campaign",
+			"sortPriority" : 99999,
+			"imageName" : "KOK_banner_021904051",
+			"visibleAdvertise" : 1,
+			"visibleHome" : 0,
+			"targetVersion" : 0,
+			"visibleMyData" : 0,
+			"startDate" : 946677600000,
+			"endDate" : 946753200000
+		}
+	]
+}

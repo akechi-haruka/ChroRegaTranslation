@@ -1,0 +1,34 @@
+{
+	"datalist" : [
+		{
+			"name" : "Unit Costume",
+			"id" : 1,
+			"sortKey" : 1
+		},
+		{
+			"name" : "Unit Color",
+			"id" : 2,
+			"sortKey" : 2
+		},
+		{
+			"name" : "Chronos Costume",
+			"id" : 3,
+			"sortKey" : 3
+		},
+		{
+			"name" : "Chronos Color",
+			"id" : 4,
+			"sortKey" : 4
+		},
+		{
+			"name" : "SACRED Costume",
+			"id" : 5,
+			"sortKey" : 5
+		},
+		{
+			"name" : "Castle Decoration",
+			"id" : 6,
+			"sortKey" : 6
+		}
+	]
+}

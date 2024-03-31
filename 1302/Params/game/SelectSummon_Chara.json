@@ -1,0 +1,40 @@
+{
+	"SelectSummon_Chara" : [
+		{
+			"CharaId" : 1000,
+			"ItemId" : 411
+		},
+		{
+			"CharaId" : 2000,
+			"ItemId" : 412
+		},
+		{
+			"CharaId" : 3000,
+			"ItemId" : 413
+		},
+		{
+			"CharaId" : 4000,
+			"ItemId" : 414
+		},
+		{
+			"CharaId" : 5000,
+			"ItemId" : 415
+		},
+		{
+			"CharaId" : 6000,
+			"ItemId" : 416
+		},
+		{
+			"CharaId" : 1100,
+			"ItemId" : 417
+		},
+		{
+			"CharaId" : 4100,
+			"ItemId" : 420
+		},
+		{
+			"CharaId" : 6100,
+			"ItemId" : 422
+		}
+	]
+}

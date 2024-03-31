@@ -1,0 +1,6 @@
+商品選択中=Select an Option
+残高照会=Balance
+電子マネー=E-Money
+メニュー=Menu
+電子マネー選択中=Selecting E-Money
+電子マネー受付中=Accepting E-Money

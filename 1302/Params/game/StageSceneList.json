@@ -1,0 +1,81 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"asset" : "BattleStage01_01",
+			"stageType" : 0,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 1,
+			"name" : "ステージ２",
+			"asset" : "BattleStage02_01",
+			"stageType" : 0,
+			"necessaryRankId" : 6
+		},
+		{
+			"id" : 2,
+			"name" : "ステージ３",
+			"asset" : "BattleStage03_01",
+			"stageType" : 0,
+			"necessaryRankId" : 11
+		},
+		{
+			"id" : 90001,
+			"name" : "ステージ１（仮）",
+			"asset" : "BattleStage01_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90002,
+			"name" : "ステージ２（仮）",
+			"asset" : "BattleStage02_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90003,
+			"name" : "ステージ３（仮）",
+			"asset" : "BattleStage03_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90004,
+			"name" : "ステージ４（仮）",
+			"asset" : "BattleStage04_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90005,
+			"name" : "春",
+			"asset" : "BattleStage05_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90006,
+			"name" : "夏",
+			"asset" : "BattleStage06_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90007,
+			"name" : "秋",
+			"asset" : "BattleStage07_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		},
+		{
+			"id" : 90008,
+			"name" : "冬",
+			"asset" : "BattleStage08_01",
+			"stageType" : 1,
+			"necessaryRankId" : 0
+		}
+	]
+}

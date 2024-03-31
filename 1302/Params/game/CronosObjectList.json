@@ -1,0 +1,2099 @@
+{
+	"datalist" : [
+		{
+			"id" : 10000,
+			"name" : "God of Time's Chair",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_001",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "This chair has long been a favorite of Chronos."
+		},
+		{
+			"id" : 10011,
+			"name" : "God of Time's Chair Color 2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_001",
+			"colorId" : 1,
+			"enemy" : 0,
+			"Description" : "This chair has long been a favorite of Chronos."
+		},
+		{
+			"id" : 10012,
+			"name" : "God of Time's Chair Color 3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_001",
+			"colorId" : 2,
+			"enemy" : 0,
+			"Description" : "This chair has long been a favorite of Chronos."
+		},
+		{
+			"id" : 10013,
+			"name" : "God of Time's Chair Color 4",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_001",
+			"colorId" : 3,
+			"enemy" : 0,
+			"Description" : "This chair has long been a favorite of Chronos."
+		},
+		{
+			"id" : 10019,
+			"name" : "Chair 1_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_001",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10020,
+			"name" : "Chair 2_0",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_002",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 10021,
+			"name" : "Chair 2_1",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_002",
+			"colorId" : 1,
+			"enemy" : 0
+		},
+		{
+			"id" : 10022,
+			"name" : "Chair 2_2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_002",
+			"colorId" : 2,
+			"enemy" : 0
+		},
+		{
+			"id" : 10023,
+			"name" : "Chair 2_3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_002",
+			"colorId" : 3,
+			"enemy" : 0
+		},
+		{
+			"id" : 10029,
+			"name" : "Chair 2_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_002",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10030,
+			"name" : "Wooden Chair",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_003",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Made from a single large tree, this chair gives a sense of warmth and gentleness. Recommended for Chronos who are tired of fighting."
+		},
+		{
+			"id" : 10031,
+			"name" : "Wooden Chair Color 2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_003",
+			"colorId" : 1,
+			"enemy" : 0,
+			"Description" : "Made from a single large tree, this chair gives a sense of warmth and gentleness. Recommended for Chronos who are tired of fighting."
+		},
+		{
+			"id" : 10032,
+			"name" : "Wooden Chair Color 3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_003",
+			"colorId" : 2,
+			"enemy" : 0,
+			"Description" : "Made from a single large tree, this chair gives a sense of warmth and gentleness. Recommended for Chronos who are tired of fighting."
+		},
+		{
+			"id" : 10033,
+			"name" : "Wooden Chair Color 4",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_003",
+			"colorId" : 3,
+			"enemy" : 0,
+			"Description" : "Made from a single large tree, this chair gives a sense of warmth and gentleness. Recommended for Chronos who are tired of fighting."
+		},
+		{
+			"id" : 10039,
+			"name" : "Chair 3_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_003",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10040,
+			"name" : "Stone Chair ",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_004",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "A chair made of stone. It's a little chipped, not because of a fierce battle... but because someone smashed it... "
+		},
+		{
+			"id" : 10041,
+			"name" : "Stone Chair Color 2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_004",
+			"colorId" : 1,
+			"enemy" : 0,
+			"Description" : "A chair made of stone. It's a little chipped, not because of a fierce battle... but because someone smashed it... "
+		},
+		{
+			"id" : 10042,
+			"name" : "Stone Chair Color 3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_004",
+			"colorId" : 2,
+			"enemy" : 0,
+			"Description" : "A chair made of stone. It's a little chipped, not because of a fierce battle... but because someone smashed it... "
+		},
+		{
+			"id" : 10043,
+			"name" : "Stone Chair Color 4",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_004",
+			"colorId" : 3,
+			"enemy" : 0,
+			"Description" : "A chair made of stone. It's a little chipped, not because of a fierce battle... but because someone smashed it... "
+		},
+		{
+			"id" : 10049,
+			"name" : "Chair 4_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_004",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10050,
+			"name" : "Chair 5_0",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_005",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 10051,
+			"name" : "Chair 5_1",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_005",
+			"colorId" : 1,
+			"enemy" : 0
+		},
+		{
+			"id" : 10052,
+			"name" : "Chair 5_2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_005",
+			"colorId" : 2,
+			"enemy" : 0
+		},
+		{
+			"id" : 10053,
+			"name" : "Chair 5_3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_005",
+			"colorId" : 3,
+			"enemy" : 0
+		},
+		{
+			"id" : 10059,
+			"name" : "Chair 5_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_005",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10060,
+			"name" : "Cute Chair ",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_006",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "This chair is short and has a cute design. Chronos is concerned that “sitting in this chair will make you look dignified...”"
+		},
+		{
+			"id" : 10061,
+			"name" : "Cute Chair Color 2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_006",
+			"colorId" : 1,
+			"enemy" : 0,
+			"Description" : "This chair is short and has a cute design. Chronos is concerned that “sitting in this chair will make you look dignified...”"
+		},
+		{
+			"id" : 10062,
+			"name" : "Cute Chair Color 3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_006",
+			"colorId" : 2,
+			"enemy" : 0,
+			"Description" : "This chair is short and has a cute design. Chronos is concerned that “sitting in this chair will make you look dignified...”"
+		},
+		{
+			"id" : 10063,
+			"name" : "Cute Chair Color 4",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_006",
+			"colorId" : 3,
+			"enemy" : 0,
+			"Description" : "This chair is short and has a cute design. Chronos is concerned that “sitting in this chair will make you look dignified...”"
+		},
+		{
+			"id" : 10069,
+			"name" : "Chair 6_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_006",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10070,
+			"name" : "Chair 7_0",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_007",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 10071,
+			"name" : "Chair 7_1",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_007",
+			"colorId" : 1,
+			"enemy" : 0
+		},
+		{
+			"id" : 10072,
+			"name" : "Chair 7_2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_007",
+			"colorId" : 2,
+			"enemy" : 0
+		},
+		{
+			"id" : 10073,
+			"name" : "Chair 7_3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_007",
+			"colorId" : 3,
+			"enemy" : 0
+		},
+		{
+			"id" : 10079,
+			"name" : "Chair 7_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_007",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10080,
+			"name" : "Chair 8_0",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_008",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 10081,
+			"name" : "Chair 8_1",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_008",
+			"colorId" : 1,
+			"enemy" : 0
+		},
+		{
+			"id" : 10082,
+			"name" : "Chair 8_2",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_008",
+			"colorId" : 2,
+			"enemy" : 0
+		},
+		{
+			"id" : 10083,
+			"name" : "Chair 8_3",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_008",
+			"colorId" : 3,
+			"enemy" : 0
+		},
+		{
+			"id" : 10089,
+			"name" : "Chair 8_E",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_008",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 10090,
+			"name" : "Maya's Chair",
+			"objectType" : 1,
+			"modelName" : "bg_cus_chair_009",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "『裁きのマーヤ』のChair 。残念ながら座っても、『デビルウィンナー』の置物は破壊できない。"
+		},
+		{
+			"id" : 20000,
+			"name" : "God of Time's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_000",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "God of Time's 紋章があしらわれた、クロノスなじみのFlag。"
+		},
+		{
+			"id" : 20009,
+			"name" : "Enemy Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_001",
+			"colorId" : 0,
+			"enemy" : 1
+		},
+		{
+			"id" : 21010,
+			"name" : "「誘惑の氷塊」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_101",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "食べ過ぎてお腹を壊したアレクが「あれは恐ろしいぞ！」と、かき氷にオーラを纏わせて描かせたFlag。"
+		},
+		{
+			"id" : 21020,
+			"name" : "「神秘の華」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_102",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "花火が好きなロッタ。興味が出てきてソーケンに細かい仕組みを聞いたら、熱心な説明に一日つぶれてしまった。"
+		},
+		{
+			"id" : 21030,
+			"name" : "「魔性の光」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_103",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "クロノスはきれいな月を見てなぜか、この月をルカが見たら神化してしまうような気がした。"
+		},
+		{
+			"id" : 21040,
+			"name" : "「痩せ地の野菜」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_104",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "痩せた土地であるMisha's 故郷でも栽培できる。まじないに使う植物には合理的な理由があるらしい。"
+		},
+		{
+			"id" : 21050,
+			"name" : "「秋の装い」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_105",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "鮮やかな紅葉が見られる場所へ城を飛行させた。景色を楽しむ中、城も優雅に彩られていた。"
+		},
+		{
+			"id" : 21060,
+			"name" : "「聖樹の城」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_106",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "遠く離れた地にある、世界一の聖樹。あまりの大きさから、それ自体が信仰の対象となっている。"
+		},
+		{
+			"id" : 21070,
+			"name" : "「縁起物づくし」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_107",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "縁起がいいと言われるものをひたすら集めてFlagにした。クロノスは勝負運に期待している。"
+		},
+		{
+			"id" : 21080,
+			"name" : "「えにしの丘」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_108",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "縁結びの言い伝えがある丘。例年長蛇の列ができるが、シャドウは現れなかった。"
+		},
+		{
+			"id" : 21090,
+			"name" : "「花より参謀」",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_109",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "かつて無敵と言われた男女の軍師。花が美しい季節にも、戦場を見据えて的確な指示を出し続けた。"
+		},
+		{
+			"id" : 21100,
+			"name" : "イベント・4月",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_110",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 21110,
+			"name" : "イベント・5月",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_111",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 21120,
+			"name" : "イベント・6月",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_112",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 22010,
+			"name" : "Alec's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_201",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "「すげぇぜ！」と盛り上がるアレクは【高揚Ｖ】ぐらいありそうなテンションの高さだった。"
+		},
+		{
+			"id" : 22020,
+			"name" : "Luca's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_202",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "これを飾っていてもベルナリオが疾走したりはしないが、みんな心なしか視線が鋭くなる。"
+		},
+		{
+			"id" : 22030,
+			"name" : "Soken's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_203",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "ソーケンは、Flagを魔法で改造してシャドウ探知機にしようとしたが、周囲に止められたことがあるらしい。"
+		},
+		{
+			"id" : 22040,
+			"name" : "Lotta's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_204",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "「Lotta's Flagを作る」と聞いて、自分のイラストがFlagになると思ったら自画像がFlagになってびっくり！"
+		},
+		{
+			"id" : 22050,
+			"name" : "Bernalio's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_205",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "このFlagの完成直後、ベルナリオはすぐに実家に同じものを送った。娘も大喜び……のはず。"
+		},
+		{
+			"id" : 22060,
+			"name" : "Misha's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_206",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "描かれたMisha's 髪が伸びていくイタズラで、ロッタがひっくり返ったことがあり、元のFlagに戻したらしい。"
+		},
+		{
+			"id" : 22070,
+			"name" : "ユニット（人）・赤B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_207",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 22080,
+			"name" : "ユニット（人）・緑B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_208",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 22090,
+			"name" : "ユニット（人）・青B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_209",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 22100,
+			"name" : "セシリアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_210",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "セシリアが戦力となる前から、頼もしい戦力になると確信してクロノスが作らせていたFlag。"
+		},
+		{
+			"id" : 22110,
+			"name" : "ユニット（人）・茶B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_211",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 22120,
+			"name" : "デスピナのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_212",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "多くの暗殺者は目立つのを嫌がるが、表の顔でも有名なデスピナだからこそ商品化が可能に！"
+		},
+		{
+			"id" : 22130,
+			"name" : "ポスター版・Alec's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_213",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたAlec's Flag。"
+		},
+		{
+			"id" : 22140,
+			"name" : "ポスター版・Luca's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_214",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたLuca's Flag。"
+		},
+		{
+			"id" : 22150,
+			"name" : "ポスター版・Soken's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_215",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたSoken's Flag。"
+		},
+		{
+			"id" : 22160,
+			"name" : "ポスター版・Lotta's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_216",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたLotta's Flag。"
+		},
+		{
+			"id" : 22170,
+			"name" : "ポスター版・Bernalio's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_217",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたBernalio's Flag。"
+		},
+		{
+			"id" : 22180,
+			"name" : "ポスター版・Misha's Flag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_218",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたMisha's Flag。"
+		},
+		{
+			"id" : 22190,
+			"name" : "ポスター版・セシリアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_219",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたセシリアのFlag。"
+		},
+		{
+			"id" : 22200,
+			"name" : "ポスター版・デスピナのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_220",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！全員集合ポスターに出てきたデスピナのFlag。"
+		},
+		{
+			"id" : 23010,
+			"name" : "ゼウスのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_301",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神ゼウスのFlag。その体を不思議な鎖がまとっている。解き放つとどうなるのだろうか？"
+		},
+		{
+			"id" : 23020,
+			"name" : "アルテミスのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_302",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神アルテミスのFlag。アルテミスの遠吠えは山を越え、獲物を縮み上がらせる迫力がある。"
+		},
+		{
+			"id" : 23030,
+			"name" : "デュオニソスのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_303",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神デュオニソスのFlag。本当は敵陣まで飛んでいけるが、Soken's 流儀でそうしないらしい。"
+		},
+		{
+			"id" : 23040,
+			"name" : "ヘスティアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_304",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神ヘスティアのFlag。ミーシャは内心、Cute 姿のヘスティアにもなってみたいらしい。"
+		},
+		{
+			"id" : 23050,
+			"name" : "アポロンのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_305",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神アポロンのFlag。カードにも姿が映っているが、実はご神体が非常に大きい。"
+		},
+		{
+			"id" : 23060,
+			"name" : "ヘラのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_306",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神ヘラのFlag。見た目とは裏腹に髪はサラサラで、強そうに見せるためセットしている。"
+		},
+		{
+			"id" : 23070,
+			"name" : "ユニット（神）・赤B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_307",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 23080,
+			"name" : "ユニット（神）・緑B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_308",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 23090,
+			"name" : "ユニット（神）・青B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_309",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 23100,
+			"name" : "デメテルのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_310",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神デメテルのFlag。手に持つ麦を口にすると、死ぬまで無病息災でいられる伝説がある。"
+		},
+		{
+			"id" : 23110,
+			"name" : "ユニット（神）・茶B",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_311",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 23120,
+			"name" : "ネメシスのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_312",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "神ネメシスのFlag。その武器の紫の刃は毒の色ではなく、標的を確実に葬るための魔法らしい。"
+		},
+		{
+			"id" : 24010,
+			"name" : "クロノスのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_401",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "自分の顔のFlagが鎮座する……クロノスは、そんな状況に困惑しない精神力を習得できる。"
+		},
+		{
+			"id" : 24020,
+			"name" : "フォロンのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_402",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "フォロンは懐中時計を相当大事にしており、懐中時計のFlagもほしいと思っている。"
+		},
+		{
+			"id" : 24030,
+			"name" : "レーネのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_403",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "レーネの羽根ペンはあらゆる歴史を記述するため、彼女のFlagが作られたことも記されるらしい。"
+		},
+		{
+			"id" : 24040,
+			"name" : "アストレアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_404",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "アストレアも剣を構え、ユニットたちのように、自分も戦場に出られるのかとぬか喜びしたらしい。"
+		},
+		{
+			"id" : 24050,
+			"name" : "マイアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_405",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "このFlagに使われた次元の欠片の何割かがマイアの懐に入っているかも？"
+		},
+		{
+			"id" : 24070,
+			"name" : "2頭身フォロンのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_407",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！2頭身になったフォロンのFlag。"
+		},
+		{
+			"id" : 24080,
+			"name" : "2頭身レーネのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_408",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！2頭身になったレーネのFlag。"
+		},
+		{
+			"id" : 24090,
+			"name" : "2頭身アストレアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_409",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！2頭身になったアストレアのFlag。"
+		},
+		{
+			"id" : 24100,
+			"name" : "2頭身マイアのFlag",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_410",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "１周年記念！2頭身になったマイアのFlag。"
+		},
+		{
+			"id" : 26010,
+			"name" : "メデューサ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_601",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『メデューサ』のFlag。"
+		},
+		{
+			"id" : 26020,
+			"name" : "妖精王オベロン",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_602",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『妖精王オベロン』のFlag。"
+		},
+		{
+			"id" : 26030,
+			"name" : "マジョルカ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_603",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『マジョルカ』のFlag。"
+		},
+		{
+			"id" : 26040,
+			"name" : "星輝神ヌト",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_604",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『星輝神ヌト』のFlag。"
+		},
+		{
+			"id" : 26050,
+			"name" : "冥裁者ラダマンティス",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_605",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『冥裁者ラダマンティス』のFlag。"
+		},
+		{
+			"id" : 26060,
+			"name" : "戦女神ジャンヌダルク",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_606",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『戦女神ジャンヌダルク』のFlag。"
+		},
+		{
+			"id" : 26070,
+			"name" : "ＣＨＡＲＩＯＴ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_607",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『ＣＨＡＲＩＯＴ』のFlag。"
+		},
+		{
+			"id" : 26080,
+			"name" : "ＭＵＲＲＥＲ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_608",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『ＭＵＲＲＥＲ』のFlag。"
+		},
+		{
+			"id" : 26090,
+			"name" : "ＳＡＭＳＯＮ Ｊｒ．",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_609",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『ＳＡＭＳＯＮ Ｊｒ．』のFlag。"
+		},
+		{
+			"id" : 26100,
+			"name" : "災禍の悪女・妲己",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_610",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『災禍の悪女・妲己』のFlag。"
+		},
+		{
+			"id" : 26110,
+			"name" : "裁きのマーヤ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_611",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『裁きのマーヤ』のFlag。"
+		},
+		{
+			"id" : 26120,
+			"name" : "宇宙の歌姫アイリーン",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_612",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『宇宙の歌姫アイリーン』のFlag。"
+		},
+		{
+			"id" : 26130,
+			"name" : "勇王機神バトルカイザー",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_613",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 26140,
+			"name" : "暗黒神姫ニュクス",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_614",
+			"colorId" : 0,
+			"enemy" : 0
+		},
+		{
+			"id" : 26150,
+			"name" : "獣王女アタランテ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_615",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『獣王女アタランテ』のFlag。"
+		},
+		{
+			"id" : 27010,
+			"name" : "煌槍ゲイボルグ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_701",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『煌槍ゲイボルグ』のFlag。若き戦士が映る。"
+		},
+		{
+			"id" : 27020,
+			"name" : "司令の連接棍",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_702",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『司令の連接棍』のFlag。遠くを見渡す司令官が映る。"
+		},
+		{
+			"id" : 27030,
+			"name" : "古き森の穿ち爪",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_703",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『古き森の穿ち爪』のFlag。鋭く光る武器が映る。"
+		},
+		{
+			"id" : 27040,
+			"name" : "光華の儀杖",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_704",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『光華の儀杖』のFlag。花火でわいわい楽しむ様子が映る。"
+		},
+		{
+			"id" : 27050,
+			"name" : "夏の夜の人魂",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_705",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『夏の夜の人魂』のFlag。人を驚かせる姿が映る。"
+		},
+		{
+			"id" : 27060,
+			"name" : "月光集めの杖",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_706",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『月光集めの杖』のFlag。Soken's 親族が映る。"
+		},
+		{
+			"id" : 27070,
+			"name" : "イタズラかぼちゃ",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_707",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『イタズラかぼちゃ』のFlag。かぼちゃ自体は、このFlagには映っていない……。"
+		},
+		{
+			"id" : 27080,
+			"name" : "聖夜の絵本",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_708",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『聖夜の絵本』のFlag。聖樹のもとで語らう姿が映る。"
+		},
+		{
+			"id" : 27090,
+			"name" : "大晦の儀式",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_709",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 27100,
+			"name" : "光盾アナトリウム",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_710",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『光盾アナトリウム』のFlag。どこか得意げな騎士が映る。"
+		},
+		{
+			"id" : 27110,
+			"name" : "重き想い",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_711",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『重き想い』のFlag。怪しげな調合の様子が映る。"
+		},
+		{
+			"id" : 27120,
+			"name" : "白き日の成果物",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_712",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『白き日の成果物』のFlag。成果物を渡す学者は、どんな気持ちなのだろう？"
+		},
+		{
+			"id" : 27130,
+			"name" : "約束された贈物",
+			"objectType" : 2,
+			"modelName" : "bg_cus_flag_713",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "カード『約束された贈物』のFlag。ロッタたちの輝きは色あせない。"
+		},
+		{
+			"id" : 30000,
+			"name" : "God of Time's Lamp",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_001",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "クロノスの城を照らすLamp。地表近くを移動中、風が強い日は片付けることもあるらしい。"
+		},
+		{
+			"id" : 30001,
+			"name" : "God of Time's Lamp・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_001_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30002,
+			"name" : "God of Time's Lamp・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_001_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30003,
+			"name" : "God of Time's Lamp・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_001_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30010,
+			"name" : "祭のLamp",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_002",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "アルケイオンのある街で使われる祝祭の時のLamp。縁起の良い一品。"
+		},
+		{
+			"id" : 30011,
+			"name" : "祭のLamp・水色炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_002_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30012,
+			"name" : "祭のLamp・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_002_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30013,
+			"name" : "祭のLamp・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_002_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30020,
+			"name" : "大理Stone 灯火",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_003",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "魔鋼だけでなく、上質な大理石も、Bernalio's 故郷の近くにある鉱山で採掘できる。"
+		},
+		{
+			"id" : 30021,
+			"name" : "大理Stone 灯火・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_003_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30022,
+			"name" : "大理Stone 灯火・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_003_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30023,
+			"name" : "大理Stone 灯火・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_003_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30030,
+			"name" : "高そうなLamp",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_004",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "非常に高価な照明なのだが、素材が大量にいるわけではない。マイアのさじ加減らしい。"
+		},
+		{
+			"id" : 30031,
+			"name" : "高そうなLamp・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_004_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30032,
+			"name" : "高そうなLamp・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_004_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30033,
+			"name" : "高そうなLamp・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_004_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30040,
+			"name" : "照明5（細身）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_005",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30041,
+			"name" : "照明5（細身）・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_005_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30042,
+			"name" : "照明5（細身）・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_005_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30043,
+			"name" : "照明5（細身）・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_005_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30050,
+			"name" : "照明6（石）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_006",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30051,
+			"name" : "照明6（石）・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_006_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30052,
+			"name" : "照明6（石）・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_006_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30053,
+			"name" : "照明6（石）・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_006_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30060,
+			"name" : "素朴なたき火",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_007",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "とある戦いで行われた野営の再現だがアレクは「そのあたりの木を拾えばいいんじゃねえか？」と思っている。"
+		},
+		{
+			"id" : 30061,
+			"name" : "素朴なたき火・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_007_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30062,
+			"name" : "素朴なたき火・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_007_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30063,
+			"name" : "素朴なたき火・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_007_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30070,
+			"name" : "照明8（黒鉄柵）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_008",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30071,
+			"name" : "照明8（黒鉄柵）・青炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_008_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30072,
+			"name" : "照明8（黒鉄柵）・緑炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_008_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30073,
+			"name" : "照明8（黒鉄柵）・紫炎",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_008_purple",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30080,
+			"name" : "重ね提灯",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_009",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "火に燃えやすい紙で照明を作るには精緻な技術が必要で、アルケイオンでは珍品とされる。"
+		},
+		{
+			"id" : 30081,
+			"name" : "重ね提灯・青",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_009_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30082,
+			"name" : "重ね提灯・赤",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_009_red",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30090,
+			"name" : "石灯籠",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_010",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "落ち着いた雰囲気を醸し出せる上に、流れ矢程度なら跳ね返せる堅牢さも。"
+		},
+		{
+			"id" : 30091,
+			"name" : "ゴールデン石灯籠",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_010_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "全く落ち着いていない雰囲気の灯籠。この照明で相手にプレッシャーをかけられるかも？"
+		},
+		{
+			"id" : 30092,
+			"name" : "石灯籠・赤",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_010_red",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30100,
+			"name" : "かぼちゃの燭台",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_011",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Cute かぼちゃのついた燭台。魔力がこもっているらしく、炎は簡単には消えないらしい。"
+		},
+		{
+			"id" : 30101,
+			"name" : "かぼちゃの燭台（黒）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_011_black",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Cute かぼちゃのついた燭台。魔力がこもっているらしく、青い炎は熱さを感じない。"
+		},
+		{
+			"id" : 30102,
+			"name" : "かぼちゃの燭台（緑）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_011_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Cute かぼちゃのついた燭台。魔力がこもっているらしく、時折かぼちゃと目が合う気がする。"
+		},
+		{
+			"id" : 30110,
+			"name" : "輝く聖樹",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_012",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "この時期の景色には欠かせない。ロッタ、セシリア、ミーシャたちで楽しく飾りつけをしたようだ。"
+		},
+		{
+			"id" : 30111,
+			"name" : "輝く聖樹（青）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_012_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "この時期の景色には欠かせない。ロッタ、セシリア、ミーシャたちで楽しく飾りつけをしたようだ。"
+		},
+		{
+			"id" : 30112,
+			"name" : "輝く聖樹（金）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_012_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "この時期の景色には欠かせない。ロッタ、セシリア、ミーシャたちで楽しく飾りつけをしたようだ。"
+		},
+		{
+			"id" : 30120,
+			"name" : "照明13（提灯1個）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_013",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30121,
+			"name" : "照明13（提灯1個）・赤",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_013_red",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30122,
+			"name" : "照明13（提灯1個）・黄",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_013_yellow",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30130,
+			"name" : "照明14（カレーなべたきび）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_014",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30131,
+			"name" : "照明14（カレーなべたきび）・銅",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_014_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30132,
+			"name" : "照明14（カレーなべたきび）・金",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_014_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30140,
+			"name" : "照明15（ゴシック）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_015",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 30141,
+			"name" : "ゴシックなLamp（金）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_015_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "アルケイオンの大都市でも見られる、おしゃれなLamp。ベルナリオお気に入りの金色。"
+		},
+		{
+			"id" : 30142,
+			"name" : "ゴシックなLamp（銀）",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_015_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "アルケイオンの大都市でも見られる、おしゃれなLamp。デスピナお気に入りの銀色。"
+		},
+		{
+			"id" : 30150,
+			"name" : "門松",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_016",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "古代人が新年を祝うのに使った装飾。竹は現代アルケイオンには存在せず、過去から採ってきたようだ。"
+		},
+		{
+			"id" : 30160,
+			"name" : "ハートのLamp",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_017",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "どんな人にも気持ちが伝わると噂の、情熱的なLamp。ベルナリオもプロポーズの際に使用した！？"
+		},
+		{
+			"id" : 30170,
+			"name" : "天空のLamp",
+			"objectType" : 3,
+			"modelName" : "bg_cus_torch_018",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "星々と雲が漂う、幻想的なLamp。ひとたび照明を灯せば、戦闘中もロマンティックになるとか。"
+		},
+		{
+			"id" : 40000,
+			"name" : "God of Time's 置物",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_001",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "クロノスのChair 近くに鎮座する置物。どういう意味があるものかは、誰も知らない。"
+		},
+		{
+			"id" : 40001,
+			"name" : "God of Time's 置物・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_001_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40002,
+			"name" : "God of Time's 置物・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_001_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40003,
+			"name" : "God of Time's 置物・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_001_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40010,
+			"name" : "魔除けの石獣",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_002",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "石でできた怪物。動き出したり、武器を持ったり、魔法を詠唱したりはしない。"
+		},
+		{
+			"id" : 40011,
+			"name" : "魔除けの石獣・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_002_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40012,
+			"name" : "魔除けの石獣・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_002_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40013,
+			"name" : "魔除けの石獣・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_002_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40020,
+			"name" : "ドクロ彫刻",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_003",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "もっと迫力が出るように、と誰かがクロノスに勧めたドクロの置物。"
+		},
+		{
+			"id" : 40021,
+			"name" : "ドクロ彫刻・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_003_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40022,
+			"name" : "ドクロ彫刻・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_003_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40023,
+			"name" : "ドクロ彫刻・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_003_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40030,
+			"name" : "異世界の縁起物",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_004",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "花火がもっとも盛んなとある異国での装飾。これは石で作られたレプリカ。"
+		},
+		{
+			"id" : 40031,
+			"name" : "異世界の縁起物・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_004_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40032,
+			"name" : "異世界の縁起物・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_004_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40033,
+			"name" : "異世界の縁起物・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_004_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40040,
+			"name" : "置物5（珠）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_005",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40041,
+			"name" : "置物5（珠）・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_005_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40042,
+			"name" : "置物5（珠）・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_005_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40043,
+			"name" : "置物5（珠）・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_005_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40050,
+			"name" : "置物6（まつぼっくり）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_006",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40051,
+			"name" : "置物6（まつぼっくり）・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_006_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40052,
+			"name" : "置物6（まつぼっくり）・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_006_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40053,
+			"name" : "置物6（まつぼっくり）・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_006_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40060,
+			"name" : "置物7（グリフォン）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_007",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40061,
+			"name" : "置物7（グリフォン）・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_007_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40062,
+			"name" : "置物7（グリフォン）・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_007_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40063,
+			"name" : "置物7（グリフォン）・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_007_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40070,
+			"name" : "置物8（トロフィー）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_008",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40071,
+			"name" : "置物8（トロフィー）・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_008_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40072,
+			"name" : "置物8（トロフィー）・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_008_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40073,
+			"name" : "置物8（トロフィー）・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_008_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40080,
+			"name" : "イチゴかき氷",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_009",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "野外に置きっぱなしにしても、ひんやり冷たいかき氷。甘さの強いイチゴ味。"
+		},
+		{
+			"id" : 40090,
+			"name" : "メロンかき氷",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_010",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "野外に置きっぱなしにしても、ひんやり冷たいかき氷。定番のメロン味。"
+		},
+		{
+			"id" : 40100,
+			"name" : "ブルーハワイかき氷",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_011",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "野外に置きっぱなしにしても、ひんやり冷たいかき氷。ブルーハワイ味に定義はないらしい。"
+		},
+		{
+			"id" : 40110,
+			"name" : "すすき",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_012",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "月見の文化を教えられたアレクは、ここに団子が置かれなくて少し残念だったようだ。"
+		},
+		{
+			"id" : 40111,
+			"name" : "すすき・銅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_012_copper",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40112,
+			"name" : "すすき・銀",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_012_silver",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40113,
+			"name" : "すすき・金",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_012_gold",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40120,
+			"name" : "ジャック・オー・ランタン",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_013",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "書庫から出てきた異国の文化。様々に仮装する者たちとお菓子。ソーケンも興味深そうだ。"
+		},
+		{
+			"id" : 40121,
+			"name" : "ジャック・オー・ランタン（黒）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_013_black",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "書庫から出てきた異国の文化。様々に仮装する者たちとお菓子。特別な品種のかぼちゃを使っている。"
+		},
+		{
+			"id" : 40122,
+			"name" : "ジャック・オー・ランタン（緑）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_013_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "書庫から出てきた異国の文化。様々に仮装する者たちとお菓子。中身はアレクがおいしくいただいた。"
+		},
+		{
+			"id" : 40130,
+			"name" : "置物14（ジャックオーランタンB）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_014",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40131,
+			"name" : "置物14（黒ジャックオーランタンB）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_014_black",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40132,
+			"name" : "置物14（緑ジャックオーランタンB）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_014_green",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Flavor text is dummy."
+		},
+		{
+			"id" : 40140,
+			"name" : "すてきなプレゼント（赤）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_015",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "何が入っているか非常に気になるが、残念ながら中身は確認できない。"
+		},
+		{
+			"id" : 40141,
+			"name" : "すてきなプレゼント（青）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_015_blue",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "何が入っているか非常に気になるが、残念ながら中身は確認できない。"
+		},
+		{
+			"id" : 40142,
+			"name" : "すてきなプレゼント（茶）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_015_brown",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "何が入っているか非常に気になるが、残念ながら中身は確認できない。"
+		},
+		{
+			"id" : 40150,
+			"name" : "読みかけの魔導書",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_016",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "クロノスも魔導書を片手に「皆には負けられないからな」と日々成長を続けている。"
+		},
+		{
+			"id" : 40151,
+			"name" : "読みかけの上級魔導書",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_016_variation01",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "クロノスも魔導書を片手に「皆には負けられないからな」と日々成長を続けている。"
+		},
+		{
+			"id" : 40160,
+			"name" : "デビルウィンナー",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_017",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『デビルウィンナー』の置物。"
+		},
+		{
+			"id" : 40170,
+			"name" : "ブロックナイト",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_018",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "コラボ記念！『ブロックナイト』の置物。"
+		},
+		{
+			"id" : 40180,
+			"name" : "鏡餅",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_019",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "シャドウのそばにも置いてあった……新年を祝う気持ちは、シャドウも同じなのかもしれない。"
+		},
+		{
+			"id" : 40190,
+			"name" : "ハートの贈物（スウィート）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_020",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "二つ並べれば、誰でもモテモテ！糖分が多いので虫歯に注意。"
+		},
+		{
+			"id" : 40191,
+			"name" : "ハートの贈物（ビター）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_020_black",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "二つ並べれば、誰でもモテモテ！カカオが多めでほろ苦い。"
+		},
+		{
+			"id" : 40200,
+			"name" : "お返しフラワー（赤）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_021",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Alec's 地方で見つけた花。花言葉は「勝利」で、城のみんなを奮い立たせる。"
+		},
+		{
+			"id" : 40201,
+			"name" : "お返しフラワー（白）",
+			"objectType" : 4,
+			"modelName" : "bg_cus_ornament_021_white",
+			"colorId" : 0,
+			"enemy" : 0,
+			"Description" : "Soken's 地方で見つけた花。花言葉……は存在しないらしく、ミーシャが笑って「研究」と決めた。"
+		}
+	]
+}

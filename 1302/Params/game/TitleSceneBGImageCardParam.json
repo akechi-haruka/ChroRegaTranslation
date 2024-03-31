@@ -1,0 +1,316 @@
+{
+	"datalist" : [
+		{
+			"illustId" : 104109,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 400
+		},
+		{
+			"illustId" : 101015,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 101016,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 102010,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 102015,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 103010,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 103011,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 104010,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 104011,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 105013,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 105015,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 106210,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 106011,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 110009,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 112012,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 112013,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 40
+		},
+		{
+			"illustId" : 101018,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 101107,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 102005,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 102009,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 102023,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 103017,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 103100,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 104019,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 105211,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 106008,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 106012,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 112005,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 112010,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 112202,
+			"startDate" : 1561932000000,
+			"endDate" : 4102426800000,
+			"ratio" : 5
+		},
+		{
+			"illustId" : 110007,
+			"startDate" : 1570658400000,
+			"endDate" : 1572980400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 110003,
+			"startDate" : 1570658400000,
+			"endDate" : 1572980400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 106017,
+			"startDate" : 1571781600000,
+			"endDate" : 1572980400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 102108,
+			"startDate" : 1572559200000,
+			"endDate" : 1575140400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 110103,
+			"startDate" : 1572991200000,
+			"endDate" : 1575399600000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 104015,
+			"startDate" : 1572991200000,
+			"endDate" : 1575399600000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 101017,
+			"startDate" : 1574200800000,
+			"endDate" : 1575399600000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 102011,
+			"startDate" : 1575151200000,
+			"endDate" : 1577818800000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 112009,
+			"startDate" : 1575410400000,
+			"endDate" : 1579028400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 110006,
+			"startDate" : 1576015200000,
+			"endDate" : 1577300400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 105210,
+			"startDate" : 1577829600000,
+			"endDate" : 1580497200000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 110001,
+			"startDate" : 1577829600000,
+			"endDate" : 1580497200000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 105022,
+			"startDate" : 1577829600000,
+			"endDate" : 1579028400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 102021,
+			"startDate" : 1579039200000,
+			"endDate" : 1582052400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 103015,
+			"startDate" : 1579039200000,
+			"endDate" : 1582052400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 104006,
+			"startDate" : 1580508000000,
+			"endDate" : 1583002800000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 112105,
+			"startDate" : 1580853600000,
+			"endDate" : 1582052400000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 101022,
+			"startDate" : 1582063200000,
+			"endDate" : 1584558000000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 106015,
+			"startDate" : 1582063200000,
+			"endDate" : 1584558000000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 101210,
+			"startDate" : 1583013600000,
+			"endDate" : 1585681200000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 110005,
+			"startDate" : 1583013600000,
+			"endDate" : 1585681200000,
+			"ratio" : 1000
+		},
+		{
+			"illustId" : 103110,
+			"startDate" : 1583359200000,
+			"endDate" : 1584558000000,
+			"ratio" : 1000
+		}
+	]
+}

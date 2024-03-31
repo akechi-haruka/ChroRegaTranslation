@@ -1,0 +1,88 @@
+{
+	"datalist" : [
+		{
+			"id" : "401",
+			"name" : "Crystal Time Stone",
+			"iconName" : "CMN_Resource_Material_0401",
+			"sortId" : 104,
+			"info" : "The power of time, crystallized.<br>Change Chronos' clothes and appearance<br>to become a worthy god of time."
+		},
+		{
+			"id" : "402",
+			"name" : "Heroic Crystal Stone",
+			"iconName" : "CMN_Resource_Material_0402",
+			"sortId" : 103,
+			"info" : "The efforts of the descendants of gods, crystallized.<br>Change your unit's clothing and appearance<br>to make it your favorite."
+		},
+		{
+			"id" : "403",
+			"name" : "Dimensional Fragment",
+			"iconName" : "CMN_Resource_Material_0403",
+			"sortId" : 102,
+			"info" : "A mysterious stone that embodies<br>various forms of time and space.<br>Used to change castle decorations."
+		},
+		{
+			"id" : "404",
+			"name" : "Sand of Time",
+			"iconName" : "CMN_Resource_Money_0000",
+			"sortId" : 101,
+			"info" : "A fragment of time, filled with special history.<br>You can exchange these for PR cards<br>at the PR Card Exchange."
+		},
+		{
+			"id" : "411",
+			"name" : "Warrior Seal Stone",
+			"iconName" : "CMN_Resource_Material_0411",
+			"sortId" : 12,
+			"info" : "A mysterious stone, filled with the history of warriors.<br>Collecting these allows for summoning Alec Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "412",
+			"name" : "Hunter Seal Stone",
+			"iconName" : "CMN_Resource_Material_0412",
+			"sortId" : 10,
+			"info" : "A mysterious stone, filled with the history of hunters.<br>Collecting these allows for summoning Luca Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "413",
+			"name" : "Scholar Seal Stone",
+			"iconName" : "CMN_Resource_Material_0413",
+			"sortId" : 8,
+			"info" : "A mysterious stone, filled with the history of scholars.<br>Collecting these allows for summoning Soken Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "414",
+			"name" : "Monk Seal Stone",
+			"iconName" : "CMN_Resource_Material_0414",
+			"sortId" : 6,
+			"info" : "A mysterious stone, filled with the history of monks.<br>Collecting these allows for summoning Lotta Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "415",
+			"name" : "Knight Seal Stone",
+			"iconName" : "CMN_Resource_Material_0415",
+			"sortId" : 4,
+			"info" : "A mysterious stone, filled with the history of knights.<br>Collecting these allows for summoning Bernalio Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "416",
+			"name" : "Witch Seal Stone",
+			"iconName" : "CMN_Resource_Material_0416",
+			"sortId" : 2,
+			"info" : "A mysterious stone, filled with the history of witches.<br>Collecting these allows for summoning Misha Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "420",
+			"name" : "Priest Seal Stone",
+			"iconName" : "CMN_Resource_Material_0420",
+			"sortId" : 5,
+			"info" : "A mysterious stone, filled with the history of priests.<br>Collecting these allows for summoning Cecilia Cards<br>through Select Summoning."
+		},
+		{
+			"id" : "422",
+			"name" : "Assassin Seal Stone",
+			"iconName" : "CMN_Resource_Material_0422",
+			"sortId" : 1,
+			"info" : "A mysterious stone, filled with the history of assassins.<br>Collecting these allows for summoning Despine Cards<br>through Select Summoning."
+		}
+	]
+}

@@ -1,0 +1,5746 @@
+{
+	"EventRewardList" : [
+		{
+			"eventId" : 4,
+			"totalScore" : 1000,
+			"hiddenFlag" : 0,
+			"rewardType" : 1,
+			"rewardParam1" : 101,
+			"rewardParam2" : 999,
+			"rewardDescription" : "召喚補助チケット×９９９"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 10,
+			"rewardDescription" : "次元の欠片×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 404,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の砂×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 422,
+			"rewardParam2" : 20,
+			"rewardDescription" : "暗殺者の封印石×２０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 10,
+			"rewardDescription" : "英雄の結晶石×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 60000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 10,
+			"rewardDescription" : "次元の欠片×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 80000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 422,
+			"rewardParam2" : 30,
+			"rewardDescription" : "暗殺者の封印石×３０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 100000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 404,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の砂×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 125000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 150000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 10,
+			"rewardDescription" : "英雄の結晶石×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 175000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 10,
+			"rewardDescription" : "次元の欠片×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 200000,
+			"hiddenFlag" : 0,
+			"rewardType" : 3,
+			"rewardParam1" : 2000027,
+			"rewardParam2" : 0,
+			"rewardDescription" : "称号：恐怖の絶叫"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 225000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 250000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 10,
+			"rewardDescription" : "英雄の結晶石×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 275000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 10,
+			"rewardDescription" : "次元の欠片×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 300000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 404,
+			"rewardParam2" : 10,
+			"rewardDescription" : "時の砂×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 325000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 350000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 10,
+			"rewardDescription" : "英雄の結晶石×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 375000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 10,
+			"rewardDescription" : "次元の欠片×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 400000,
+			"hiddenFlag" : 0,
+			"rewardType" : 4,
+			"rewardParam1" : 112010,
+			"rewardParam2" : 1000000,
+			"rewardDescription" : "「夏の夜の人魂」×１"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 425000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 450000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 15,
+			"rewardDescription" : "英雄の結晶石×１５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 475000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 10,
+			"rewardDescription" : "次元の欠片×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 500000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 404,
+			"rewardParam2" : 10,
+			"rewardDescription" : "時の砂×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 525000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 10,
+			"rewardDescription" : "時の結晶石×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 550000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 15,
+			"rewardDescription" : "英雄の結晶石×１５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 575000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 15,
+			"rewardDescription" : "次元の欠片×１５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 600000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 404,
+			"rewardParam2" : 10,
+			"rewardDescription" : "時の砂×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 650000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 10,
+			"rewardDescription" : "時の結晶石×１０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 700000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 20,
+			"rewardDescription" : "英雄の結晶石×２０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 750000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 20,
+			"rewardDescription" : "次元の欠片×２０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 800000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 422,
+			"rewardParam2" : 50,
+			"rewardDescription" : "暗殺者の封印石×５０"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 850000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 15,
+			"rewardDescription" : "時の結晶石×１５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 900000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 25,
+			"rewardDescription" : "英雄の結晶石×２５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 950000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 25,
+			"rewardDescription" : "次元の欠片×２５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1000000,
+			"hiddenFlag" : 0,
+			"rewardType" : 2,
+			"rewardParam1" : 404,
+			"rewardParam2" : 15,
+			"rewardDescription" : "時の砂×１５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1050000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1150000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1250000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1350000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1450000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1550000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1650000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1750000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1850000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 1950000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 2900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 3900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 4900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 5900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 6900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 7900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 8900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 9900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 10900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 11900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 12900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 13900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 14900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 15900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 16900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 17900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 18900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 19900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 20900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 21900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 22900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 23900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 24900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 25900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 26900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 27900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 28900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 29900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 30900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 31900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 32900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 33900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 34900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 35900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 36900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 37900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 38900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 39900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 40900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 41900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 42900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 43900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 44900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 45900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 46900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 47900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 48900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 49900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 50900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 51900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 52900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 53900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 54900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 55900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 56900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 57900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 58900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59100000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59200000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59300000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59400000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59500000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59600000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59700000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59800000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 401,
+			"rewardParam2" : 5,
+			"rewardDescription" : "時の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 59900000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 402,
+			"rewardParam2" : 5,
+			"rewardDescription" : "英雄の結晶石×５"
+		},
+		{
+			"eventId" : 4,
+			"totalScore" : 60000000,
+			"hiddenFlag" : 1,
+			"rewardType" : 2,
+			"rewardParam1" : 403,
+			"rewardParam2" : 5,
+			"rewardDescription" : "次元の欠片×５"
+		}
+	]
+}

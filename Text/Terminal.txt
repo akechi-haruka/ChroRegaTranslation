@@ -1,0 +1,15 @@
+：選択=: Confirm
+頂上リプレイ=Top Replays
+個人リプレイ=Personal Replays
+全国ランキング=Nationwide Rankings
+スコアランキング=Score Rankings
+イベントランキング=Event Rankings
+決定ボタンを押してください=Press confirmation button
+本日のリプレイデータの更新はありません=There are no updates to today's replay data.
+r:"^集計日：(.*?)$"=Ranking data last updated: $1
+：決定=: Confirm
+：メニューを閉じる=: Close Menu
+：ランキング切り替え=: Switch Ranking Type
+：閉じる=: Exit
+：キャンセル=: Cancel
+宝箱をボタンで開封=Open the treasure chest with a button!

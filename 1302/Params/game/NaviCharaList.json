@@ -1,0 +1,40 @@
+{
+	"NaviCharaList" : [
+		{
+			"id" : 1,
+			"name" : "Folon",
+			"viewPriority" : 0,
+			"defalutCostumeID" : 100,
+			"description" : "A serious and energetic fairy of time.\nApparently her cherished watch\nhas a big secret.",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1547564400000
+		},
+		{
+			"id" : 2,
+			"name" : "Rene",
+			"viewPriority" : 1,
+			"defalutCostumeID" : 200,
+			"description" : "A fairy of time who loves history.\nShe is said to be very scared if you\ninterrupt her reading.\n",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		},
+		{
+			"id" : 3,
+			"name" : "Astoria",
+			"viewPriority" : 2,
+			"defalutCostumeID" : 300,
+			"description" : "A fairy of time who loves to fight.\nShe says she never misses a training\nsession in case of emergency.\n",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		},
+		{
+			"id" : 4,
+			"name" : "Myas",
+			"viewPriority" : 3,
+			"defalutCostumeID" : 400,
+			"description" : "A carefree and easy-going fairy of time.\nHer mysterious bag is said to be\nfull of treasures.",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		}
+	]
+}

@@ -1,0 +1,50 @@
+戻る=Back
+キャンセル=Cancel
+はい=Yes
+いいえ=No
+スキップ=Skip
+クレジットが足りません=Not enough credits
+表示=Show
+終了=Exit
+カード召喚はコチラ！=Click here to summon a card!!
+キャラクター選択=Character Seletcion
+CP回復=Add CP
+とじる=Close
+次のランクまで=To next rank
+保存=Save
+ログアウト=Log Out
+エラー=Error
+決定=OK
+選択=Select
+削除=Delete
+非表示=Hide
+
+初期化中\r\n=Initializing\r\n
+ゲームテストメニューに移行中です...=Switching to the test menu ...
+ゲームテストメニュー=Game Test Menu
+予期せぬ内部エラーが発生しました=An unexpected internal error occurred
+Network Check.\r\nIPアドレス\r\nゲートウェイ\r\n店内LAN\r\nホップ数\r\n回線種別\r\nALL.Net認証\r\nAime\r\n電子マネー\r\nタイトルサーバー\r\n=Network Check.\r\nIP address\r\nGateway\r\nIn -Store LAN\r\nNumber of Hops\r\nLine type\r\nAll.net Authentication\r\nAime\r\nE-MONEY\r\nTitle Server\r\n
+Network Check\r\nIPアドレス\r\nゲートウェイ\r\n店内LAN\r\nホップ数\r\n回線種別\r\nALL.Net認証\r\nAime\r\n電子マネー\r\nタイトルサーバー\r\n=Network Check\r\nIP address\r\nGateway\r\nIn -Store LAN\r\nNumber of Hops\r\nLine type\r\nAll.net Authentication\r\nAime\r\nE-MONEY\r\nTitle Server\r\n
+Network Check..\r\nIPアドレス\r\nゲートウェイ\r\n店内LAN\r\nホップ数\r\n回線種別\r\nALL.Net認証\r\nAime\r\n電子マネー\r\nタイトルサーバー\r\n=Network Check..\r\nIP address\r\nGateway\r\nIn -Store LAN\r\nNumber of Hops\r\nLine type\r\nAll.net Authentication\r\nAime\r\nE-MONEY\r\nTitle Server\r\n
+Network Check\r\nIP ADDRESS\r\nGATEWAY\r\nDNS (LAN)\r\nNUMBER OF HOPS\r\nLINE TYPE\r\nALL.Net AUTHENTICATION\r\nAime SERVER\r\nE-MONEY SERVER\r\n{{A}}\r\n=Network Check\r\nIP ADDRESS\r\nGATEWAY\r\nDNS (LAN)\r\nNUMBER OF HOPS\r\nLINE TYPE\r\nALL.Net AUTHENTICATION\r\nAime SERVER\r\nE-MONEY SERVER\r\n{{A}}\r\n
+Network Check.\r\nIP ADDRESS\r\nGATEWAY\r\nDNS (LAN)\r\nNUMBER OF HOPS\r\nLINE TYPE\r\nALL.Net AUTHENTICATION\r\nAime SERVER\r\nE-MONEY SERVER\r\n{{A}}\r\n=Network Check.\r\nIP ADDRESS\r\nGATEWAY\r\nDNS (LAN)\r\nNUMBER OF HOPS\r\nLINE TYPE\r\nALL.Net AUTHENTICATION\r\nAime SERVER\r\nE-MONEY SERVER\r\n{{A}}\r\n
+Network Check..\r\nIP ADDRESS\r\nGATEWAY\r\nDNS (LAN)\r\nNUMBER OF HOPS\r\nLINE TYPE\r\nALL.Net AUTHENTICATION\r\nAime SERVER\r\nE-MONEY SERVER\r\n{{A}}\r\n=Network Check..\r\nIP ADDRESS\r\nGATEWAY\r\nDNS (LAN)\r\nNUMBER OF HOPS\r\nLINE TYPE\r\nALL.Net AUTHENTICATION\r\nAime SERVER\r\nE-MONEY SERVER\r\n{{A}}\r\n
+
+テスト中=Testing...
+ネットワークの接続テスト中です=Network test is running...
+ネットワークの接続テスト終了しました=Network test has finished.
+
+Aimeの置き忘れにご注意ください。=Don't forget your Aime Card!
+
+通信エラーが発生しました。\r\nタイトルへ戻ります。\r\n<size\=20><color\=#ffffc8>※クレジットを消費した内容は、通信エラー回復後に反映されます。</size></color>=A communication error occurred.\r\nThe game will return to the title screen.\r\n<size\=20><color\=#ffffc8>* Content purchased with credits will be confirmed when the connection is restored.</size></color>
+
+手札カードをタッチすると詳細情報を見ることができるぞ=Touch the cards in your hand to see detailed information.
+
+{{A}}が足りません={{A}} is not enough.
+{{B}}で{{A}}コインを購入できます=You can buy {{A}} coins with {{B}}.
+
+イベントスタンプ=Event Stamp
+初心者応援スタンプ=Beginner Stamp
+r:"^期間限定\<br\>\((.*?)まで\)$"=Limited Time<br>(Until $1)
+バトルが終わるたびに、スタンプが１個押されます！=Every time a battle is completed, one stamp will be obtained!
+r:"所持数:(.*)"=Owned: $1

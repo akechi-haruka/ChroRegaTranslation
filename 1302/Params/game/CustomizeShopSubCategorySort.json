@@ -1,0 +1,24 @@
+{
+	"datalist" : [
+		{
+			"name" : "Chair",
+			"id" : 1,
+			"sortKey" : 1
+		},
+		{
+			"name" : "Flag",
+			"id" : 2,
+			"sortKey" : 2
+		},
+		{
+			"name" : "Lighting",
+			"id" : 3,
+			"sortKey" : 3
+		},
+		{
+			"name" : "Ornament",
+			"id" : 4,
+			"sortKey" : 4
+		}
+	]
+}

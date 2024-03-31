@@ -1,0 +1,95 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Color Pattern 1",
+			"!note" : "Basic Color Pattern. the appearance can be changed with the Crystal Stone of Time. This is the original appearance of Chronos.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Color Pattern 2",
+			"!note" : "The image of a god changes. Chronos, the devout cleric tells us, is merciful.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 1
+		},
+		{
+			"id" : 3,
+			"name" : "Color Pattern 3",
+			"!note" : "The image of a god changes. Chronos, the aged knight tells us, raised his beliefs.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 2
+		},
+		{
+			"id" : 4,
+			"name" : "Color Pattern 4",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 3
+		},
+		{
+			"id" : 5,
+			"name" : "Color Pattern 10",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 4
+		},
+		{
+			"id" : 6,
+			"name" : "Color Pattern 5",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 5
+		},
+		{
+			"id" : 7,
+			"name" : "Color Pattern 7",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 6
+		},
+		{
+			"id" : 8,
+			"name" : "Color Pattern 8",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 7
+		},
+		{
+			"id" : 9,
+			"name" : "Color Pattern 11",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 8
+		},
+		{
+			"id" : 10,
+			"name" : "Color Pattern 9",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 9
+		},
+		{
+			"id" : 11,
+			"name" : "Color Pattern 12",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 10
+		},
+		{
+			"id" : 12,
+			"name" : "Color Pattern 13",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 11
+		},
+		{
+			"id" : 13,
+			"name" : "Color Pattern6 ",
+			"!note" : "The image of a god changes further.",
+			"objectName" : "ch_z_a_h_000",
+			"colorId" : 12
+		}
+	]
+}

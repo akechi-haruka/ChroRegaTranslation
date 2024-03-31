@@ -1,0 +1,59 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "背景000",
+			"asset" : "StageSetting_000"
+		},
+		{
+			"id" : 1,
+			"name" : "背景001",
+			"asset" : "StageSetting_001"
+		},
+		{
+			"id" : 2,
+			"name" : "背景002",
+			"asset" : "StageSetting_002"
+		},
+		{
+			"id" : 3,
+			"name" : "背景003",
+			"asset" : "StageSetting_003"
+		},
+		{
+			"id" : 4,
+			"name" : "背景004",
+			"asset" : "StageSetting_004"
+		},
+		{
+			"id" : 5,
+			"name" : "背景005",
+			"asset" : "StageSetting_005"
+		},
+		{
+			"id" : 6,
+			"name" : "背景006",
+			"asset" : "StageSetting_006"
+		},
+		{
+			"id" : 7,
+			"name" : "背景007",
+			"asset" : "StageSetting_007"
+		},
+		{
+			"id" : 8,
+			"name" : "背景008",
+			"asset" : "StageSetting_008"
+		},
+		{
+			"id" : 9,
+			"name" : "背景009",
+			"asset" : "StageSetting_009"
+		},
+		{
+			"id" : 10,
+			"name" : "背景010",
+			"asset" : "StageSetting_010"
+		}
+	]
+}

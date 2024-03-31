@@ -1,0 +1,31 @@
+{
+	"datalist" : [
+		{
+			"chapterId" : 100,
+			"subCategory" : "Beginner",
+			"headerIcon" : "TAN_image_001",
+			"listIcon" : "TAN_image_001",
+			"premiseChapterId" : 0,
+			"naviCharaId" : 4,
+			"displayPriority" : 0
+		},
+		{
+			"chapterId" : 200,
+			"subCategory" : "Intermediate",
+			"headerIcon" : "TAN_image_002",
+			"listIcon" : "TAN_image_002",
+			"premiseChapterId" : 100,
+			"naviCharaId" : 3,
+			"displayPriority" : 0
+		},
+		{
+			"chapterId" : 300,
+			"subCategory" : "Advanced",
+			"headerIcon" : "TAN_image_003",
+			"listIcon" : "TAN_image_003",
+			"premiseChapterId" : 200,
+			"naviCharaId" : 2,
+			"displayPriority" : 0
+		}
+	]
+}

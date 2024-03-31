@@ -1,0 +1,84 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 8,
+			"candidate01" : "0",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 35,
+			"candidate01" : "010",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 16,
+			"candidate01" : "012",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 36,
+			"candidate01" : "013",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 37,
+			"candidate01" : "012",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 38,
+			"candidate01" : "025",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ１",
+			"voiceType" : 39,
+			"candidate01" : "028",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		},
+		{
+			"id" : 0,
+			"name" : "ステージ２",
+			"voiceType" : 40,
+			"candidate01" : "027",
+			"candidate02" : "-1",
+			"candidate03" : "-1",
+			"candidate04" : "-1",
+			"candidate05" : "-1"
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Basic Frame・Bronze",
+			"imageName" : "Personaltitle_bronze",
+			"layoutPosition" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Basic Frame・Silver",
+			"imageName" : "Personaltitle_silver",
+			"layoutPosition" : 0
+		},
+		{
+			"id" : 3,
+			"name" : "Basic Frame・Gold",
+			"imageName" : "Personaltitle_gold",
+			"layoutPosition" : 0
+		},
+		{
+			"id" : 101,
+			"name" : "Gleaming Spear Gaebolg",
+			"imageName" : "Personaltitle_event_001",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 102,
+			"name" : "Commander, Taking the Battlefield!",
+			"imageName" : "Personaltitle_event_002",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 103,
+			"name" : "The Inherited Blade",
+			"imageName" : "Personaltitle_event_003",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 104,
+			"name" : "A Terrifying Test of Courage",
+			"imageName" : "Personaltitle_event_004",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 105,
+			"name" : "Called by a Brilliant God",
+			"imageName" : "Personaltitle_event_005",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 106,
+			"name" : "Tournament by Moonlight",
+			"imageName" : "Personaltitle_event_006",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 107,
+			"name" : "Halloween Party",
+			"imageName" : "Personaltitle_event_007",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 108,
+			"name" : "A Snowy Holy Night",
+			"imageName" : "Personaltitle_event_008",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 109,
+			"name" : "First Game of the New Year",
+			"imageName" : "Personaltitle_event_009",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 110,
+			"name" : "Heart Pounding Valentine's Day",
+			"imageName" : "Personaltitle_event_010",
+			"layoutPosition" : 1
+		},
+		{
+			"id" : 111,
+			"name" : "Triple Payback Day",
+			"imageName" : "Personaltitle_event_011",
+			"layoutPosition" : 1
+		}
+	]
+}

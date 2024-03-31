@@ -1,0 +1,10 @@
+None
+When attacked
+On Direct Attack
+After Battle
+When taking damage
+On death
+On deployment
+On equip
+Special
+On BREAK

@@ -1,0 +1,14 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Selection Summoning",
+			"sortPriority" : 1,
+			"imageName" : "SHO_banner_011907021",
+			"startDate" : 1550700000000,
+			"endDate" : 4102412400000,
+			"transitionType" : 1,
+			"transitionId" : 132000
+		}
+	]
+}

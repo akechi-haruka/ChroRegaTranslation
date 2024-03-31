@@ -1,0 +1,46 @@
+{
+	"datalist" : [
+		{
+			"id" : 1,
+			"name" : "Winning Streak: 1",
+			"lowestNum" : 1,
+			"rate" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "Winning Streak: 2",
+			"lowestNum" : 2,
+			"rate" : 0.1
+		},
+		{
+			"id" : 3,
+			"name" : "Winning Streak:3～5",
+			"lowestNum" : 3,
+			"rate" : 0.2
+		},
+		{
+			"id" : 4,
+			"name" : "Winning Streak:6～10",
+			"lowestNum" : 6,
+			"rate" : 0.4
+		},
+		{
+			"id" : 5,
+			"name" : "Winning Streak:11～20",
+			"lowestNum" : 11,
+			"rate" : 0.6
+		},
+		{
+			"id" : 6,
+			"name" : "Winning Streak:21～30",
+			"lowestNum" : 21,
+			"rate" : 0.8
+		},
+		{
+			"id" : 7,
+			"name" : "Winning Streak:31～",
+			"lowestNum" : 31,
+			"rate" : 1
+		}
+	]
+}

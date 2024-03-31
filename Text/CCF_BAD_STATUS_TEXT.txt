@@ -1,0 +1,6 @@
+
+ＨＰ Recovery －５０％<br>Every attack,<br>lose －{0} ATK
+Damage received in<br>next battle ＋{0}％
+No action for {0} Counts<br>（Removed when attacked）
+Every Count,<br>take {0} damage
+Movement reduced to 4 Counts<br>Take {0} damage every attack

@@ -1,0 +1,68 @@
+{
+	"datalist" : [
+		{
+			"id" : 1000,
+			"name" : "Zeus' Outfit",
+			"!note" : "An outfit that awakens the power of ancient Zeus",
+			"objectName" : "ch_r_a_h_900",
+			"equipableChara" : 1000,
+			"colorId" : 0
+		},
+		{
+			"id" : 2000,
+			"name" : "Artemis' Outfit",
+			"!note" : "An outfit that awakens the power of ancient Artemis",
+			"objectName" : "ch_g_a_h_900",
+			"equipableChara" : 2000,
+			"colorId" : 0
+		},
+		{
+			"id" : 3000,
+			"name" : "Dionysus' Outfit",
+			"!note" : "An outfit that awakens the power of ancient Dionysus",
+			"objectName" : "ch_b_a_h_900",
+			"equipableChara" : 3000,
+			"colorId" : 0
+		},
+		{
+			"id" : 4000,
+			"name" : "Hestia's Outfit",
+			"!note" : "An outfit that awakens the power of ancient Hestia",
+			"objectName" : "ch_y_a_h_900",
+			"equipableChara" : 4000,
+			"colorId" : 0
+		},
+		{
+			"id" : 4100,
+			"name" : "Hera's Outfit",
+			"!note" : "An outfit that awakens the power of ancient Hera",
+			"objectName" : "ch_y_b_h_900",
+			"equipableChara" : 4100,
+			"colorId" : 0
+		},
+		{
+			"id" : 5000,
+			"name" : "Apollo's Outfit",
+			"!note" : "An outfit that awakens the power of ancient Apollo",
+			"objectName" : "ch_c_a_h_900",
+			"equipableChara" : 5000,
+			"colorId" : 0
+		},
+		{
+			"id" : 6000,
+			"name" : "Hera's Outfit",
+			"!note" : "n outfit that awakens the power of ancient Hera",
+			"objectName" : "ch_p_a_h_900",
+			"equipableChara" : 6000,
+			"colorId" : 0
+		},
+		{
+			"id" : 6100,
+			"name" : "Hera's Outfit",
+			"!note" : "n outfit that awakens the power of ancient Hera",
+			"objectName" : "ch_p_b_h_900",
+			"equipableChara" : 6100,
+			"colorId" : 0
+		}
+	]
+}

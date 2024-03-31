@@ -1,0 +1,388 @@
+{
+	"datalist" : [
+		{
+			"id" : 0,
+			"name" : "背景000:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 0,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 1,
+			"name" : "背景000:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 0,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 2,
+			"name" : "背景000:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 0,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 3,
+			"name" : "背景000:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 0,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 4,
+			"name" : "背景001:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 1,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 5,
+			"name" : "背景001:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 1,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 6,
+			"name" : "背景001:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 1,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 7,
+			"name" : "背景001:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 1,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 8,
+			"name" : "背景002:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 2,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 9,
+			"name" : "背景002:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 2,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 10,
+			"name" : "背景002:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 2,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 11,
+			"name" : "背景002:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 2,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 12,
+			"name" : "背景003:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 3,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 13,
+			"name" : "背景003:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 3,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 14,
+			"name" : "背景003:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 3,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 15,
+			"name" : "背景003:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 3,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 16,
+			"name" : "背景004:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 4,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 17,
+			"name" : "背景004:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 4,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 18,
+			"name" : "背景004:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 4,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 19,
+			"name" : "背景004:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 4,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 20,
+			"name" : "背景005:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 5,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 21,
+			"name" : "背景005:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 5,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 22,
+			"name" : "背景005:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 5,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 23,
+			"name" : "背景005:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 5,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 24,
+			"name" : "背景006:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 6,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 1
+		},
+		{
+			"id" : 25,
+			"name" : "背景006:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 6,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 26,
+			"name" : "背景006:夕",
+			"stageSceneId" : -1,
+			"distantViewId" : 6,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 27,
+			"name" : "背景006:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 6,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 28,
+			"name" : "背景007:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 7,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 29,
+			"name" : "背景008:昼",
+			"stageSceneId" : -1,
+			"distantViewId" : 8,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 30,
+			"name" : "背景008:朝",
+			"stageSceneId" : -1,
+			"distantViewId" : 8,
+			"timeZoneId" : 1,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 31,
+			"name" : "背景009:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 9,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 10000,
+			"name" : "背景009:夜",
+			"stageSceneId" : -1,
+			"distantViewId" : 9,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 12011,
+			"name" : "花火その1",
+			"stageSceneId" : 90006,
+			"distantViewId" : 4,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 12012,
+			"name" : "花火その2",
+			"stageSceneId" : 90006,
+			"distantViewId" : 4,
+			"timeZoneId" : 2,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 12013,
+			"name" : "花火その3・花火イベント",
+			"stageSceneId" : 90006,
+			"distantViewId" : 4,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 12021,
+			"name" : "肝試し",
+			"stageSceneId" : 90006,
+			"distantViewId" : 6,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 13011,
+			"name" : "月見イベント",
+			"stageSceneId" : 90007,
+			"distantViewId" : 10,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 13021,
+			"name" : "ハロウィンイベント",
+			"stageSceneId" : 90007,
+			"distantViewId" : 10,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 13031,
+			"name" : "復刻ゲイボルグ",
+			"stageSceneId" : 90007,
+			"distantViewId" : 10,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 14011,
+			"name" : "クリスマス夜",
+			"stageSceneId" : 90008,
+			"distantViewId" : 4,
+			"timeZoneId" : 3,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 14012,
+			"name" : "クリスマス昼",
+			"stageSceneId" : 90008,
+			"distantViewId" : 4,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 14021,
+			"name" : "正月",
+			"stageSceneId" : 90008,
+			"distantViewId" : 5,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 14031,
+			"name" : "バレンタイン",
+			"stageSceneId" : 90008,
+			"distantViewId" : 6,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 21011,
+			"name" : "ホワイトデー",
+			"stageSceneId" : 90005,
+			"distantViewId" : 3,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 21012,
+			"name" : "ホワイトデー_アナザー1",
+			"stageSceneId" : 90005,
+			"distantViewId" : 1,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 21013,
+			"name" : "ホワイトデー_アナザー2",
+			"stageSceneId" : 90008,
+			"distantViewId" : 3,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		},
+		{
+			"id" : 21014,
+			"name" : "ホワイトデー_アナザー3",
+			"stageSceneId" : 90005,
+			"distantViewId" : 5,
+			"timeZoneId" : 0,
+			"normalBattleUseFlag" : 0
+		}
+	]
+}
