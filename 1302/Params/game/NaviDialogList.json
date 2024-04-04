@@ -3,7 +3,7 @@
 		{
 			"id" : 0,
 			"name" : "None",
-			"message" : "無効なダイアログです",
+			"message" : "Invalid Dialog",
 			"posType" : 4,
 			"timeoutTime" : 0,
 			"sizeType" : 0
@@ -11,7 +11,7 @@
 		{
 			"id" : 1001,
 			"name" : "Tutorial_00_01",
-			"message" : "クロノス様、敵が現れました！\nこれからバトルについて説明します！",
+			"message" : "Chronos, an enemy has appeared!\nLet me show you how to battle!",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -19,7 +19,7 @@
 		{
 			"id" : 1002,
 			"name" : "Tutorial_00_02",
-			"message" : "まずはゲームルールについて\n説明していきます。",
+			"message" : "First, I'll explain\nthe game rules.",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -27,7 +27,7 @@
 		{
 			"id" : 1003,
 			"name" : "Tutorial_00_03",
-			"message" : "残り時間の表示です。\nこの時間内に……",
+			"message" : "This is the timer.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -35,7 +35,7 @@
 		{
 			"id" : 1004,
 			"name" : "Tutorial_00_04",
-			"message" : "ＨＰが多く残っているプレイヤーの\n勝利となります。",
+			"message" : "The player with the most HP\nremaining within this time wins.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -43,7 +43,7 @@
 		{
 			"id" : 1005,
 			"name" : "Tutorial_00_05",
-			"message" : "また、どちらかのＨＰが０になると\nその時点で決着となります。",
+			"message" : "The game will end immediately\nif either party's HP reaches 0.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -51,7 +51,7 @@
 		{
 			"id" : 1101,
 			"name" : "Tutorial_01_01",
-			"message" : "ＨＰにダメージを与えるには\nキャラクターを出撃させる必要が\nあります。",
+			"message" : "To deal damage,\nyou need to send out\na unit.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -59,7 +59,7 @@
 		{
 			"id" : 1102,
 			"name" : "Tutorial_01_02",
-			"message" : "相手エリアに到達すると攻撃します。\n出撃させましょう。",
+			"message" : "The unit will attack when it reaches the enemy\nTry deploying!",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -67,7 +67,7 @@
 		{
 			"id" : 1103,
 			"name" : "Tutorial_01_03",
-			"message" : "出撃できました！\nキャラクターにはいくつかの\nパラメータがあります。",
+			"message" : "Deployed!\nThe character has\nseveral parameters.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -75,7 +75,7 @@
 		{
 			"id" : 1104,
 			"name" : "Tutorial_01_04",
-			"message" : "キャラクターのＨＰです。\n０になると一定時間、行動不能に\nなります。",
+			"message" : "This is the character's HP.\nWhen it reaches 0,\nthey'll retreat.",
 			"posType" : 6,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -83,7 +83,7 @@
 		{
 			"id" : 1105,
 			"name" : "Tutorial_01_05",
-			"message" : "攻撃力です。\n数値が高いほど相手に与える\nダメージが増えます。",
+			"message" : "This is Attack Power.\nThe higher the number, the\nmore damage you deal.",
 			"posType" : 6,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -91,7 +91,7 @@
 		{
 			"id" : 1106,
 			"name" : "Tutorial_01_06",
-			"message" : "レベルです。\n行動するとレベルが上がります。",
+			"message" : "This is your level.\nThis can be raised with XP.",
 			"posType" : 6,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -99,7 +99,7 @@
 		{
 			"id" : 1107,
 			"name" : "Tutorial_01_07",
-			"message" : "移動や戦闘までの時間です。\nメモリがなくなると行動します。",
+			"message" : "This is the battle counter.\nYou'll act when the memory runs out.",
 			"posType" : 6,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -107,7 +107,7 @@
 		{
 			"id" : 1201,
 			"name" : "Tutorial_02_01",
-			"message" : "敵が出撃しました！\n武器カードで迎撃しましょう！",
+			"message" : "The enemy has deployed!\nIntercept with a weapon card!",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -115,7 +115,7 @@
 		{
 			"id" : 1202,
 			"name" : "Tutorial_02_02",
-			"message" : "カードを使用するには\nプレイヤーのＭＰが必要です。",
+			"message" : "the player's MP\nis required for the card.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -123,7 +123,7 @@
 		{
 			"id" : 1203,
 			"name" : "Tutorial_02_03",
-			"message" : "ＭＰが足りませんね……\nＭＰは時間経過で増えていきます。",
+			"message" : "You're running out of MP……\nMP will increase over time.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -131,7 +131,7 @@
 		{
 			"id" : 1204,
 			"name" : "Tutorial_02_04",
-			"message" : "また、カードをＭＰに変換して\n増やすことができます。",
+			"message" : "You can also convert cards\ninto more MP.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -139,7 +139,7 @@
 		{
 			"id" : 1205,
 			"name" : "Tutorial_02_05",
-			"message" : "今回は、ＭＰが増えるのを\n待ちましょう。",
+			"message" : "This time, wait for\nyour MP to increase.",
 			"posType" : 8,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -147,7 +147,7 @@
 		{
 			"id" : 1206,
 			"name" : "Tutorial_02_06",
-			"message" : "ＭＰが増えました！\n敵と同じレーンに出撃させて\n戦闘をさせましょう。",
+			"message" : "MP increased!\nDeploy a unit in the same lane\nas the enemy!",
 			"posType" : 8,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -155,7 +155,7 @@
 		{
 			"id" : 1207,
 			"name" : "Tutorial_02_07",
-			"message" : "戦闘に勝つと、ＢＲＥＡＫとなり\n１ステップ進めます。",
+			"message" : "If the unit wins, it'll\nrecieve a BREAK and advance 1 tile.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -163,7 +163,7 @@
 		{
 			"id" : 1208,
 			"name" : "Tutorial_02_08",
-			"message" : "戦闘に負けると行動不能となります。",
+			"message" : "If you lose, you'll retreat.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -171,7 +171,7 @@
 		{
 			"id" : 1209,
 			"name" : "Tutorial_02_09",
-			"message" : "クロノスに攻撃した時、反撃によって\n武器カードが破壊され戻ってきます。",
+			"message" : "When attacking Chronos\nthe weapon card is destroyed by the counterattack.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -179,7 +179,7 @@
 		{
 			"id" : 1210,
 			"name" : "Tutorial_02_10",
-			"message" : "また、出撃していない時は\nキャラクターのＨＰが\n徐々に回復します。",
+			"message" : "Also, when a unit is not\ndeployed, its HP\ngradually recovers.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -187,7 +187,7 @@
 		{
 			"id" : 1301,
 			"name" : "Tutorial_03_01",
-			"message" : "次はキャラクターの復活についてです",
+			"message" : "Next, we'll talk about reviving.",
 			"posType" : 4,
 			"timeoutTime" : 4,
 			"sizeType" : 0
@@ -195,7 +195,7 @@
 		{
 			"id" : 1302,
 			"name" : "Tutorial_03_02",
-			"message" : "行動不能になると表示されたカウントが\n経過するまで戻ってきません。",
+			"message" : "If your character is retreated,\nit can't return until the counter elapses.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -203,7 +203,7 @@
 		{
 			"id" : 1303,
 			"name" : "Tutorial_03_03",
-			"message" : "ただし、蘇生アイコンをタッチすることにより、\nライフを払ってキャラクターを\n蘇生することが出来ます。",
+			"message" : "However, by touching the revive icon,\nyou can pay a life to\nrevive a character.",
 			"posType" : 5,
 			"timeoutTime" : 6,
 			"sizeType" : 0
@@ -211,7 +211,7 @@
 		{
 			"id" : 1304,
 			"name" : "Tutorial_03_04",
-			"message" : "上手蘇生できましたね。\nどうしてもすぐに復活させたいキャラクターが\n居る時は復活させるのも1つの手です",
+			"message" : "Good job on reviving.\nIf you really need to revive a character,\nthat's one way to do it.",
 			"posType" : 5,
 			"timeoutTime" : 7,
 			"sizeType" : 0
@@ -219,7 +219,7 @@
 		{
 			"id" : 1401,
 			"name" : "Tutorial_04_01",
-			"message" : "手札の補充について説明します。",
+			"message" : "Now I'll explain cards.",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -227,7 +227,7 @@
 		{
 			"id" : 1402,
 			"name" : "Tutorial_04_02",
-			"message" : "カードストックの数だけ\nカードを引くことができます。\nカードストックは時間で増えます。",
+			"message" : "You can draw as many cards\nas the stock allows.\nCard stock increase over time.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -235,7 +235,7 @@
 		{
 			"id" : 1403,
 			"name" : "Tutorial_04_03",
-			"message" : "キャラクターごとの引くボタンから\nカードを引くことができます。",
+			"message" : "You can draw cards using the Pull button\non each character.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -243,7 +243,7 @@
 		{
 			"id" : 1404,
 			"name" : "Tutorial_04_04",
-			"message" : "実際にカードを引いてみましょう。",
+			"message" : "Let's pull a card.",
 			"posType" : 3,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -251,7 +251,7 @@
 		{
 			"id" : 1405,
 			"name" : "Tutorial_04_05",
-			"message" : "戦況を見ながら、どのキャラクターの\nカードを引くか判断しましょう！",
+			"message" : "Watch the battle and decide which\ncharacter's card to draw!",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -259,7 +259,7 @@
 		{
 			"id" : 1501,
 			"name" : "Tutorial_05_01",
-			"message" : "道具カードを使ってみましょう。",
+			"message" : "Let's use a tool card.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -267,7 +267,7 @@
 		{
 			"id" : 1502,
 			"name" : "Tutorial_05_02",
-			"message" : "道具カードをタッチすると、\n出撃中のキャラクターに\n使用アイコンが出ます。",
+			"message" : "When a tool card is used,\nit appears on the\ndeployed character.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -275,7 +275,7 @@
 		{
 			"id" : 1503,
 			"name" : "Tutorial_05_03",
-			"message" : "出撃中の味方を\n強化してみましょう。",
+			"message" : "Let's strengthen a\ndeployed unit.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -283,7 +283,7 @@
 		{
 			"id" : 1504,
 			"name" : "Tutorial_05_04",
-			"message" : "味方が強化されました！\n道具カードで戦況を有利に\n変えていきましょう。",
+			"message" : "Your unit is stronger!\nChange the outcome of the battle\nusing tool cards!",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -291,7 +291,7 @@
 		{
 			"id" : 1601,
 			"name" : "Tutorial_06_01",
-			"message" : "魔法カードは、道具カードと異なり\n発動までに詠唱時間が必要です。",
+			"message" : "Unlike tool cards, Magic cards\nrequire a chanting time before activating.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -299,7 +299,7 @@
 		{
 			"id" : 1602,
 			"name" : "Tutorial_06_02",
-			"message" : "また、詠唱中に行動不能や\n敵との戦闘になると発動できません。",
+			"message" : "It also can't be used if\nchanting fails.",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -307,7 +307,7 @@
 		{
 			"id" : 1603,
 			"name" : "Tutorial_06_03",
-			"message" : "詠唱時間がある分\n発動できると強力です！",
+			"message" : "A successful chant can be\nvery powerful!",
 			"posType" : 5,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -315,7 +315,7 @@
 		{
 			"id" : 1701,
 			"name" : "Tutorial_07_01",
-			"message" : "カードはあるけど\nＭＰが足りない……",
+			"message" : "Lacking MP\nfor this card……",
 			"posType" : 4,
 			"timeoutTime" : 3,
 			"sizeType" : 0
@@ -323,7 +323,7 @@
 		{
 			"id" : 1702,
 			"name" : "Tutorial_07_02",
-			"message" : "そんな時は、カードを\nＭＰに変換することができます。\n実際にやってみましょう！",
+			"message" : "If that's the case,\nyou can convert cards to MP.\nLet's try it!",
 			"posType" : 8,
 			"timeoutTime" : 3,
 			"sizeType" : 0
@@ -331,7 +331,7 @@
 		{
 			"id" : 1703,
 			"name" : "Tutorial_07_03",
-			"message" : "ＭＰがどうしても必要なときは\n不要なカードをＭＰに変換して\nピンチを乗り切りましょう！",
+			"message" : "If you're in a pinch for MP\nconvert unneeded cards!",
 			"posType" : 8,
 			"timeoutTime" : 3,
 			"sizeType" : 0
@@ -339,7 +339,7 @@
 		{
 			"id" : 1801,
 			"name" : "Tutorial_08_01",
-			"message" : "レガリアとはバトルで１回だけ使える\nクロノス様の特別な力です。",
+			"message" : "Regalia is a special power\nthat can only be used once in battle.",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -347,7 +347,7 @@
 		{
 			"id" : 1802,
 			"name" : "Tutorial_08_02",
-			"message" : "レガリアゲージが貯まると\n発動できます。強力なので\nタイミングを見極めましょう。",
+			"message" : "Activate Regalia when\nthe gauge is full.\nBe careful when you use it!",
 			"posType" : 6,
 			"timeoutTime" : 5,
 			"sizeType" : 0
@@ -355,7 +355,7 @@
 		{
 			"id" : 1803,
 			"name" : "Tutorial_08_03",
-			"message" : "これで基本操作の説明は終わりです。\n最後に、2対2バトルで\n敵と戦ってみましょう！",
+			"message" : "That's all for the basics.\nFinally, let's fight\nin a 1v1 battle!",
 			"posType" : 4,
 			"timeoutTime" : 5,
 			"sizeType" : 0
