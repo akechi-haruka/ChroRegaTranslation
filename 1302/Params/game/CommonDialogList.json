@@ -37,7 +37,7 @@
 		{
 			"id" : 3,
 			"name" : "NoMatchingToComBattle",
-			"message" : "Because an opponent could not be found,\nthe game will switch to COM Battle.",
+			"message" : "Because an opponent could not be found,\nthe game will switch to COM Battle.\n\n* The game will continue to search for opponents",
 			"dialogType" : 0,
 			"buttonType" : 2,
 			"textAlignType" : 1,
