@@ -5,34 +5,34 @@
 			"name" : "Folon",
 			"viewPriority" : 0,
 			"defalutCostumeID" : 100,
-			"description" : "A serious and energetic fairy of time.\nApparently her cherished watch\nhas a big secret.",
+			"description" : "A seriously energetic fairy of time.\nShe is said to hold a great secret\nin her watch.\n",
 			"startDate" : 1545264000000,
 			"newEndDate" : 1547564400000
 		},
 		{
 			"id" : 2,
-			"name" : "Rene",
+			"name" : "Rena",
 			"viewPriority" : 1,
 			"defalutCostumeID" : 200,
-			"description" : "A fairy of time who loves history.\nShe is said to be very scared if you\ninterrupt her reading.\n",
+			"description" : "A fairy of time who loves history.\nMany are afraid of what would happen\nif her reading is interrupted..\n",
 			"startDate" : 1545264000000,
 			"newEndDate" : 1565881200000
 		},
 		{
 			"id" : 3,
-			"name" : "Astoria",
+			"name" : "Astrea",
 			"viewPriority" : 2,
 			"defalutCostumeID" : 300,
-			"description" : "A fairy of time who loves to fight.\nShe says she never misses a training\nsession in case of emergency.\n",
+			"description" : "A fairy of time who loves to fight.\nShe says to never miss a training\nsession in case of emergency.",
 			"startDate" : 1545264000000,
 			"newEndDate" : 1565881200000
 		},
 		{
 			"id" : 4,
-			"name" : "Myas",
+			"name" : "Maya",
 			"viewPriority" : 3,
 			"defalutCostumeID" : 400,
-			"description" : "A carefree and easy-going fairy of time.\nHer mysterious bag is said to be\nfull of treasures.",
+			"description" : "A carefree fairy of time.\nHer mysterious bag is\napparently full of treasures.",
 			"startDate" : 1545264000000,
 			"newEndDate" : 1565881200000
 		}

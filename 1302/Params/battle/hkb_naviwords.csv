@@ -1,0 +1,111 @@
+﻿1,シーン：ホーム,進入回数：1,,LoginNormal_01,What would you like<br>to do today?,1,100
+2,シーン：ホーム,進入回数：1,,LoginNormal_02,Now、 let's keep up<br>the good work!,1,100
+3,シーン：ホーム,進入回数：1,,LoginNormal_03,I'll be happy<br>to help you<br>today as well!,1,100
+4,タッチ,,,TouchVoiceNormal_solo_01,How can<br>I help?,1,100
+5,タッチ,,,TouchVoiceNormal_solo_02,Wha-!　<br>You scared me!,1,100
+6,タッチ,,,TouchVoiceNormal_solo_03,Hmmm、<br>What is it?,1,100
+7,タッチ,,,TouchVoiceNormal_solo_04,This watch is a<br>very important object.,1,100
+8,タッチ,,,TouchVoiceNormal_solo_05,Hya!<br>What、 what is it?,1,100
+9,タッチ,,,TouchVoiceNormal_solo_07,Yes、<br>you rang?,1,100
+10,タッチ,,,TouchVoiceNormal_solo_08,Dear Chronos、<br>are you not busy?,1,100
+11,タッチ,,,TouchVoiceNormal_solo_09,Would you be interested<br>in this watch?,1,100
+12,タッチ,,,TouchVoiceNormal_solo_010,Now、 what<br>do we do?,1,100
+13,タッチ,,,TouchVoiceNormal_solo_011,Yes、 you wanted<br>to see me!,1,100
+14,タッチ,,,TouchVoiceNormal_solo_012,Kyaa!<br>Can I<br>help you?,1,100
+15,タッチ,,,TouchVoiceNormal_solo_013,What is it?,1,100
+16,タッチ,,,TouchVoiceNormal_solo_014,Yes、 at the call of<br>Chronos!,1,100
+17,タッチ,,,TouchVoiceNormal_solo_016,What are you<br>doing Chronos?,1,100
+18,タッチ,,,TouchVoiceNormal_solo_018,Go!<br>Fight however<br>you'd like!,1,100
+19,タッチ,,,TouchVoiceNormal_solo_019,Waaaa!　W- Where are you touching!?,1,100
+20,タッチ,,,TouchVoiceNormal_solo_020,Naa!<br>What are you doing!?,1,100
+21,時間経過：60,,,TouchVoiceNormal_solo_017,Tsk、 tsk、<br>Chronos..,1,100
+22,時間経過：60,,,TouchVoiceNormal_solo_015,Chronos、<br>I'm busy!,1,100
+23,時間経過：60,,,TouchVoiceNormal_solo_06,……zzz……zzz……<br>Woah!　<br>I wasn't sleeping、 right?,1,100
+25,ナビ選択時,,,SelfIntro_solo_02,I'm here to<br>help Chronos!,1,100
+26,ナビ選択時,,,SelfIntro_solo_03,To be of help to<br>Chronos、 that is my role!,1,100
+27,ナビ選択時,,,SelfIntro_solo_04,Please say whatever you want.<br>I will help you!,1,100
+28,ナビ選択時,,,SelfIntro_solo_05,You can call<br>me Folon!,1,100
+29,シーン：ホーム,進入回数：1,,LoginNormal_01,How are you doing today?,2,200
+30,シーン：ホーム,進入回数：1,,LoginNormal_02,Keep up the good work today.,2,200
+31,シーン：ホーム,進入回数：1,,LoginNormal_03,Contact me at any time!,2,200
+32,タッチ,,,TouchVoiceNormal_solo_01,Yes、<br>You called?,2,200
+33,タッチ,,,TouchVoiceNormal_solo_02,What is it!?,2,200
+34,タッチ,,,TouchVoiceNormal_solo_03,Oh、<br>you wanted to see me?,2,200
+35,タッチ,,,TouchVoiceNormal_solo_04,Making history、<br>that is my job!,2,200
+36,タッチ,,,TouchVoiceNormal_solo_05,Kyaa!<br>…Excuse me.,2,200
+37,タッチ,,,TouchVoiceNormal_solo_07,Yes、feel free<br>to submit<br>your requests.,2,200
+38,タッチ,,,TouchVoiceNormal_solo_08,Chronos、if you have a moment<br>please take<br>care of this.,2,200
+39,タッチ,,,TouchVoiceNormal_solo_09,This brush has<br>great power.<br>Are you curious?,2,200
+40,タッチ,,,TouchVoiceNormal_solo_010,Now、let's<br>get to work.,2,200
+41,タッチ,,,TouchVoiceNormal_solo_011,Yes、<br>What is it?,2,200
+42,タッチ,,,TouchVoiceNormal_solo_012,Kyaa!<br>……You……<br>scared me.　,2,200
+43,タッチ,,,TouchVoiceNormal_solo_013,Yes!　<br>You need me<br>don't you?,2,200
+44,タッチ,,,TouchVoiceNormal_solo_014,Hmmm、<br>I'd be happy<br>to help.,2,200
+45,タッチ,,,TouchVoiceNormal_solo_016,Chronos、<br>What's next?,2,200
+46,タッチ,,,TouchVoiceNormal_solo_018,If we take<br>it seriously、<br>we can do it!,2,200
+47,タッチ,,,TouchVoiceNormal_solo_019,Hyaa!!<br>What is it!?,2,200
+48,タッチ,,,TouchVoiceNormal_solo_020,Again、what are<br>you doing!?,2,200
+49,時間経過：60,,,TouchVoiceNormal_solo_017,Uhm、<br>Chronos～?,2,200
+50,時間経過：60,,,TouchVoiceNormal_solo_015,Hmm、A little<br>bored now aren't you?,2,200
+51,時間経過：60,,,TouchVoiceNormal_solo_06,Hmm～<br>……Eh!　How long have<br>you been watching me!?,2,200
+52,ナビ選択時,,,SelfIntro_solo_01,My name is Rena.<br>I look forward to working with you.,2,200
+53,ナビ選択時,,,SelfIntro_solo_02,I will do my best to serve<br>not only Chronos、<br>but everyone with sincerity.,2,200
+54,ナビ選択時,,,SelfIntro_solo_03,The fairy of time<br>is here to<br>assist Chronos.,2,200
+55,ナビ選択時,,,SelfIntro_solo_04,What do you need?<br>I am happy to answer<br>any questions.,2,200
+56,ナビ選択時,,,SelfIntro_solo_05,Hmm……What a beautiful book……<br>Wha!　Chronos!<br>How long have you been there!?,2,200
+57,シーン：ホーム,進入回数：1,,LoginNormal_01,What do you want<br>to do today?,3,300
+58,シーン：ホーム,進入回数：1,,LoginNormal_02,Okay、<br>Keep up the good work!,3,300
+59,シーン：ホーム,進入回数：1,,LoginNormal_03,Come on、<br>I'll help with anything!,3,300
+60,タッチ,,,TouchVoiceNormal_solo_01,You rang?,3,300
+61,タッチ,,,TouchVoiceNormal_solo_02,Oops、<br>What is it?,3,300
+62,タッチ,,,TouchVoiceNormal_solo_03,What the hell?、<br>What are you<br>trying to sayー?,3,300
+63,タッチ,,,TouchVoiceNormal_solo_04,I hope this sword<br>has some<br>great power……,3,300
+64,タッチ,,,TouchVoiceNormal_solo_05,Ahh!?　<br>Where are you touching!?,3,300
+65,タッチ,,,TouchVoiceNormal_solo_07,Ooooh!、<br>You called?,3,300
+66,タッチ,,,TouchVoiceNormal_solo_08,Chronos、<br>perhaps<br>you're bored?,3,300
+67,タッチ,,,TouchVoiceNormal_solo_09,Hey hey!<br>Don't poke me<br>so much!,3,300
+68,タッチ,,,TouchVoiceNormal_solo_010,Well、<br>What shall we do?,3,300
+69,タッチ,,,TouchVoiceNormal_solo_011,Oh、<br>You called?,3,300
+70,タッチ,,,TouchVoiceNormal_solo_012,Hmm、<br>Did you call<br>me by chance?,3,300
+71,タッチ,,,TouchVoiceNormal_solo_013,Heh、<br>You wanted<br>something?,3,300
+72,タッチ,,,TouchVoiceNormal_solo_014,Oh、<br>Anything for Chronos、<br>you name it!,3,300
+73,タッチ,,,TouchVoiceNormal_solo_016,Hey、<br>Chronos-、<br>What are you doing?,3,300
+74,タッチ,,,TouchVoiceNormal_solo_018,An opponent!?<br>I'll take care of it!,3,300
+75,タッチ,,,TouchVoiceNormal_solo_019,Hyaa!　<br>What are you doing!?,3,300
+76,タッチ,,,TouchVoiceNormal_solo_020,S-Stop、<br>This makes me<br>……embarassed.,3,300
+77,時間経過：60,,,TouchVoiceNormal_solo_017,Ah!<br>Too much free time、<br>right Chronos-,3,300
+78,時間経過：60,,,TouchVoiceNormal_solo_015,Chronos-、<br>Give me a break-,3,300
+79,時間経過：60,,,TouchVoiceNormal_solo_06,Hmm……!<br>Did you see me……<br>sleeping?,3,300
+80,ナビ選択時,,,SelfIntro_solo_01,I am Astrea!<br>Nice to meet you!,3,300
+81,ナビ選択時,,,SelfIntro_solo_02,Watching Chronos<br>battle makes me<br>want to battle too!,3,300
+82,ナビ選択時,,,SelfIntro_solo_03,I'll show you<br>that even time<br>fairies can fight.,3,300
+83,ナビ選択時,,,SelfIntro_solo_04,The history of mankind is<br>through battles!<br>What a tale!,3,300
+84,ナビ選択時,,,SelfIntro_solo_05,If only I<br>were a little bigger<br>……I'd fight too!,3,300
+85,シーン：ホーム,進入回数：1,,LoginNormal_01,Hello、<br>How are you doing today～?,4,400
+86,シーン：ホーム,進入回数：1,,LoginNormal_02,OK、<br>Good luck～,4,400
+87,シーン：ホーム,進入回数：1,,LoginNormal_03,Maya will<br>also help～,4,400
+88,タッチ,,,TouchVoiceNormal_solo_01,What～、<br>What is it～?,4,400
+89,タッチ,,,TouchVoiceNormal_solo_02,Ahh!　<br>You scared me～,4,400
+90,タッチ,,,TouchVoiceNormal_solo_03,What what、<br>what is it?,4,400
+91,タッチ,,,TouchVoiceNormal_solo_04,Did you see my<br>……secret collection?,4,400
+92,タッチ,,,TouchVoiceNormal_solo_05,Uohh!　<br>!!!<br>What are you doing～!?,4,400
+93,タッチ,,,TouchVoiceNormal_solo_07,Yes、<br>You called<br>for Maya?,4,400
+94,タッチ,,,TouchVoiceNormal_solo_08,Perhaps、<br>Chronos is<br>busy too～?,4,400
+95,タッチ,,,TouchVoiceNormal_solo_09,I wonder<br>if there's<br>anything cool～?,4,400
+96,タッチ,,,TouchVoiceNormal_solo_010,Let me<br>know what you're<br>going to do today, OK?,4,400
+97,タッチ,,,TouchVoiceNormal_solo_011,Yes!<br>You called!<br>……just kidding～,4,400
+98,タッチ,,,TouchVoiceNormal_solo_012,……Hmm!?　<br>I'm not sleeping?　<br>Hmm……,4,400
+99,タッチ,,,TouchVoiceNormal_solo_013,OK～、<br>Napping<br>with Maya～?,4,400
+100,タッチ,,,TouchVoiceNormal_solo_014,If Chronos<br>asks me for a favor、<br>I'll help～,4,400
+101,タッチ,,,TouchVoiceNormal_solo_016,Chronos、<br>What are you doing?　<br>Want to play?,4,400
+102,タッチ,,,TouchVoiceNormal_solo_018,Even Maya does it<br>when she has to～♪,4,400
+103,タッチ,,,TouchVoiceNormal_solo_019,Hmm!?　<br>W-What did you just do!,4,400
+104,タッチ,,,TouchVoiceNormal_solo_020,Hmm、<br>Chronos is a <br>T～E～A～S～E!,4,400
+105,時間経過：60,,,TouchVoiceNormal_solo_017,Hey、<br>Hey、<br>Chronos～……,4,400
+106,時間経過：60,,,TouchVoiceNormal_solo_015,Chronos～、<br>Take it easy～,4,400
+107,時間経過：60,,,TouchVoiceNormal_solo_06,……zzz<br>……zzz<br>……so……sleepy.,4,400
+108,ナビ選択時,,,SelfIntro_solo_01,I'm Maya。<br>One of the<br>youngest time fairies,4,400
+109,ナビ選択時,,,SelfIntro_solo_02,Chronos and<br>everyone<br>get along～!,4,400
+110,ナビ選択時,,,SelfIntro_solo_03,Hey hey、That's rare……<br>let me see♪,4,400
+111,ナビ選択時,,,SelfIntro_solo_04,It's no use～、<br>but Maya can help!,4,400
+112,ナビ選択時,,,SelfIntro_solo_05,Even Maya does it<br>when she has to～!,4,400

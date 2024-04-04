@@ -1,0 +1,59 @@
+{
+	"NaviCostumeList" : [
+		{
+			"id" : 100,
+			"name" : "Basic Costume (Fallon)",
+			"viewPriority" : 0,
+			"selecticon" : "character_cmn_B_navi_01_a",
+			"prefabName" : "CMN_NaviChara_01_01",
+			"gachaImage" : "CMN_Cutin_ExpectRare_01_01",
+			"description" : "Fallon's Basic Costume.\nThis is the description for the costume exchange screen.",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		},
+		{
+			"id" : 101,
+			"name" : "Puchi Fallon",
+			"viewPriority" : 0,
+			"selecticon" : "navi_cmn_SD_01",
+			"prefabName" : "CMN_NaviChara_01_01",
+			"gachaImage" : "CMN_Cutin_ExpectRare_01_01",
+			"description" : "For costume change test",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		},
+		{
+			"id" : 200,
+			"name" : "Basic Costume (Rena)",
+			"viewPriority" : 1,
+			"selecticon" : "character_cmn_B_navi_02_a",
+			"prefabName" : "CMN_NaviChara_02_01",
+			"gachaImage" : "CMN_Cutin_ExpectRare_02_01",
+			"description" : "Rena's Basic Costume.\nThis is the description for the costume exchange screen.",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		},
+		{
+			"id" : 300,
+			"name" : "Basic Costume (Astrea)",
+			"viewPriority" : 2,
+			"selecticon" : "character_cmn_B_navi_03_a",
+			"prefabName" : "CMN_NaviChara_03_01",
+			"gachaImage" : "CMN_Cutin_ExpectRare_03_01",
+			"description" : "Astrea's Basic Costume.\nThis is the description for the costume exchange screen.",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		},
+		{
+			"id" : 400,
+			"name" : "Basic Costume (Mia)",
+			"viewPriority" : 3,
+			"selecticon" : "character_cmn_B_navi_04_a",
+			"prefabName" : "CMN_NaviChara_04_01",
+			"gachaImage" : "CMN_Cutin_ExpectRare_04_01",
+			"description" : "Mia's Basic Costume.\nThis is the description for the costume exchange screen.",
+			"startDate" : 1545264000000,
+			"newEndDate" : 1565881200000
+		}
+	]
+}

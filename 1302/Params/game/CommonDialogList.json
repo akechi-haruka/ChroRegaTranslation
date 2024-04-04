@@ -37,7 +37,7 @@
 		{
 			"id" : 3,
 			"name" : "NoMatchingToComBattle",
-			"message" : "Because an opponent could not be found,\nthe game will switch to COM Battle.\n\n* The game will continue to search for opponents",
+			"message" : "Because an opponent could not be found,\nthe game will switch to COM Battle.",
 			"dialogType" : 0,
 			"buttonType" : 2,
 			"textAlignType" : 1,
@@ -302,7 +302,7 @@
 		{
 			"id" : 27,
 			"name" : "RestoreCP",
-			"message" : "Unused CP have been\nretained as log out was\nunsuccessful last play.\n",
+			"message" : "Unused CP has been\nretained as log out was\nunsuccessful last play.\n",
 			"dialogType" : 0,
 			"buttonType" : 1,
 			"textAlignType" : 1,
@@ -337,7 +337,7 @@
 		{
 			"id" : 500,
 			"name" : "NetworkError",
-			"message" : "Network error has occured.\nReturning to title screen.\nIf you have unused CP,\nrelogin at this cabinet to claim them.",
+			"message" : "Network error has occured.\nReturning to title screen.\nIf you have unused CP,\nrelogin at this cabinet to claim it.",
 			"dialogType" : 1,
 			"buttonType" : 2,
 			"textAlignType" : 1,
