@@ -18,3 +18,9 @@
 ～ＣＬＩＭＡＸについて～=～ About CLIMAX ～
 ～ユニットの特徴について～=～ Unit Characteristics ～
 ～神器について～=～ SACRED Treasure ～
+
+初回プレイ特典として\r\n100CPをプレゼントいたします。=You have obtained 100CP as a bonus for your first play!
+初回プレイ特典=First Play Bonus
+
+チュートリアル終了により、Mishaがパーティー編成で使用できるようになりました。=For completing the tutorial, you can now use Misha in your party formation.
+Mishaの特徴=Features of Misha

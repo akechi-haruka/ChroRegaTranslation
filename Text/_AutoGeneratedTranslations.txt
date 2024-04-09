@@ -9,7 +9,6 @@
 カードセット編集=Card set editing
 テストだよ=It's a test
 テストテストテスト　テストテストテスト　テストテス\nテストテストテスト　テストテストテスト　テストテス\nテストテストテスト　テストテストテスト　テストテス=Test test test test test testes\nTest test test test test testes\nTest test test test test testes
-開始=start
 1.チユートリアルタイトル開始=1. Start Chiyutorial title
 300CP交代台=300cp replacement stand
 閉店まであと60分です。あと40分でログインが出来なくなります。=It is only 60 minutes to close. You will not be able to log in in 40 minutes.
@@ -73,3 +72,11 @@ Nameplate: 境地に至りし者=Nameplate: Persons
 特殊効果なし=No special effects
 アプリ動作中にキーチップが取り外されました=The key chip was removed during the app operation
 Aime、おサイフケータイをタッチしてください。\r\n=Please touch AIME and Osaifu -Keitai.\r\n
+あまりにも驚きの白さ=Too surprising whitish
+カードを使うことで\nユニットに指示を出します=Give instructions to the unit by using a card
+時間停止１=Time suspension 1
+自ユニット全体の攻撃力を＋20する=+20 the attack power of the entire unit
+残り999回=999 times left
+
+{{A}} 2024/03/31 26:00:00 ～ 2024/04/29 26:00:00={{A}} 2024/03/31 26:00:00 ～ 2024/04/29 26:00:00
+

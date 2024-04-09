@@ -23,3 +23,5 @@ MPに\n変換=MP\nConvert
 残り　　  カウント\n=　　  Counts!!\n
 道具使用中=Using Tool
 対戦相手の戦闘準備を待っています。=Waiting for your opponent to prepare for battle...
+
+r:"^レベル([0-9]+)で使用可能$"=Requires Level $1

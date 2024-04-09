@@ -1,6 +1,7 @@
 Aimeをお持ちのかた=Use an Aime Card
 現在オフラインのため\r\nAimeを使ったプレイはできません。=Aime cannot be used as\r\nthis cabinet is offline.
 ゲームの開始=Start
+開始=Start
 Aimeをタッチしてください。=Please touch an Aime Card.
 初回プレイ無料!=First play is free!
 Aimeをお持ちでないかた=No Aime Card?

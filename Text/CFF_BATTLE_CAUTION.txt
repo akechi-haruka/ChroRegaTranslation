@@ -1,5 +1,5 @@
 
-Unusable in sortie
+Unusable while deployed
 Unusable in battle
 Level too low
 Not enough MP

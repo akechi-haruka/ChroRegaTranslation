@@ -27,3 +27,5 @@ ALL.Net認証=ALL.Net Authentication
 店内LAN=In-Store LAN
 ゲートウェイ=Gateway
 IPアドレス=IP Address
+
+効果= effect

@@ -2,3 +2,4 @@
 Aimeがあれば初回プレイ無料!=Scan a new Aime Card for a free play!
 お知らせ=Notice
 オフラインのためAimeを使用できません。=Because the game is in offline mode, Aime cannot be used.
+I/O ボードを認識していません=I/O Board Error (Check GMG Wiki for solutions)
