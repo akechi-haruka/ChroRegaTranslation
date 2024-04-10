@@ -3,11 +3,16 @@ Chrono Regalia English Translation
 
 This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
+Translation and option files for Chrono Regalia.
+
 -------------
 
 Installation:
 
-Translation and option files for Chrono Regalia.
+For the full package including game tools, see this project:
+https://github.com/akechi-haruka/ChronoCoreFixes
+
+For a manual install/update: 
 
 Put "Text" under BepInEx/Translation/en/Text.
 Put "1302" under Option.
