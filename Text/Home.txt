@@ -80,3 +80,12 @@ CPを使ってストーリーを開始します。<br>対戦後にカードを�
 ゲストプレイ中は選択不可=Mode unavailable during guest play
 CPを使ってチュートリアルを開始します。=Start the game tutorial using CP.
 チュートリアル開始=Start Tutorial
+
+
+設定中の称号=Current Title
+獲得した称号=Obtained Title
+称号を獲得しました。\n称号を付け替えますか？=You have obtained a title.\nDo you want to change the title?
+※クロレガ.NETでいつでも付け替えることができます。\r=※ You can replace it at any time with CHROREGA.NET.\r
+称号獲得=Title Acquisition
+
+タイムアウトしたため、<br>ログアウトします。<br>※残ったCPはSummon Assist Ticketに変換されます。=You will be logged out due to a timeout.<br>※ The remaining CP are converted to Summon Assist Tickets.
