@@ -24,6 +24,7 @@
 				"GAME SYSTEM STATUS",
 				"HARDWARE STATUS",
 				"HARDWARE TEST",
+				"CLOSE SETTING",
 				"TOUCH PANEL ADJUSTMENT",
 				"NETWORK TEST",
 				"ALL.Net ACCOUNTING STATUS",
@@ -630,6 +631,83 @@
 			"footerStr" : [
 			],
 			"contentNames" : [
+			]
+		},
+		{
+			"id" : 27,
+			"name" : "CloseSetting",
+			"titleName" : [
+				"CLOSE SETTING",
+				"CLOSE SETTING"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 0,
+			"decideButtonEnabled" : 0,
+			"footerStr" : [
+			],
+			"contentNames" : [
+			]
+		},
+		{
+			"id" : 28,
+			"name" : "CloseSettingDay",
+			"titleName" : [
+				"CLOSE SETTING",
+				"CLOSE SETTING"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"SCHEDULE TYPE DAY",
+				"DAY HOUR",
+				"DAY MINUTE",
+				"DAY DEFAULT",
+				"EXIT"
+			]
+		},
+		{
+			"id" : 29,
+			"name" : "CloseSettingWeek",
+			"titleName" : [
+				"CLOSE SETTING",
+				"CLOSE SETTING"
+			],
+			"!pageType" : "選択ページ",
+			"pageType" : 0,
+			"nextSceneName" : -1,
+			"nextButtonEnabled" : 1,
+			"decideButtonEnabled" : 1,
+			"footerStr" : [
+				"SELECT WITH SERVICE BUTTON AND PRESS TEST BUTTON",
+				"PRESS SERVICE BUTTON TO SELECT\nPRESS TEST BUTTON TO CONFIRM"
+			],
+			"contentNames" : [
+				"SCHEDULE TYPE WEEK",
+				"SUN HOUR",
+				"SUN MINUTE",
+				"MON HOUR",
+				"MON MINUTE",
+				"TUE HOUR",
+				"TUE MINUTE",
+				"WED HOUR",
+				"WED MINUTE",
+				"THU HOUR",
+				"THU MINUTE",
+				"FRI HOUR",
+				"FRI MINUTE",
+				"SAT HOUR",
+				"SAT MINUTE",
+				"WEEK DEFAULT",
+				"EXIT"
 			]
 		}
 	]
