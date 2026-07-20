@@ -1,0 +1,11 @@
+毎日=DAILY
+曜日別=BY WEEKDAY
+
+取引日時\n=DATE\n
+結果\n=RESULT\n
+取引通番\n=TRANSACTION NUMBER\n
+カード番号\n=CARD NUMBER\n
+ブランド\n=BRAND\n
+取引金額\n=AMOUNT\n
+取引前残高\n=BALANCE\n
+取引後残高\n=REMAINING\n

@@ -38,3 +38,5 @@ CPが足りません=Not enough CP
 新規登録の完了=Registration Complete
 r:"^プレイヤー：(.*?)\n\n\nこちらのAimeでログインを行います。$"=Player: $1\n\n\nLog in with this Aime?
 r:"^プレイヤー：(.*?)\n\nゲームデータの登録が完了しました。$"=Player: $1\n\nGame data registration has been completed.
+スタート=Start
+100CPをプレゼントしました！\nゲームをスタートします。=We gave away 100CP!
